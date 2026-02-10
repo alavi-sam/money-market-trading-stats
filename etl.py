@@ -295,38 +295,61 @@ if __name__ == '__main__':
 
     mmkt_sheets = [clean_mmkt_sheet(os.path.join('raw_data', path)) for path in data_files]  
     df_mmkt = pd.concat(mmkt_sheets).sort_values(by=['date', 'instruments'])
+    df_mmkt['Segment'] = 'MMKT'
     df_mmkt.to_csv(os.path.join('processed_data', 'MMKT.csv'))
 
     bond_sheets = [clean_bond_sheet(os.path.join('raw_data', path)) for path in data_files]
     df_bond = pd.concat(bond_sheets).sort_values(by=['date', 'instruments'])
+    df_bond['Segment'] = 'BOND'
+    df_bond['AssetClass'] = df_bond['instruments'].str.split('_').map(lambda x: x[0])
+    df_bond['Duration'] = df_bond['instruments'].str.split('_').map(lambda x: x[1])
     df_bond.to_csv(os.path.join('processed_data', 'BOND.csv'))
 
     govt_sheets = [clean_govt_sheet(os.path.join('raw_data', path)) for path in data_files]
     df_govt = pd.concat(govt_sheets).sort_values(by=['date', 'instruments'])
+    df_govt['Segment'] = 'GOVT'
+    df_govt['AssetClass'] = df_govt['instruments'].str.split('_').map(lambda x: x[0])
+    df_govt['Duration'] = df_govt['instruments'].str.split('_').map(lambda x: x[1])
     df_govt.to_csv(os.path.join('processed_data', 'GOVT.csv'))
 
     fed_prov_sheets = [clean_fed_prov_sheet(os.path.join('raw_data', path)) for path in data_files]
     df_fed_prov = pd.concat(fed_prov_sheets).sort_values(by=['date', 'instruments'])
+    df_fed_prov['Segment'] = 'FED_PROV'
+    df_fed_prov['AssetClass'] = df_fed_prov['instruments'].str.split('_').map(lambda x: x[0])
+    df_fed_prov['Duration'] = df_fed_prov['instruments'].str.split('_').map(lambda x: x[1])
     df_fed_prov.to_csv(os.path.join('processed_data', 'FED_PROV.csv'))
 
     strip_muni_sheets = [clean_strip_muni_sheet(os.path.join('raw_data', path)) for path in data_files]
     df_strip_muni = pd.concat(strip_muni_sheets).sort_values(by=['date', 'instruments'])
+    df_strip_muni['Segment'] = 'STRIP_MUNI'
+    df_strip_muni['AssetClass'] = df_strip_muni['instruments'].str.split('_').map(lambda x: x[0])
+    df_strip_muni['Duration'] = df_strip_muni['instruments'].str.split('_').map(lambda x: x[1])
     df_strip_muni.to_csv(os.path.join('processed_data', 'STRIP_MUNI.csv'))
 
     corp_sheets = [clean_corp_sheet(os.path.join('raw_data', path)) for path in data_files]
     df_corp = pd.concat(corp_sheets).sort_values(by=['date', 'instruments'])
+    df_corp['Segment'] = 'CORP'
+    df_corp['AssetClass'] = df_corp['instruments'].str.split('_').map(lambda x: x[0])
+    df_corp['Duration'] = df_corp['instruments'].str.split('_').map(lambda x: x[1])
     df_corp.to_csv(os.path.join('processed_data', 'CORP.csv'))
 
     mbs_abs_sheets = [clean_mbs_abs_sheet(os.path.join('raw_data', path)) for path in data_files]
     df_mbs_abs = pd.concat(mbs_abs_sheets).sort_values(by=['date', 'instruments'])
+    df_mbs_abs['Segment'] = 'MBS_ABS'
+    df_mbs_abs['AssetClass'] = df_mbs_abs['instruments'].str.split('_').map(lambda x: x[0])
+    df_mbs_abs['Duration'] = df_mbs_abs['instruments'].str.split('_').map(lambda x: x[1])
     df_mbs_abs.to_csv(os.path.join('processed_data', 'MBS_ABS.csv'))
 
     bond_repo_sheets = [clean_bonds_repo_sheet(os.path.join('raw_data', path)) for path in data_files]
     df_bond_repo = pd.concat(bond_repo_sheets).sort_values(by=['date', 'instruments'])
+    df_bond_repo['Segment'] = 'BOND_REPO'
+    df_bond_repo['AssetClass'] = df_bond_repo['instruments'].str.split('_').map(lambda x: x[0])
+    df_bond_repo['Duration'] = df_bond_repo['instruments'].str.split('_').map(lambda x: x[1])
     df_bond_repo.to_csv(os.path.join('processed_data', 'BOND_REPO.csv'))
 
     mmkt_repo_sheets =[clean_mmkt_repo_sheet(os.path.join('raw_data', path)) for path in data_files]
     df_mmkt_repo = pd.concat(mmkt_repo_sheets).sort_values(by=['date', 'instruments'])
+    df_mmkt_repo['Segment'] = 'MMKT_REPO'
     df_mmkt_repo.to_csv(os.path.join('processed_data', 'MMKT_REPO.csv'))
 
     # print(df_mmkt_repo)
