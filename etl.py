@@ -28,11 +28,20 @@ month_dict = {
 
 
 def clean_mmkt_sheet(path):
-    df = pd.read_excel(path, sheet_name='MMKT', skiprows=4, skipfooter=5)
-    df.columns = [col.split(' / ')[0].strip() for col in df.columns]
-    df.drop([df.columns[0], df.columns[2]], axis=1, inplace=True)
-    df = df[~df['The Month'].isna()]
-    df = df[~df['The Month'].str.startswith('Q') & ~df['The Month'].str.startswith('TOTAL')]
+    if find_year(path) < 2020:
+        df = pd.read_excel(path, sheet_name='MMKT', skiprows=5, header=None)
+        df.iloc[0, 0] = 'The Month'
+        df.columns = df.iloc[0]
+        df = df.iloc[1:]
+        df.columns = [col.split(' / ')[0].strip() for col in df.columns]
+        df = df[~df['The Month'].isna()]
+        df = df[~df['The Month'].str.startswith('Q') & ~df['The Month'].str.startswith('TOTAL')]
+    else:
+        df = pd.read_excel(path, sheet_name='MMKT', skiprows=4, skipfooter=5)   
+        df.columns = [col.split(' / ')[0].strip() for col in df.columns]
+        df.drop([df.columns[0], df.columns[2]], axis=1, inplace=True)
+        df = df[~df['The Month'].isna()]
+        df = df[~df['The Month'].str.startswith('Q') & ~df['The Month'].str.startswith('TOTAL')]
     df.fillna(0, inplace=True)
     df.reset_index(drop=True, inplace=True)
     df['month'] = df['The Month'].str.split('/').map(lambda x: month_dict[x[0].strip()])
@@ -41,13 +50,16 @@ def clean_mmkt_sheet(path):
     df['date'] = pd.to_datetime(df['month'] + '-' + df['year']).dt.date
     df.drop(columns=['The Month', 'TOTAL'], inplace=True)
     df_melted = df.melt(id_vars=['date', 'month', 'year'], 
-                        var_name='instrument', 
+                        var_name='instruments', 
                         value_name='volume')
     return df_melted
 
 
 def clean_govt_sheet(path):
-    df = pd.read_excel(path, sheet_name='GOVT', skiprows=7, skipfooter=5, header=None)
+    if find_year(path) < 2020:
+        df = pd.read_excel(path, sheet_name='GOVT', skiprows=5, header=None)
+    else:
+        df = pd.read_excel(path, sheet_name='GOVT', skiprows=7, skipfooter=5, header=None)
     df.iloc[0, 0] = 'The Month'
     df.drop(1, axis=1, inplace=True)
     parent_header = df.iloc[0].ffill().str.split(' / ').map(lambda x: x[0])
@@ -70,7 +82,11 @@ def clean_govt_sheet(path):
     
 
 def clean_bond_sheet(path):
-    df = pd.read_excel(path, sheet_name='BOND', skiprows=5, skipfooter=5, header=None)
+
+    if find_year(path) < 2020:
+        df = pd.read_excel(path, sheet_name='BOND', skiprows=5, header=None)
+    else:
+        df = pd.read_excel(path, sheet_name='BOND', skiprows=5, skipfooter=5, header=None)
     df.iloc[0, 0] = 'The Month'
     df.drop([1, 2], axis=1, inplace=True)
     parent_header = df.iloc[0].ffill().str.split(' / ').map(lambda x: x[0])
@@ -93,7 +109,11 @@ def clean_bond_sheet(path):
 
 
 def clean_fed_prov_sheet(path):
-    df = pd.read_excel(path, sheet_name='FED_PROV', skiprows=8, skipfooter=5, header=None)
+    if find_year(path) < 2020:
+        df = pd.read_excel(path, sheet_name='FED_PROV', skiprows=5, header=None)
+
+    else:
+        df = pd.read_excel(path, sheet_name='FED_PROV', skiprows=8, skipfooter=5, header=None)
 
     df.iloc[0, 0] = 'The Month'
     df.drop([1], axis=1, inplace=True)
@@ -116,9 +136,11 @@ def clean_fed_prov_sheet(path):
     return df_melted
 
 
-
 def clean_strip_muni_sheet(path):
-    df = pd.read_excel(path, sheet_name='STRIP_MUNI', skiprows=8, skipfooter=5, header=None)
+    if find_year(path) < 2020:
+        df = pd.read_excel(path, sheet_name='STRIP_MUNI', skiprows=5, header=None)
+    else:
+        df = pd.read_excel(path, sheet_name='STRIP_MUNI', skiprows=8, skipfooter=5, header=None)
 
     df.iloc[0, 0] = 'The Month'
     df.drop([1], axis=1, inplace=True)
@@ -142,7 +164,10 @@ def clean_strip_muni_sheet(path):
 
 
 def clean_corp_sheet(path):
-    df = pd.read_excel(path, sheet_name='CORP', skiprows=8, skipfooter=5, header=None)
+    if find_year(path) < 2020:
+        df = pd.read_excel(path, sheet_name='CORP', skiprows=5, header=None)
+    else:
+        df = pd.read_excel(path, sheet_name='CORP', skiprows=8, skipfooter=5, header=None)
     df.iloc[0, 0] = 'The Month'
     df.drop([1], axis=1, inplace=True)
     parent_header = df.iloc[0].ffill().str.split(' / ').map(lambda x: x[0])
@@ -166,7 +191,10 @@ def clean_corp_sheet(path):
     
 
 def clean_mbs_abs_sheet(path):
-    df = pd.read_excel(path, sheet_name='MBS_ABS', skiprows=8, skipfooter=5, header=None)
+    if find_year(path) < 2020:
+        df = pd.read_excel(path, sheet_name='MBS_ABS', skiprows=5, header=None)
+    else:
+        df = pd.read_excel(path, sheet_name='MBS_ABS', skiprows=8, skipfooter=5, header=None)
     df.iloc[0, 0] = 'The Month'
     df.drop([1], axis=1, inplace=True)
     parent_header = df.iloc[0].ffill().str.split(' / ').map(lambda x: x[0])
@@ -189,9 +217,11 @@ def clean_mbs_abs_sheet(path):
     return df_melted
 
 
-
 def clean_bonds_repo_sheet(path):
-    df = pd.read_excel(path, sheet_name='BOND_REPO', skiprows=5, skipfooter=5, header=None)
+    if find_year(path) < 2020:
+        df = pd.read_excel(path, sheet_name='BOND_REPO', skiprows=5, header=None)
+    else:
+        df = pd.read_excel(path, sheet_name='BOND_REPO', skiprows=5, skipfooter=5, header=None)
     df.iloc[0, 0] = 'The Month'
     df.drop([1, 2], axis=1, inplace=True)
     parent_header = df.iloc[0].ffill().str.split(' / ').map(lambda x: x[0])
@@ -213,13 +243,21 @@ def clean_bonds_repo_sheet(path):
     return df_melted
 
 
-
 def clean_mmkt_repo_sheet(path):
-    df = pd.read_excel(path, sheet_name='MMKT_REPO', skiprows=5, skipfooter=5)
-    df.columns = [col.split(' / ')[0].strip() for col in df.columns]
-    df.drop([df.columns[1]], axis=1, inplace=True)
-    df = df[~df['The Month'].isna()]
-    df = df[~df['The Month'].str.startswith('Q') & ~df['The Month'].str.startswith('TOTAL')]
+    if find_year(path) < 2020:
+        df = pd.read_excel(path, sheet_name='MMKT_REPO', skiprows=5, header=None)
+        df.iloc[0, 0] = 'The Month'
+        df.columns = df.iloc[0]
+        df = df.iloc[1:]
+        df.columns = [col.split(' / ')[0].strip() for col in df.columns]
+        df = df[~df['The Month'].isna()]
+        df = df[~df['The Month'].str.startswith('Q') & ~df['The Month'].str.startswith('TOTAL')]
+    else:
+        df = pd.read_excel(path, sheet_name='MMKT_REPO', skiprows=5, skipfooter=5)    
+        df.columns = [col.split(' / ')[0].strip() for col in df.columns]
+        df.drop([df.columns[1]], axis=1, inplace=True)
+        df = df[~df['The Month'].isna()]
+        df = df[~df['The Month'].str.startswith('Q') & ~df['The Month'].str.startswith('TOTAL')]
     df.fillna(0, inplace=True)
     df.reset_index(drop=True, inplace=True)
     df['month'] = df['The Month'].str.split('/').map(lambda x: month_dict[x[0].strip()])
@@ -233,7 +271,44 @@ def clean_mmkt_repo_sheet(path):
                         value_name='volume')
     return df_melted
 
+if __name__ == '__main__':
+    data_files = os.listdir("raw_data")
+    os.makedirs('processed_data', exist_ok=True)
 
-path = 'raw_data/2024-Bond-and-Money-Market-Secondary-Trading-Statistics.xlsx'
+    mmkt_sheets = [clean_mmkt_sheet(os.path.join('raw_data', path)) for path in data_files]  
+    df_mmkt = pd.concat(mmkt_sheets).sort_values(by=['date', 'instruments'])
+    df_mmkt.to_csv(os.path.join('processed_data', 'MMKT.csv'))
 
-print(clean_mmkt_repo_sheet(path))
+    bond_sheets = [clean_bond_sheet(os.path.join('raw_data', path)) for path in data_files]
+    df_bond = pd.concat(bond_sheets).sort_values(by=['date', 'instruments'])
+    df_bond.to_csv(os.path.join('processed_data', 'BOND.csv'))
+
+    govt_sheets = [clean_govt_sheet(os.path.join('raw_data', path)) for path in data_files]
+    df_govt = pd.concat(govt_sheets).sort_values(by=['date', 'instruments'])
+    df_govt.to_csv(os.path.join('processed_data', 'GOVT.csv'))
+
+    fed_prov_sheets = [clean_fed_prov_sheet(os.path.join('raw_data', path)) for path in data_files]
+    df_fed_prov = pd.concat(fed_prov_sheets).sort_values(by=['date', 'instruments'])
+    df_fed_prov.to_csv(os.path.join('processed_data', 'FED_PROV.csv'))
+
+    strip_muni_sheets = [clean_strip_muni_sheet(os.path.join('raw_data', path)) for path in data_files]
+    df_strip_muni = pd.concat(strip_muni_sheets).sort_values(by=['date', 'instruments'])
+    df_strip_muni.to_csv(os.path.join('processed_data', 'STRIP_MUNI.csv'))
+
+    corp_sheets = [clean_corp_sheet(os.path.join('raw_data', path)) for path in data_files]
+    df_corp = pd.concat(corp_sheets).sort_values(by=['date', 'instruments'])
+    df_corp.to_csv(os.path.join('processed_data', 'CORP.csv'))
+
+    mbs_abs_sheets = [clean_mbs_abs_sheet(os.path.join('raw_data', path)) for path in data_files]
+    df_mbs_abs = pd.concat(mbs_abs_sheets).sort_values(by=['date', 'instruments'])
+    df_mbs_abs.to_csv(os.path.join('processed_data', 'MBS_ABS.csv'))
+
+    bond_repo_sheets = [clean_bonds_repo_sheet(os.path.join('raw_data', path)) for path in data_files]
+    df_bond_repo = pd.concat(bond_repo_sheets).sort_values(by=['date', 'instruments'])
+    df_bond_repo.to_csv(os.path.join('processed_data', 'BOND_REPO.csv'))
+
+    mmkt_repo_sheets =[clean_mmkt_repo_sheet(os.path.join('raw_data', path)) for path in data_files]
+    df_mmkt_repo = pd.concat(mmkt_repo_sheets).sort_values(by=['date', 'instruments'])
+    df_mmkt_repo.to_csv(os.path.join('processed_data', 'MMKT_REPO.csv'))
+
+    # print(df_mmkt_repo)
