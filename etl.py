@@ -3,14 +3,15 @@ import os
 import re
 import datetime
 
-
+# List all files in raw_data directory
 data_files = os.listdir("raw_data")
 
 def find_year(file):
+    """Extract year from filename"""
     span = re.search(r'\d{4}', file).span()
     return int(file[span[0]: span[1]])
 
-
+# Map month names to numbers
 month_dict = {
     'January': 1,
     'February': 2,
@@ -28,6 +29,7 @@ month_dict = {
 
 
 def clean_mmkt_sheet(path):
+    """Clean money market trading data sheet"""
     if find_year(path) < 2020:
         df = pd.read_excel(path, sheet_name='MMKT', skiprows=5, header=None)
         df.iloc[0, 0] = 'The Month'
@@ -56,6 +58,7 @@ def clean_mmkt_sheet(path):
 
 
 def clean_govt_sheet(path):
+    """Clean government bond trading data sheet"""
     if find_year(path) < 2020:
         df = pd.read_excel(path, sheet_name='GOVT', skiprows=5, header=None)
     else:
@@ -82,7 +85,7 @@ def clean_govt_sheet(path):
     
 
 def clean_bond_sheet(path):
-
+    """Clean bond trading data sheet"""
     if find_year(path) < 2020:
         df = pd.read_excel(path, sheet_name='BOND', skiprows=5, header=None)
     else:
@@ -109,6 +112,7 @@ def clean_bond_sheet(path):
 
 
 def clean_fed_prov_sheet(path):
+    """Clean federal/provincial bond trading data sheet"""
     if find_year(path) < 2020:
         df = pd.read_excel(path, sheet_name='FED_PROV', skiprows=5, header=None)
 
@@ -137,6 +141,7 @@ def clean_fed_prov_sheet(path):
 
 
 def clean_strip_muni_sheet(path):
+    """Clean STRIP and municipal bond trading data sheet"""
     if find_year(path) < 2020:
         df = pd.read_excel(path, sheet_name='STRIP_MUNI', skiprows=5, header=None)
     else:
@@ -164,6 +169,7 @@ def clean_strip_muni_sheet(path):
 
 
 def clean_corp_sheet(path):
+    """Clean corporate bond trading data sheet"""
     if find_year(path) < 2020:
         df = pd.read_excel(path, sheet_name='CORP', skiprows=5, header=None)
     else:
@@ -191,6 +197,7 @@ def clean_corp_sheet(path):
     
 
 def clean_mbs_abs_sheet(path):
+    """Clean MBS/ABS trading data sheet"""
     if find_year(path) < 2020:
         df = pd.read_excel(path, sheet_name='MBS_ABS', skiprows=5, header=None)
     else:
@@ -218,6 +225,7 @@ def clean_mbs_abs_sheet(path):
 
 
 def clean_bonds_repo_sheet(path):
+    """Clean bond repo trading data sheet"""
     if find_year(path) < 2020:
         df = pd.read_excel(path, sheet_name='BOND_REPO', skiprows=5, header=None)
     else:
@@ -244,6 +252,7 @@ def clean_bonds_repo_sheet(path):
 
 
 def clean_mmkt_repo_sheet(path):
+    """Clean money market repo trading data sheet"""
     if find_year(path) < 2020:
         df = pd.read_excel(path, sheet_name='MMKT_REPO', skiprows=5, header=None)
         df.iloc[0, 0] = 'The Month'
@@ -272,6 +281,7 @@ def clean_mmkt_repo_sheet(path):
     return df_melted
 
 if __name__ == '__main__':
+    # Process all Excel files and output to CSV
     data_files = os.listdir("raw_data")
     os.makedirs('processed_data', exist_ok=True)
 
