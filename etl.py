@@ -140,6 +140,32 @@ def clean_strip_muni_sheet(path):
     df_melted = df.melt(id_vars=['date', 'month', 'year'], var_name='instruments', value_name='volume')
     return df_melted
 
+
+def clean_corp_sheet(path):
+    df = pd.read_excel(path, sheet_name='CORP', skiprows=8, skipfooter=5, header=None)
+    df.iloc[0, 0] = 'The Month'
+    df.drop([1], axis=1, inplace=True)
+    parent_header = df.iloc[0].ffill().str.split(' / ').map(lambda x: x[0])
+    child_header = df.iloc[1].fillna('').str.split(' / ').map(lambda x: x[0])
+    df = df.iloc[2:]
+    df.columns = parent_header + '_' + child_header
+    df = df[~df['The Month_'].str.startswith('TOTAL') & ~df['The Month_'].str.startswith('Q')]
+    df = df[~df['The Month_'].isna()]
+    df['month'] = df['The Month_'].str.split(' / ').map(lambda x: month_dict[x[0].strip()])
+    df['year'] = df['The Month_'].str[-4:]
+    cols_to_keep = ['The Month_', 'month', 'year']
+    cols_to_keep += [col for col in df.columns[1:-2] if not (col.split('_')[1] == '' or col.split('_')[1] == 'TOTAL')]
+    df = df[cols_to_keep]
+    df['Other Domestic Bonds_Issuer'] = df['Other Domestic Bonds_Issuer'].astype('float') 
+    df.fillna(0, inplace=True)
+    df['month'] = df['month'].astype('str')
+    df['date'] = pd.to_datetime(df['month'] + '-' + df['year']).dt.date
+    df.drop('The Month_', axis=1, inplace=True)
+    df_melted = df.melt(id_vars=['date', 'month', 'year'], var_name='instruments', value_name='volume')
+    return df_melted
+    
+
+
 path = 'raw_data/2024-Bond-and-Money-Market-Secondary-Trading-Statistics.xlsx'
 
-print(clean_bond_sheet(path))
+print(clean_corp_sheet(path))
