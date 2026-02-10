@@ -108,11 +108,3 @@ See [requirements.txt](requirements.txt) for complete list.
 
 - Python 3.7+
 - All dependencies listed in requirements.txt
-
-## License
-
-[Add your license here]
-
-## Contributing
-
-[Add contribution guidelines here]
