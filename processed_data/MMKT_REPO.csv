@@ -1,0 +1,673 @@
+,date,month,year,instruments,volume
+60,2018-01-01,1,2018,Bank Paper,0
+36,2018-01-01,1,2018,Bankers’ Acceptances,0
+48,2018-01-01,1,2018,Commercial Paper and Asset Backed Commercial Paper,692
+12,2018-01-01,1,2018,Federal Crown Corporation Securities,6037
+0,2018-01-01,1,2018,Government of Canada Treasury Bills,102721
+72,2018-01-01,1,2018,Other Domestic Money Market Securities,158767
+24,2018-01-01,1,2018,Provincial Securities,12897
+61,2018-02-01,2,2018,Bank Paper,0
+37,2018-02-01,2,2018,Bankers’ Acceptances,0
+49,2018-02-01,2,2018,Commercial Paper and Asset Backed Commercial Paper,568
+13,2018-02-01,2,2018,Federal Crown Corporation Securities,2106
+1,2018-02-01,2,2018,Government of Canada Treasury Bills,84586
+73,2018-02-01,2,2018,Other Domestic Money Market Securities,156326
+25,2018-02-01,2,2018,Provincial Securities,8446
+62,2018-03-01,3,2018,Bank Paper,0
+38,2018-03-01,3,2018,Bankers’ Acceptances,0
+50,2018-03-01,3,2018,Commercial Paper and Asset Backed Commercial Paper,648
+14,2018-03-01,3,2018,Federal Crown Corporation Securities,29599
+2,2018-03-01,3,2018,Government of Canada Treasury Bills,84612
+74,2018-03-01,3,2018,Other Domestic Money Market Securities,144784
+26,2018-03-01,3,2018,Provincial Securities,11311
+63,2018-04-01,4,2018,Bank Paper,0
+39,2018-04-01,4,2018,Bankers’ Acceptances,0
+51,2018-04-01,4,2018,Commercial Paper and Asset Backed Commercial Paper,401
+15,2018-04-01,4,2018,Federal Crown Corporation Securities,8613
+3,2018-04-01,4,2018,Government of Canada Treasury Bills,73153
+75,2018-04-01,4,2018,Other Domestic Money Market Securities,157594
+27,2018-04-01,4,2018,Provincial Securities,11770
+64,2018-05-01,5,2018,Bank Paper,0
+40,2018-05-01,5,2018,Bankers’ Acceptances,279
+52,2018-05-01,5,2018,Commercial Paper and Asset Backed Commercial Paper,230
+16,2018-05-01,5,2018,Federal Crown Corporation Securities,13581
+4,2018-05-01,5,2018,Government of Canada Treasury Bills,75102
+76,2018-05-01,5,2018,Other Domestic Money Market Securities,159326
+28,2018-05-01,5,2018,Provincial Securities,8594
+65,2018-06-01,6,2018,Bank Paper,0
+41,2018-06-01,6,2018,Bankers’ Acceptances,282
+53,2018-06-01,6,2018,Commercial Paper and Asset Backed Commercial Paper,397
+17,2018-06-01,6,2018,Federal Crown Corporation Securities,8057
+5,2018-06-01,6,2018,Government of Canada Treasury Bills,69806
+77,2018-06-01,6,2018,Other Domestic Money Market Securities,143458
+29,2018-06-01,6,2018,Provincial Securities,18131
+66,2018-07-01,7,2018,Bank Paper,0
+42,2018-07-01,7,2018,Bankers’ Acceptances,0
+54,2018-07-01,7,2018,Commercial Paper and Asset Backed Commercial Paper,185
+18,2018-07-01,7,2018,Federal Crown Corporation Securities,5866
+6,2018-07-01,7,2018,Government of Canada Treasury Bills,76508
+78,2018-07-01,7,2018,Other Domestic Money Market Securities,153073
+30,2018-07-01,7,2018,Provincial Securities,17731
+67,2018-08-01,8,2018,Bank Paper,0
+43,2018-08-01,8,2018,Bankers’ Acceptances,0
+55,2018-08-01,8,2018,Commercial Paper and Asset Backed Commercial Paper,237
+19,2018-08-01,8,2018,Federal Crown Corporation Securities,8222
+7,2018-08-01,8,2018,Government of Canada Treasury Bills,71899
+79,2018-08-01,8,2018,Other Domestic Money Market Securities,177611
+31,2018-08-01,8,2018,Provincial Securities,21164
+68,2018-09-01,9,2018,Bank Paper,0
+44,2018-09-01,9,2018,Bankers’ Acceptances,0
+56,2018-09-01,9,2018,Commercial Paper and Asset Backed Commercial Paper,406
+20,2018-09-01,9,2018,Federal Crown Corporation Securities,11055
+8,2018-09-01,9,2018,Government of Canada Treasury Bills,93711
+80,2018-09-01,9,2018,Other Domestic Money Market Securities,180184
+32,2018-09-01,9,2018,Provincial Securities,23056
+69,2018-10-01,10,2018,Bank Paper,0
+45,2018-10-01,10,2018,Bankers’ Acceptances,0
+57,2018-10-01,10,2018,Commercial Paper and Asset Backed Commercial Paper,417
+21,2018-10-01,10,2018,Federal Crown Corporation Securities,20524
+9,2018-10-01,10,2018,Government of Canada Treasury Bills,118652
+81,2018-10-01,10,2018,Other Domestic Money Market Securities,187893
+33,2018-10-01,10,2018,Provincial Securities,18280
+70,2018-11-01,11,2018,Bank Paper,0
+46,2018-11-01,11,2018,Bankers’ Acceptances,0
+58,2018-11-01,11,2018,Commercial Paper and Asset Backed Commercial Paper,462
+22,2018-11-01,11,2018,Federal Crown Corporation Securities,18515
+10,2018-11-01,11,2018,Government of Canada Treasury Bills,131118
+82,2018-11-01,11,2018,Other Domestic Money Market Securities,169526
+34,2018-11-01,11,2018,Provincial Securities,22257
+71,2018-12-01,12,2018,Bank Paper,0
+47,2018-12-01,12,2018,Bankers’ Acceptances,0
+59,2018-12-01,12,2018,Commercial Paper and Asset Backed Commercial Paper,952
+23,2018-12-01,12,2018,Federal Crown Corporation Securities,16395
+11,2018-12-01,12,2018,Government of Canada Treasury Bills,102529
+83,2018-12-01,12,2018,Other Domestic Money Market Securities,129078
+35,2018-12-01,12,2018,Provincial Securities,9927
+60,2019-01-01,1,2019,Bank Paper,0
+36,2019-01-01,1,2019,Bankers’ Acceptances,150
+48,2019-01-01,1,2019,Commercial Paper and Asset Backed Commercial Paper,161
+12,2019-01-01,1,2019,Federal Crown Corporation Securities,18844
+0,2019-01-01,1,2019,Government of Canada Treasury Bills,138792
+72,2019-01-01,1,2019,Other Domestic Money Market Securities,126720
+24,2019-01-01,1,2019,Provincial Securities,7583
+61,2019-02-01,2,2019,Bank Paper,0
+37,2019-02-01,2,2019,Bankers’ Acceptances,0
+49,2019-02-01,2,2019,Commercial Paper and Asset Backed Commercial Paper,199
+13,2019-02-01,2,2019,Federal Crown Corporation Securities,18313
+1,2019-02-01,2,2019,Government of Canada Treasury Bills,108250
+73,2019-02-01,2,2019,Other Domestic Money Market Securities,150478
+25,2019-02-01,2,2019,Provincial Securities,5195
+62,2019-03-01,3,2019,Bank Paper,0
+38,2019-03-01,3,2019,Bankers’ Acceptances,0
+50,2019-03-01,3,2019,Commercial Paper and Asset Backed Commercial Paper,518
+14,2019-03-01,3,2019,Federal Crown Corporation Securities,18902
+2,2019-03-01,3,2019,Government of Canada Treasury Bills,122781
+74,2019-03-01,3,2019,Other Domestic Money Market Securities,163078
+26,2019-03-01,3,2019,Provincial Securities,6035
+63,2019-04-01,4,2019,Bank Paper,0
+39,2019-04-01,4,2019,Bankers’ Acceptances,1960
+51,2019-04-01,4,2019,Commercial Paper and Asset Backed Commercial Paper,305
+15,2019-04-01,4,2019,Federal Crown Corporation Securities,20557
+3,2019-04-01,4,2019,Government of Canada Treasury Bills,107881
+75,2019-04-01,4,2019,Other Domestic Money Market Securities,153848
+27,2019-04-01,4,2019,Provincial Securities,11388
+64,2019-05-01,5,2019,Bank Paper,0
+40,2019-05-01,5,2019,Bankers’ Acceptances,471
+52,2019-05-01,5,2019,Commercial Paper and Asset Backed Commercial Paper,97
+16,2019-05-01,5,2019,Federal Crown Corporation Securities,18058
+4,2019-05-01,5,2019,Government of Canada Treasury Bills,144001
+76,2019-05-01,5,2019,Other Domestic Money Market Securities,210651
+28,2019-05-01,5,2019,Provincial Securities,11023
+65,2019-06-01,6,2019,Bank Paper,0
+41,2019-06-01,6,2019,Bankers’ Acceptances,287
+53,2019-06-01,6,2019,Commercial Paper and Asset Backed Commercial Paper,177
+17,2019-06-01,6,2019,Federal Crown Corporation Securities,15039
+5,2019-06-01,6,2019,Government of Canada Treasury Bills,96977
+77,2019-06-01,6,2019,Other Domestic Money Market Securities,195433
+29,2019-06-01,6,2019,Provincial Securities,9984
+66,2019-07-01,7,2019,Bank Paper,30
+42,2019-07-01,7,2019,Bankers’ Acceptances,684
+54,2019-07-01,7,2019,Commercial Paper and Asset Backed Commercial Paper,399
+18,2019-07-01,7,2019,Federal Crown Corporation Securities,16817
+6,2019-07-01,7,2019,Government of Canada Treasury Bills,85454
+78,2019-07-01,7,2019,Other Domestic Money Market Securities,201430
+30,2019-07-01,7,2019,Provincial Securities,17751
+67,2019-08-01,8,2019,Bank Paper,105
+43,2019-08-01,8,2019,Bankers’ Acceptances,1359
+55,2019-08-01,8,2019,Commercial Paper and Asset Backed Commercial Paper,757
+19,2019-08-01,8,2019,Federal Crown Corporation Securities,16846
+7,2019-08-01,8,2019,Government of Canada Treasury Bills,67223
+79,2019-08-01,8,2019,Other Domestic Money Market Securities,238908
+31,2019-08-01,8,2019,Provincial Securities,17575
+68,2019-09-01,9,2019,Bank Paper,0
+44,2019-09-01,9,2019,Bankers’ Acceptances,39
+56,2019-09-01,9,2019,Commercial Paper and Asset Backed Commercial Paper,204
+20,2019-09-01,9,2019,Federal Crown Corporation Securities,6577
+8,2019-09-01,9,2019,Government of Canada Treasury Bills,70341
+80,2019-09-01,9,2019,Other Domestic Money Market Securities,190644
+32,2019-09-01,9,2019,Provincial Securities,18211
+69,2019-10-01,10,2019,Bank Paper,0
+45,2019-10-01,10,2019,Bankers’ Acceptances,1559
+57,2019-10-01,10,2019,Commercial Paper and Asset Backed Commercial Paper,205
+21,2019-10-01,10,2019,Federal Crown Corporation Securities,2370
+9,2019-10-01,10,2019,Government of Canada Treasury Bills,61211
+81,2019-10-01,10,2019,Other Domestic Money Market Securities,184230
+33,2019-10-01,10,2019,Provincial Securities,20516
+70,2019-11-01,11,2019,Bank Paper,0
+46,2019-11-01,11,2019,Bankers’ Acceptances,1393
+58,2019-11-01,11,2019,Commercial Paper and Asset Backed Commercial Paper,125
+22,2019-11-01,11,2019,Federal Crown Corporation Securities,2488
+10,2019-11-01,11,2019,Government of Canada Treasury Bills,51908
+82,2019-11-01,11,2019,Other Domestic Money Market Securities,242213
+34,2019-11-01,11,2019,Provincial Securities,22953
+71,2019-12-01,12,2019,Bank Paper,0
+47,2019-12-01,12,2019,Bankers’ Acceptances,1660
+59,2019-12-01,12,2019,Commercial Paper and Asset Backed Commercial Paper,264
+23,2019-12-01,12,2019,Federal Crown Corporation Securities,2258
+11,2019-12-01,12,2019,Government of Canada Treasury Bills,52438
+83,2019-12-01,12,2019,Other Domestic Money Market Securities,220131
+35,2019-12-01,12,2019,Provincial Securities,27583
+60,2020-01-01,1,2020,Bank Paper,0.0
+36,2020-01-01,1,2020,Bankers’ Acceptances,1936.077503
+48,2020-01-01,1,2020,Commercial Paper and Asset Backed Commercial Paper,661.7
+12,2020-01-01,1,2020,Federal Crown Corporation Securities,2641.355
+0,2020-01-01,1,2020,Government of Canada Treasury Bills,57488.093157
+72,2020-01-01,1,2020,Other Domestic Money Market Securities,853833.124809
+24,2020-01-01,1,2020,Provincial Securities,20013.544
+61,2020-02-01,2,2020,Bank Paper,0.0
+37,2020-02-01,2,2020,Bankers’ Acceptances,2085.046014
+49,2020-02-01,2,2020,Commercial Paper and Asset Backed Commercial Paper,790.3
+13,2020-02-01,2,2020,Federal Crown Corporation Securities,778.669
+1,2020-02-01,2,2020,Government of Canada Treasury Bills,66974.925677
+73,2020-02-01,2,2020,Other Domestic Money Market Securities,979799.241588
+25,2020-02-01,2,2020,Provincial Securities,28697.388
+62,2020-03-01,3,2020,Bank Paper,0.0
+38,2020-03-01,3,2020,Bankers’ Acceptances,2795.449355
+50,2020-03-01,3,2020,Commercial Paper and Asset Backed Commercial Paper,422.215
+14,2020-03-01,3,2020,Federal Crown Corporation Securities,2005.573
+2,2020-03-01,3,2020,Government of Canada Treasury Bills,85137.749752
+74,2020-03-01,3,2020,Other Domestic Money Market Securities,1160067.500311
+26,2020-03-01,3,2020,Provincial Securities,62410.14
+63,2020-04-01,4,2020,Bank Paper,2093.02
+39,2020-04-01,4,2020,Bankers’ Acceptances,18548.606875
+51,2020-04-01,4,2020,Commercial Paper and Asset Backed Commercial Paper,749.09
+15,2020-04-01,4,2020,Federal Crown Corporation Securities,6091.422
+3,2020-04-01,4,2020,Government of Canada Treasury Bills,93509.007718
+75,2020-04-01,4,2020,Other Domestic Money Market Securities,979125.885303
+27,2020-04-01,4,2020,Provincial Securities,47714.057
+64,2020-05-01,5,2020,Bank Paper,0.0
+40,2020-05-01,5,2020,Bankers’ Acceptances,2388.675179
+52,2020-05-01,5,2020,Commercial Paper and Asset Backed Commercial Paper,288.3
+16,2020-05-01,5,2020,Federal Crown Corporation Securities,3142.422
+4,2020-05-01,5,2020,Government of Canada Treasury Bills,83722.754278
+76,2020-05-01,5,2020,Other Domestic Money Market Securities,1094188.078632
+28,2020-05-01,5,2020,Provincial Securities,22017.0075
+65,2020-06-01,6,2020,Bank Paper,0.0
+41,2020-06-01,6,2020,Bankers’ Acceptances,2093.162825
+53,2020-06-01,6,2020,Commercial Paper and Asset Backed Commercial Paper,654.74
+17,2020-06-01,6,2020,Federal Crown Corporation Securities,6735.065
+5,2020-06-01,6,2020,Government of Canada Treasury Bills,99539.902038
+77,2020-06-01,6,2020,Other Domestic Money Market Securities,1301079.77624
+29,2020-06-01,6,2020,Provincial Securities,11229.731
+66,2020-07-01,7,2020,Bank Paper,0.0
+42,2020-07-01,7,2020,Bankers’ Acceptances,730.072716
+54,2020-07-01,7,2020,Commercial Paper and Asset Backed Commercial Paper,114.5
+18,2020-07-01,7,2020,Federal Crown Corporation Securities,4962.369
+6,2020-07-01,7,2020,Government of Canada Treasury Bills,165504.103508
+78,2020-07-01,7,2020,Other Domestic Money Market Securities,1248557.09008
+30,2020-07-01,7,2020,Provincial Securities,18791.292
+67,2020-08-01,8,2020,Bank Paper,0.0
+43,2020-08-01,8,2020,Bankers’ Acceptances,729.489361
+55,2020-08-01,8,2020,Commercial Paper and Asset Backed Commercial Paper,182.8
+19,2020-08-01,8,2020,Federal Crown Corporation Securities,3007.813
+7,2020-08-01,8,2020,Government of Canada Treasury Bills,99530.011437
+79,2020-08-01,8,2020,Other Domestic Money Market Securities,1185226.801271
+31,2020-08-01,8,2020,Provincial Securities,6528.34
+68,2020-09-01,9,2020,Bank Paper,2092.02
+44,2020-09-01,9,2020,Bankers’ Acceptances,724.139899
+56,2020-09-01,9,2020,Commercial Paper and Asset Backed Commercial Paper,175.0
+20,2020-09-01,9,2020,Federal Crown Corporation Securities,7877.564
+8,2020-09-01,9,2020,Government of Canada Treasury Bills,91782.095799
+80,2020-09-01,9,2020,Other Domestic Money Market Securities,1152681.440206
+32,2020-09-01,9,2020,Provincial Securities,6104.949
+69,2020-10-01,10,2020,Bank Paper,0.0
+45,2020-10-01,10,2020,Bankers’ Acceptances,358.188834
+57,2020-10-01,10,2020,Commercial Paper and Asset Backed Commercial Paper,236.0
+21,2020-10-01,10,2020,Federal Crown Corporation Securities,3033.022
+9,2020-10-01,10,2020,Government of Canada Treasury Bills,66324.323906
+81,2020-10-01,10,2020,Other Domestic Money Market Securities,1018380.970259
+33,2020-10-01,10,2020,Provincial Securities,13580.704
+70,2020-11-01,11,2020,Bank Paper,0.0
+46,2020-11-01,11,2020,Bankers’ Acceptances,364.029882
+58,2020-11-01,11,2020,Commercial Paper and Asset Backed Commercial Paper,224.925
+22,2020-11-01,11,2020,Federal Crown Corporation Securities,4156.56
+10,2020-11-01,11,2020,Government of Canada Treasury Bills,51658.518864
+82,2020-11-01,11,2020,Other Domestic Money Market Securities,881388.242076
+34,2020-11-01,11,2020,Provincial Securities,21738.843
+71,2020-12-01,12,2020,Bank Paper,0.0
+47,2020-12-01,12,2020,Bankers’ Acceptances,362.881509
+59,2020-12-01,12,2020,Commercial Paper and Asset Backed Commercial Paper,360.05
+23,2020-12-01,12,2020,Federal Crown Corporation Securities,3715.175
+11,2020-12-01,12,2020,Government of Canada Treasury Bills,51127.794792
+83,2020-12-01,12,2020,Other Domestic Money Market Securities,1114895.613622
+35,2020-12-01,12,2020,Provincial Securities,5461.347
+60,2021-01-01,1,2021,Bank Paper,0.0
+36,2021-01-01,1,2021,Bankers’ Acceptances,78.427762
+48,2021-01-01,1,2021,Commercial Paper and Asset Backed Commercial Paper,131.2
+12,2021-01-01,1,2021,Federal Crown Corporation Securities,3879.638
+0,2021-01-01,1,2021,Government of Canada Treasury Bills,44849.064123
+72,2021-01-01,1,2021,Other Domestic Money Market Securities,1088417.194571
+24,2021-01-01,1,2021,Provincial Securities,1317.86
+61,2021-02-01,2,2021,Bank Paper,0.0
+37,2021-02-01,2,2021,Bankers’ Acceptances,78.902377
+49,2021-02-01,2,2021,Commercial Paper and Asset Backed Commercial Paper,144.4
+13,2021-02-01,2,2021,Federal Crown Corporation Securities,4064.259
+1,2021-02-01,2,2021,Government of Canada Treasury Bills,47411.51717
+73,2021-02-01,2,2021,Other Domestic Money Market Securities,939604.732257
+25,2021-02-01,2,2021,Provincial Securities,3146.97
+62,2021-03-01,3,2021,Bank Paper,120.0
+38,2021-03-01,3,2021,Bankers’ Acceptances,1152.922327
+50,2021-03-01,3,2021,Commercial Paper and Asset Backed Commercial Paper,2658.102
+14,2021-03-01,3,2021,Federal Crown Corporation Securities,9430.017
+2,2021-03-01,3,2021,Government of Canada Treasury Bills,64505.35692
+74,2021-03-01,3,2021,Other Domestic Money Market Securities,1473951.878419
+26,2021-03-01,3,2021,Provincial Securities,11391.335
+63,2021-04-01,4,2021,Bank Paper,0.0
+39,2021-04-01,4,2021,Bankers’ Acceptances,2028.332787
+51,2021-04-01,4,2021,Commercial Paper and Asset Backed Commercial Paper,263.4
+15,2021-04-01,4,2021,Federal Crown Corporation Securities,18722.371
+3,2021-04-01,4,2021,Government of Canada Treasury Bills,72380.271922
+75,2021-04-01,4,2021,Other Domestic Money Market Securities,1749981.764507
+27,2021-04-01,4,2021,Provincial Securities,15158.855
+64,2021-05-01,5,2021,Bank Paper,0.0
+40,2021-05-01,5,2021,Bankers’ Acceptances,88.373278
+52,2021-05-01,5,2021,Commercial Paper and Asset Backed Commercial Paper,345.6
+16,2021-05-01,5,2021,Federal Crown Corporation Securities,9179.711
+4,2021-05-01,5,2021,Government of Canada Treasury Bills,80073.286157
+76,2021-05-01,5,2021,Other Domestic Money Market Securities,1660518.355327
+28,2021-05-01,5,2021,Provincial Securities,5205.65
+65,2021-06-01,6,2021,Bank Paper,0.0
+41,2021-06-01,6,2021,Bankers’ Acceptances,46.617799
+53,2021-06-01,6,2021,Commercial Paper and Asset Backed Commercial Paper,245.4
+17,2021-06-01,6,2021,Federal Crown Corporation Securities,18867.641
+5,2021-06-01,6,2021,Government of Canada Treasury Bills,103500.776035
+77,2021-06-01,6,2021,Other Domestic Money Market Securities,1610313.869353
+29,2021-06-01,6,2021,Provincial Securities,3232.09
+66,2021-07-01,7,2021,Bank Paper,25.0
+42,2021-07-01,7,2021,Bankers’ Acceptances,32.645072
+54,2021-07-01,7,2021,Commercial Paper and Asset Backed Commercial Paper,365.9
+18,2021-07-01,7,2021,Federal Crown Corporation Securities,14982.506
+6,2021-07-01,7,2021,Government of Canada Treasury Bills,76971.81917
+78,2021-07-01,7,2021,Other Domestic Money Market Securities,1374315.295412
+30,2021-07-01,7,2021,Provincial Securities,2997.556
+67,2021-08-01,8,2021,Bank Paper,0.0
+43,2021-08-01,8,2021,Bankers’ Acceptances,54.931523
+55,2021-08-01,8,2021,Commercial Paper and Asset Backed Commercial Paper,320.0
+19,2021-08-01,8,2021,Federal Crown Corporation Securities,7422.56
+7,2021-08-01,8,2021,Government of Canada Treasury Bills,63182.349
+79,2021-08-01,8,2021,Other Domestic Money Market Securities,1467522.869689
+31,2021-08-01,8,2021,Provincial Securities,2375.408
+68,2021-09-01,9,2021,Bank Paper,0.0
+44,2021-09-01,9,2021,Bankers’ Acceptances,66.518089
+56,2021-09-01,9,2021,Commercial Paper and Asset Backed Commercial Paper,0.0
+20,2021-09-01,9,2021,Federal Crown Corporation Securities,4096.2245
+8,2021-09-01,9,2021,Government of Canada Treasury Bills,48273.646785
+80,2021-09-01,9,2021,Other Domestic Money Market Securities,1426500.193353
+32,2021-09-01,9,2021,Provincial Securities,3044.599
+69,2021-10-01,10,2021,Bank Paper,0.0
+45,2021-10-01,10,2021,Bankers’ Acceptances,59.051405
+57,2021-10-01,10,2021,Commercial Paper and Asset Backed Commercial Paper,0.0
+21,2021-10-01,10,2021,Federal Crown Corporation Securities,6362.587
+9,2021-10-01,10,2021,Government of Canada Treasury Bills,27121.052
+81,2021-10-01,10,2021,Other Domestic Money Market Securities,1352094.404904
+33,2021-10-01,10,2021,Provincial Securities,2713.688
+70,2021-11-01,11,2021,Bank Paper,0.0
+46,2021-11-01,11,2021,Bankers’ Acceptances,16.644958
+58,2021-11-01,11,2021,Commercial Paper and Asset Backed Commercial Paper,105.6
+22,2021-11-01,11,2021,Federal Crown Corporation Securities,7516.498
+10,2021-11-01,11,2021,Government of Canada Treasury Bills,46296.612
+82,2021-11-01,11,2021,Other Domestic Money Market Securities,1208234.696039
+34,2021-11-01,11,2021,Provincial Securities,3118.567
+71,2021-12-01,12,2021,Bank Paper,0.0
+47,2021-12-01,12,2021,Bankers’ Acceptances,54.252743
+59,2021-12-01,12,2021,Commercial Paper and Asset Backed Commercial Paper,152.6
+23,2021-12-01,12,2021,Federal Crown Corporation Securities,8605.348
+11,2021-12-01,12,2021,Government of Canada Treasury Bills,63513.874
+83,2021-12-01,12,2021,Other Domestic Money Market Securities,1453397.551016
+35,2021-12-01,12,2021,Provincial Securities,5057.1
+60,2022-01-01,1,2022,Bank Paper,0.0
+36,2022-01-01,1,2022,Bankers’ Acceptances,55.836921
+48,2022-01-01,1,2022,Commercial Paper and Asset Backed Commercial Paper,248.6
+12,2022-01-01,1,2022,Federal Crown Corporation Securities,11078.489
+0,2022-01-01,1,2022,Government of Canada Treasury Bills,51401.152
+72,2022-01-01,1,2022,Other Domestic Money Market Securities,1693963.66859
+24,2022-01-01,1,2022,Provincial Securities,3924.849
+61,2022-02-01,2,2022,Bank Paper,10.0
+37,2022-02-01,2,2022,Bankers’ Acceptances,64.488006
+49,2022-02-01,2,2022,Commercial Paper and Asset Backed Commercial Paper,64.0
+13,2022-02-01,2,2022,Federal Crown Corporation Securities,8869.737
+1,2022-02-01,2,2022,Government of Canada Treasury Bills,55068.508
+73,2022-02-01,2,2022,Other Domestic Money Market Securities,1203244.257344
+25,2022-02-01,2,2022,Provincial Securities,2873.633
+62,2022-03-01,3,2022,Bank Paper,0.0
+38,2022-03-01,3,2022,Bankers’ Acceptances,60.86541
+50,2022-03-01,3,2022,Commercial Paper and Asset Backed Commercial Paper,79.853
+14,2022-03-01,3,2022,Federal Crown Corporation Securities,17699.325
+2,2022-03-01,3,2022,Government of Canada Treasury Bills,126757.241675
+74,2022-03-01,3,2022,Other Domestic Money Market Securities,1536857.004001
+26,2022-03-01,3,2022,Provincial Securities,4585.58
+63,2022-04-01,4,2022,Bank Paper,0.0
+39,2022-04-01,4,2022,Bankers’ Acceptances,873.055769
+51,2022-04-01,4,2022,Commercial Paper and Asset Backed Commercial Paper,469.013
+15,2022-04-01,4,2022,Federal Crown Corporation Securities,15980.985
+3,2022-04-01,4,2022,Government of Canada Treasury Bills,120515.808
+75,2022-04-01,4,2022,Other Domestic Money Market Securities,1270678.80726
+27,2022-04-01,4,2022,Provincial Securities,12976.044
+64,2022-05-01,5,2022,Bank Paper,0.0
+40,2022-05-01,5,2022,Bankers’ Acceptances,401.710169
+52,2022-05-01,5,2022,Commercial Paper and Asset Backed Commercial Paper,161.737
+16,2022-05-01,5,2022,Federal Crown Corporation Securities,9781.855
+4,2022-05-01,5,2022,Government of Canada Treasury Bills,123630.265287
+76,2022-05-01,5,2022,Other Domestic Money Market Securities,1335603.496558
+28,2022-05-01,5,2022,Provincial Securities,48092.643
+65,2022-06-01,6,2022,Bank Paper,0.0
+41,2022-06-01,6,2022,Bankers’ Acceptances,563.232089
+53,2022-06-01,6,2022,Commercial Paper and Asset Backed Commercial Paper,273.924
+17,2022-06-01,6,2022,Federal Crown Corporation Securities,22807.224
+5,2022-06-01,6,2022,Government of Canada Treasury Bills,179383.936586
+77,2022-06-01,6,2022,Other Domestic Money Market Securities,1312351.139097
+29,2022-06-01,6,2022,Provincial Securities,21795.9335
+66,2022-07-01,7,2022,Bank Paper,0.0
+42,2022-07-01,7,2022,Bankers’ Acceptances,210.792414
+54,2022-07-01,7,2022,Commercial Paper and Asset Backed Commercial Paper,118.162
+18,2022-07-01,7,2022,Federal Crown Corporation Securities,18256.451
+6,2022-07-01,7,2022,Government of Canada Treasury Bills,167516.054
+78,2022-07-01,7,2022,Other Domestic Money Market Securities,1312439.2956
+30,2022-07-01,7,2022,Provincial Securities,33664.845
+67,2022-08-01,8,2022,Bank Paper,0.0
+43,2022-08-01,8,2022,Bankers’ Acceptances,280.584172
+55,2022-08-01,8,2022,Commercial Paper and Asset Backed Commercial Paper,62.393
+19,2022-08-01,8,2022,Federal Crown Corporation Securities,9922.584
+7,2022-08-01,8,2022,Government of Canada Treasury Bills,197212.555255
+79,2022-08-01,8,2022,Other Domestic Money Market Securities,1644548.206215
+31,2022-08-01,8,2022,Provincial Securities,44002.12
+68,2022-09-01,9,2022,Bank Paper,0.0
+44,2022-09-01,9,2022,Bankers’ Acceptances,87.932141
+56,2022-09-01,9,2022,Commercial Paper and Asset Backed Commercial Paper,150.4
+20,2022-09-01,9,2022,Federal Crown Corporation Securities,7040.825
+8,2022-09-01,9,2022,Government of Canada Treasury Bills,201044.0525
+80,2022-09-01,9,2022,Other Domestic Money Market Securities,1589301.939655
+32,2022-09-01,9,2022,Provincial Securities,30798.163
+69,2022-10-01,10,2022,Bank Paper,35.0
+45,2022-10-01,10,2022,Bankers’ Acceptances,421.149426
+57,2022-10-01,10,2022,Commercial Paper and Asset Backed Commercial Paper,166.03
+21,2022-10-01,10,2022,Federal Crown Corporation Securities,8329.564
+9,2022-10-01,10,2022,Government of Canada Treasury Bills,158341.11091
+81,2022-10-01,10,2022,Other Domestic Money Market Securities,1420144.49751
+33,2022-10-01,10,2022,Provincial Securities,4120.835
+70,2022-11-01,11,2022,Bank Paper,0.0
+46,2022-11-01,11,2022,Bankers’ Acceptances,399.487528
+58,2022-11-01,11,2022,Commercial Paper and Asset Backed Commercial Paper,229.325
+22,2022-11-01,11,2022,Federal Crown Corporation Securities,8894.475
+10,2022-11-01,11,2022,Government of Canada Treasury Bills,137919.853122
+82,2022-11-01,11,2022,Other Domestic Money Market Securities,1427306.564149
+34,2022-11-01,11,2022,Provincial Securities,7738.518
+71,2022-12-01,12,2022,Bank Paper,0.0
+47,2022-12-01,12,2022,Bankers’ Acceptances,434.409535
+59,2022-12-01,12,2022,Commercial Paper and Asset Backed Commercial Paper,24.12
+23,2022-12-01,12,2022,Federal Crown Corporation Securities,10497.183
+11,2022-12-01,12,2022,Government of Canada Treasury Bills,153400.3306
+83,2022-12-01,12,2022,Other Domestic Money Market Securities,1372650.556583
+35,2022-12-01,12,2022,Provincial Securities,10010.368
+60,2023-01-01,1,2023,Bank Paper,15.0
+36,2023-01-01,1,2023,Bankers’ Acceptances,517.8124
+48,2023-01-01,1,2023,Commercial Paper and Asset Backed Commercial Paper,84.1
+12,2023-01-01,1,2023,Federal Crown Corporation Securities,8438.415
+0,2023-01-01,1,2023,Government of Canada Treasury Bills,161478.392
+72,2023-01-01,1,2023,Other Domestic Money Market Securities,1326669.134029
+24,2023-01-01,1,2023,Provincial Securities,8166.4
+61,2023-02-01,2,2023,Bank Paper,0.0
+37,2023-02-01,2,2023,Bankers’ Acceptances,522.474019
+49,2023-02-01,2,2023,Commercial Paper and Asset Backed Commercial Paper,30.0
+13,2023-02-01,2,2023,Federal Crown Corporation Securities,18823.404
+1,2023-02-01,2,2023,Government of Canada Treasury Bills,115752.203
+73,2023-02-01,2,2023,Other Domestic Money Market Securities,1423400.285573
+25,2023-02-01,2,2023,Provincial Securities,8957.1
+62,2023-03-01,3,2023,Bank Paper,0.0
+38,2023-03-01,3,2023,Bankers’ Acceptances,515.925919
+50,2023-03-01,3,2023,Commercial Paper and Asset Backed Commercial Paper,18.0
+14,2023-03-01,3,2023,Federal Crown Corporation Securities,28332.715328
+2,2023-03-01,3,2023,Government of Canada Treasury Bills,160624.709457
+74,2023-03-01,3,2023,Other Domestic Money Market Securities,1610284.67018
+26,2023-03-01,3,2023,Provincial Securities,6655.565044
+63,2023-04-01,4,2023,Bank Paper,0.0
+39,2023-04-01,4,2023,Bankers’ Acceptances,515.698221
+51,2023-04-01,4,2023,Commercial Paper and Asset Backed Commercial Paper,0.0
+15,2023-04-01,4,2023,Federal Crown Corporation Securities,22282.028656
+3,2023-04-01,4,2023,Government of Canada Treasury Bills,78942.645332
+75,2023-04-01,4,2023,Other Domestic Money Market Securities,1448451.669586
+27,2023-04-01,4,2023,Provincial Securities,12286.757
+64,2023-05-01,5,2023,Bank Paper,0.0
+40,2023-05-01,5,2023,Bankers’ Acceptances,529.712239
+52,2023-05-01,5,2023,Commercial Paper and Asset Backed Commercial Paper,3.0
+16,2023-05-01,5,2023,Federal Crown Corporation Securities,21933.286312
+4,2023-05-01,5,2023,Government of Canada Treasury Bills,128815.431
+76,2023-05-01,5,2023,Other Domestic Money Market Securities,1673930.720905
+28,2023-05-01,5,2023,Provincial Securities,8271.043
+65,2023-06-01,6,2023,Bank Paper,0.0
+41,2023-06-01,6,2023,Bankers’ Acceptances,0.0
+53,2023-06-01,6,2023,Commercial Paper and Asset Backed Commercial Paper,67.0
+17,2023-06-01,6,2023,Federal Crown Corporation Securities,14424.94982
+5,2023-06-01,6,2023,Government of Canada Treasury Bills,97861.087014
+77,2023-06-01,6,2023,Other Domestic Money Market Securities,1478658.05954
+29,2023-06-01,6,2023,Provincial Securities,10705.950918
+66,2023-07-01,7,2023,Bank Paper,0.0
+42,2023-07-01,7,2023,Bankers’ Acceptances,0.0
+54,2023-07-01,7,2023,Commercial Paper and Asset Backed Commercial Paper,236.25
+18,2023-07-01,7,2023,Federal Crown Corporation Securities,7826.053656
+6,2023-07-01,7,2023,Government of Canada Treasury Bills,156771.22315
+78,2023-07-01,7,2023,Other Domestic Money Market Securities,1459536.20189
+30,2023-07-01,7,2023,Provincial Securities,7767.66
+67,2023-08-01,8,2023,Bank Paper,200.03968
+43,2023-08-01,8,2023,Bankers’ Acceptances,0.0
+55,2023-08-01,8,2023,Commercial Paper and Asset Backed Commercial Paper,85.0
+19,2023-08-01,8,2023,Federal Crown Corporation Securities,17563.97682
+7,2023-08-01,8,2023,Government of Canada Treasury Bills,198712.829129
+79,2023-08-01,8,2023,Other Domestic Money Market Securities,1591237.062663
+31,2023-08-01,8,2023,Provincial Securities,5397.23
+68,2023-09-01,9,2023,Bank Paper,160.271862
+44,2023-09-01,9,2023,Bankers’ Acceptances,0.0
+56,2023-09-01,9,2023,Commercial Paper and Asset Backed Commercial Paper,181.8
+20,2023-09-01,9,2023,Federal Crown Corporation Securities,8756.959464
+8,2023-09-01,9,2023,Government of Canada Treasury Bills,159085.1455
+80,2023-09-01,9,2023,Other Domestic Money Market Securities,1476722.269226
+32,2023-09-01,9,2023,Provincial Securities,7021.232
+69,2023-10-01,10,2023,Bank Paper,0.0
+45,2023-10-01,10,2023,Bankers’ Acceptances,0.0
+57,2023-10-01,10,2023,Commercial Paper and Asset Backed Commercial Paper,136.420402
+21,2023-10-01,10,2023,Federal Crown Corporation Securities,9593.482244
+9,2023-10-01,10,2023,Government of Canada Treasury Bills,184477.871189
+81,2023-10-01,10,2023,Other Domestic Money Market Securities,1509020.361909
+33,2023-10-01,10,2023,Provincial Securities,5198.64
+70,2023-11-01,11,2023,Bank Paper,0.0
+46,2023-11-01,11,2023,Bankers’ Acceptances,0.0
+58,2023-11-01,11,2023,Commercial Paper and Asset Backed Commercial Paper,300.457399
+22,2023-11-01,11,2023,Federal Crown Corporation Securities,6084.38193
+10,2023-11-01,11,2023,Government of Canada Treasury Bills,165670.187
+82,2023-11-01,11,2023,Other Domestic Money Market Securities,1723742.593553
+34,2023-11-01,11,2023,Provincial Securities,5431.87
+71,2023-12-01,12,2023,Bank Paper,0.0
+47,2023-12-01,12,2023,Bankers’ Acceptances,0.0
+59,2023-12-01,12,2023,Commercial Paper and Asset Backed Commercial Paper,166.800287
+23,2023-12-01,12,2023,Federal Crown Corporation Securities,5333.918144
+11,2023-12-01,12,2023,Government of Canada Treasury Bills,128164.8465
+83,2023-12-01,12,2023,Other Domestic Money Market Securities,1681770.79297
+35,2023-12-01,12,2023,Provincial Securities,5509.599
+60,2024-01-01,1,2024,Bank Paper,0.0
+36,2024-01-01,1,2024,Bankers’ Acceptances,0.0
+48,2024-01-01,1,2024,Commercial Paper and Asset Backed Commercial Paper,405.934689
+12,2024-01-01,1,2024,Federal Crown Corporation Securities,3485.6616
+0,2024-01-01,1,2024,Government of Canada Treasury Bills,130923.628902
+72,2024-01-01,1,2024,Other Domestic Money Market Securities,2152366.421211
+24,2024-01-01,1,2024,Provincial Securities,5274.48
+61,2024-02-01,2,2024,Bank Paper,0.0
+37,2024-02-01,2,2024,Bankers’ Acceptances,0.0
+49,2024-02-01,2,2024,Commercial Paper and Asset Backed Commercial Paper,34.4
+13,2024-02-01,2,2024,Federal Crown Corporation Securities,3557.690814
+1,2024-02-01,2,2024,Government of Canada Treasury Bills,145467.719814
+73,2024-02-01,2,2024,Other Domestic Money Market Securities,1759623.498079
+25,2024-02-01,2,2024,Provincial Securities,3894.696
+62,2024-03-01,3,2024,Bank Paper,0.0
+38,2024-03-01,3,2024,Bankers’ Acceptances,0.0
+50,2024-03-01,3,2024,Commercial Paper and Asset Backed Commercial Paper,96.6
+14,2024-03-01,3,2024,Federal Crown Corporation Securities,5959.176274
+2,2024-03-01,3,2024,Government of Canada Treasury Bills,229934.265854
+74,2024-03-01,3,2024,Other Domestic Money Market Securities,1866875.726849
+26,2024-03-01,3,2024,Provincial Securities,8037.509
+63,2024-04-01,4,2024,Bank Paper,0.0
+39,2024-04-01,4,2024,Bankers’ Acceptances,0.0
+51,2024-04-01,4,2024,Commercial Paper and Asset Backed Commercial Paper,134.272
+15,2024-04-01,4,2024,Federal Crown Corporation Securities,4734.410466
+3,2024-04-01,4,2024,Government of Canada Treasury Bills,227637.7239
+75,2024-04-01,4,2024,Other Domestic Money Market Securities,1904592.527045
+27,2024-04-01,4,2024,Provincial Securities,8409.735
+64,2024-05-01,5,2024,Bank Paper,0.0
+40,2024-05-01,5,2024,Bankers’ Acceptances,0.0
+52,2024-05-01,5,2024,Commercial Paper and Asset Backed Commercial Paper,183.667
+16,2024-05-01,5,2024,Federal Crown Corporation Securities,8269.77789
+4,2024-05-01,5,2024,Government of Canada Treasury Bills,203075.293468
+76,2024-05-01,5,2024,Other Domestic Money Market Securities,1902139.82251
+28,2024-05-01,5,2024,Provincial Securities,6183.2
+65,2024-06-01,6,2024,Bank Paper,0.0
+41,2024-06-01,6,2024,Bankers’ Acceptances,0.0
+53,2024-06-01,6,2024,Commercial Paper and Asset Backed Commercial Paper,372.495635
+17,2024-06-01,6,2024,Federal Crown Corporation Securities,4821.66189
+5,2024-06-01,6,2024,Government of Canada Treasury Bills,197267.992442
+77,2024-06-01,6,2024,Other Domestic Money Market Securities,1917119.475251
+29,2024-06-01,6,2024,Provincial Securities,11317.924
+66,2024-07-01,7,2024,Bank Paper,0.0
+42,2024-07-01,7,2024,Bankers’ Acceptances,0.0
+54,2024-07-01,7,2024,Commercial Paper and Asset Backed Commercial Paper,347.529635
+18,2024-07-01,7,2024,Federal Crown Corporation Securities,6734.91089
+6,2024-07-01,7,2024,Government of Canada Treasury Bills,166968.1877
+78,2024-07-01,7,2024,Other Domestic Money Market Securities,2334475.85297
+30,2024-07-01,7,2024,Provincial Securities,12426.453
+67,2024-08-01,8,2024,Bank Paper,0.0
+43,2024-08-01,8,2024,Bankers’ Acceptances,0.0
+55,2024-08-01,8,2024,Commercial Paper and Asset Backed Commercial Paper,291.155635
+19,2024-08-01,8,2024,Federal Crown Corporation Securities,10665.948356
+7,2024-08-01,8,2024,Government of Canada Treasury Bills,146793.314761
+79,2024-08-01,8,2024,Other Domestic Money Market Securities,2343059.318482
+31,2024-08-01,8,2024,Provincial Securities,12108.562
+68,2024-09-01,9,2024,Bank Paper,0.0
+44,2024-09-01,9,2024,Bankers’ Acceptances,0.0
+56,2024-09-01,9,2024,Commercial Paper and Asset Backed Commercial Paper,243.979635
+20,2024-09-01,9,2024,Federal Crown Corporation Securities,6140.156056
+8,2024-09-01,9,2024,Government of Canada Treasury Bills,172422.681554
+80,2024-09-01,9,2024,Other Domestic Money Market Securities,2084533.946588
+32,2024-09-01,9,2024,Provincial Securities,8914.306
+69,2024-10-01,10,2024,Bank Paper,0.0
+45,2024-10-01,10,2024,Bankers’ Acceptances,0.0
+57,2024-10-01,10,2024,Commercial Paper and Asset Backed Commercial Paper,329.129635
+21,2024-10-01,10,2024,Federal Crown Corporation Securities,5601.4726
+9,2024-10-01,10,2024,Government of Canada Treasury Bills,176998.020336
+81,2024-10-01,10,2024,Other Domestic Money Market Securities,2121244.899171
+33,2024-10-01,10,2024,Provincial Securities,13571.228
+70,2024-11-01,11,2024,Bank Paper,0.0
+46,2024-11-01,11,2024,Bankers’ Acceptances,0.0
+58,2024-11-01,11,2024,Commercial Paper and Asset Backed Commercial Paper,308.030314
+22,2024-11-01,11,2024,Federal Crown Corporation Securities,3415.1102
+10,2024-11-01,11,2024,Government of Canada Treasury Bills,183520.367854
+82,2024-11-01,11,2024,Other Domestic Money Market Securities,2053048.646725
+34,2024-11-01,11,2024,Provincial Securities,10068.471
+71,2024-12-01,12,2024,Bank Paper,0.0
+47,2024-12-01,12,2024,Bankers’ Acceptances,0.0
+59,2024-12-01,12,2024,Commercial Paper and Asset Backed Commercial Paper,346.830314
+23,2024-12-01,12,2024,Federal Crown Corporation Securities,4829.5931
+11,2024-12-01,12,2024,Government of Canada Treasury Bills,174150.115904
+83,2024-12-01,12,2024,Other Domestic Money Market Securities,2158798.161205
+35,2024-12-01,12,2024,Provincial Securities,9576.7
+60,2025-01-01,1,2025,Bank Paper,0.0
+36,2025-01-01,1,2025,Bankers’ Acceptances,0.0
+48,2025-01-01,1,2025,Commercial Paper and Asset Backed Commercial Paper,189.930314
+12,2025-01-01,1,2025,Federal Crown Corporation Securities,3321.6572
+0,2025-01-01,1,2025,Government of Canada Treasury Bills,188927.698458
+72,2025-01-01,1,2025,Other Domestic Money Market Securities,2091892.154934
+24,2025-01-01,1,2025,Provincial Securities,8324.2345
+61,2025-02-01,2,2025,Bank Paper,222.0
+37,2025-02-01,2,2025,Bankers’ Acceptances,0.0
+49,2025-02-01,2,2025,Commercial Paper and Asset Backed Commercial Paper,2775.436041
+13,2025-02-01,2,2025,Federal Crown Corporation Securities,4173.1293
+1,2025-02-01,2,2025,Government of Canada Treasury Bills,148181.018976
+73,2025-02-01,2,2025,Other Domestic Money Market Securities,2218383.632478
+25,2025-02-01,2,2025,Provincial Securities,11845.09
+62,2025-03-01,3,2025,Bank Paper,441.315
+38,2025-03-01,3,2025,Bankers’ Acceptances,0.0
+50,2025-03-01,3,2025,Commercial Paper and Asset Backed Commercial Paper,3489.751206
+14,2025-03-01,3,2025,Federal Crown Corporation Securities,1668.683214
+2,2025-03-01,3,2025,Government of Canada Treasury Bills,177896.66165
+74,2025-03-01,3,2025,Other Domestic Money Market Securities,2692051.526309
+26,2025-03-01,3,2025,Provincial Securities,16187.082
+63,2025-04-01,4,2025,Bank Paper,857.965
+39,2025-04-01,4,2025,Bankers’ Acceptances,0.0
+51,2025-04-01,4,2025,Commercial Paper and Asset Backed Commercial Paper,8744.995341
+15,2025-04-01,4,2025,Federal Crown Corporation Securities,2448.118454
+3,2025-04-01,4,2025,Government of Canada Treasury Bills,168042.512648
+75,2025-04-01,4,2025,Other Domestic Money Market Securities,2663401.146529
+27,2025-04-01,4,2025,Provincial Securities,26826.248
+64,2025-05-01,5,2025,Bank Paper,500.04
+40,2025-05-01,5,2025,Bankers’ Acceptances,0.0
+52,2025-05-01,5,2025,Commercial Paper and Asset Backed Commercial Paper,14196.510947
+16,2025-05-01,5,2025,Federal Crown Corporation Securities,2322.853454
+4,2025-05-01,5,2025,Government of Canada Treasury Bills,165611.69249
+76,2025-05-01,5,2025,Other Domestic Money Market Securities,2814022.95091
+28,2025-05-01,5,2025,Provincial Securities,25923.691
+65,2025-06-01,6,2025,Bank Paper,438.6
+41,2025-06-01,6,2025,Bankers’ Acceptances,0.0
+53,2025-06-01,6,2025,Commercial Paper and Asset Backed Commercial Paper,6262.852788
+17,2025-06-01,6,2025,Federal Crown Corporation Securities,2429.411454
+5,2025-06-01,6,2025,Government of Canada Treasury Bills,133820.258316
+77,2025-06-01,6,2025,Other Domestic Money Market Securities,2775783.237986
+29,2025-06-01,6,2025,Provincial Securities,29876.964052
+66,2025-07-01,7,2025,Bank Paper,28.032046
+42,2025-07-01,7,2025,Bankers’ Acceptances,0.0
+54,2025-07-01,7,2025,Commercial Paper and Asset Backed Commercial Paper,30.22203
+18,2025-07-01,7,2025,Federal Crown Corporation Securities,1328.245828
+6,2025-07-01,7,2025,Government of Canada Treasury Bills,126468.312106
+78,2025-07-01,7,2025,Other Domestic Money Market Securities,2356202.804902
+30,2025-07-01,7,2025,Provincial Securities,24044.930326
+67,2025-08-01,8,2025,Bank Paper,0.0
+43,2025-08-01,8,2025,Bankers’ Acceptances,0.0
+55,2025-08-01,8,2025,Commercial Paper and Asset Backed Commercial Paper,2079.526626
+19,2025-08-01,8,2025,Federal Crown Corporation Securities,1008.89948
+7,2025-08-01,8,2025,Government of Canada Treasury Bills,153165.872578
+79,2025-08-01,8,2025,Other Domestic Money Market Securities,2339106.366193
+31,2025-08-01,8,2025,Provincial Securities,13965.439
+68,2025-09-01,9,2025,Bank Paper,0.0
+44,2025-09-01,9,2025,Bankers’ Acceptances,0.0
+56,2025-09-01,9,2025,Commercial Paper and Asset Backed Commercial Paper,5177.76126
+20,2025-09-01,9,2025,Federal Crown Corporation Securities,2671.563368
+8,2025-09-01,9,2025,Government of Canada Treasury Bills,157854.554166
+80,2025-09-01,9,2025,Other Domestic Money Market Securities,2561754.07661
+32,2025-09-01,9,2025,Provincial Securities,15923.789
+69,2025-10-01,10,2025,Bank Paper,0.0
+45,2025-10-01,10,2025,Bankers’ Acceptances,0.0
+57,2025-10-01,10,2025,Commercial Paper and Asset Backed Commercial Paper,1734.454
+21,2025-10-01,10,2025,Federal Crown Corporation Securities,4822.515972
+9,2025-10-01,10,2025,Government of Canada Treasury Bills,150103.794038
+81,2025-10-01,10,2025,Other Domestic Money Market Securities,2496065.293221
+33,2025-10-01,10,2025,Provincial Securities,14058.335
+70,2025-11-01,11,2025,Bank Paper,19.2
+46,2025-11-01,11,2025,Bankers’ Acceptances,0.0
+58,2025-11-01,11,2025,Commercial Paper and Asset Backed Commercial Paper,1078.279
+22,2025-11-01,11,2025,Federal Crown Corporation Securities,1203.193658
+10,2025-11-01,11,2025,Government of Canada Treasury Bills,127784.47298
+82,2025-11-01,11,2025,Other Domestic Money Market Securities,2274490.58929
+34,2025-11-01,11,2025,Provincial Securities,12124.971
+71,2025-12-01,12,2025,Bank Paper,141.72
+47,2025-12-01,12,2025,Bankers’ Acceptances,0.0
+59,2025-12-01,12,2025,Commercial Paper and Asset Backed Commercial Paper,4102.4975
+23,2025-12-01,12,2025,Federal Crown Corporation Securities,1441.676754
+11,2025-12-01,12,2025,Government of Canada Treasury Bills,135916.728354
+83,2025-12-01,12,2025,Other Domestic Money Market Securities,2644210.704225
+35,2025-12-01,12,2025,Provincial Securities,14648.27
