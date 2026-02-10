@@ -6,13 +6,13 @@
 156,2018-01-01,1,2018,Government of Canada Bonds_Issuer,0
 144,2018-01-01,1,2018,Government of Canada Bonds_Non-Residents,194028
 132,2018-01-01,1,2018,Government of Canada Bonds_Retail Clients,525
-12,2018-01-01,1,2018,The Month_Anonymous Systems: IDBBs and ATSs,12061
-24,2018-01-01,1,2018,The Month_Banks,6579
-36,2018-01-01,1,2018,The Month_Institutional Clients,57603
-0,2018-01-01,1,2018,The Month_Investment Dealers,3615
-72,2018-01-01,1,2018,The Month_Issuer,0
-60,2018-01-01,1,2018,The Month_Non-Residents,13015
-48,2018-01-01,1,2018,The Month_Retail Clients,848
+12,2018-01-01,1,2018,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,12061
+24,2018-01-01,1,2018,Government of Canada Treasury Bills_Banks,6579
+36,2018-01-01,1,2018,Government of Canada Treasury Bills_Institutional Clients,57603
+0,2018-01-01,1,2018,Government of Canada Treasury Bills_Investment Dealers,3615
+72,2018-01-01,1,2018,Government of Canada Treasury Bills_Issuer,0
+60,2018-01-01,1,2018,Government of Canada Treasury Bills_Non-Residents,13015
+48,2018-01-01,1,2018,Government of Canada Treasury Bills_Retail Clients,848
 97,2018-02-01,2,2018,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,309193
 109,2018-02-01,2,2018,Government of Canada Bonds_Banks,129770
 121,2018-02-01,2,2018,Government of Canada Bonds_Institutional Clients,200176
@@ -20,13 +20,13 @@
 157,2018-02-01,2,2018,Government of Canada Bonds_Issuer,0
 145,2018-02-01,2,2018,Government of Canada Bonds_Non-Residents,176541
 133,2018-02-01,2,2018,Government of Canada Bonds_Retail Clients,727
-13,2018-02-01,2,2018,The Month_Anonymous Systems: IDBBs and ATSs,11921
-25,2018-02-01,2,2018,The Month_Banks,7076
-37,2018-02-01,2,2018,The Month_Institutional Clients,72371
-1,2018-02-01,2,2018,The Month_Investment Dealers,3648
-73,2018-02-01,2,2018,The Month_Issuer,0
-61,2018-02-01,2,2018,The Month_Non-Residents,10790
-49,2018-02-01,2,2018,The Month_Retail Clients,896
+13,2018-02-01,2,2018,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,11921
+25,2018-02-01,2,2018,Government of Canada Treasury Bills_Banks,7076
+37,2018-02-01,2,2018,Government of Canada Treasury Bills_Institutional Clients,72371
+1,2018-02-01,2,2018,Government of Canada Treasury Bills_Investment Dealers,3648
+73,2018-02-01,2,2018,Government of Canada Treasury Bills_Issuer,0
+61,2018-02-01,2,2018,Government of Canada Treasury Bills_Non-Residents,10790
+49,2018-02-01,2,2018,Government of Canada Treasury Bills_Retail Clients,896
 98,2018-03-01,3,2018,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,289452
 110,2018-03-01,3,2018,Government of Canada Bonds_Banks,144864
 122,2018-03-01,3,2018,Government of Canada Bonds_Institutional Clients,200958
@@ -34,13 +34,13 @@
 158,2018-03-01,3,2018,Government of Canada Bonds_Issuer,100
 146,2018-03-01,3,2018,Government of Canada Bonds_Non-Residents,172521
 134,2018-03-01,3,2018,Government of Canada Bonds_Retail Clients,293
-14,2018-03-01,3,2018,The Month_Anonymous Systems: IDBBs and ATSs,9863
-26,2018-03-01,3,2018,The Month_Banks,6746
-38,2018-03-01,3,2018,The Month_Institutional Clients,66819
-2,2018-03-01,3,2018,The Month_Investment Dealers,4593
-74,2018-03-01,3,2018,The Month_Issuer,200
-62,2018-03-01,3,2018,The Month_Non-Residents,13096
-50,2018-03-01,3,2018,The Month_Retail Clients,1334
+14,2018-03-01,3,2018,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,9863
+26,2018-03-01,3,2018,Government of Canada Treasury Bills_Banks,6746
+38,2018-03-01,3,2018,Government of Canada Treasury Bills_Institutional Clients,66819
+2,2018-03-01,3,2018,Government of Canada Treasury Bills_Investment Dealers,4593
+74,2018-03-01,3,2018,Government of Canada Treasury Bills_Issuer,200
+62,2018-03-01,3,2018,Government of Canada Treasury Bills_Non-Residents,13096
+50,2018-03-01,3,2018,Government of Canada Treasury Bills_Retail Clients,1334
 99,2018-04-01,4,2018,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,285406
 111,2018-04-01,4,2018,Government of Canada Bonds_Banks,130971
 123,2018-04-01,4,2018,Government of Canada Bonds_Institutional Clients,195977
@@ -48,13 +48,13 @@
 159,2018-04-01,4,2018,Government of Canada Bonds_Issuer,0
 147,2018-04-01,4,2018,Government of Canada Bonds_Non-Residents,165535
 135,2018-04-01,4,2018,Government of Canada Bonds_Retail Clients,687
-15,2018-04-01,4,2018,The Month_Anonymous Systems: IDBBs and ATSs,10056
-27,2018-04-01,4,2018,The Month_Banks,4724
-39,2018-04-01,4,2018,The Month_Institutional Clients,63696
-3,2018-04-01,4,2018,The Month_Investment Dealers,4685
-75,2018-04-01,4,2018,The Month_Issuer,0
-63,2018-04-01,4,2018,The Month_Non-Residents,11447
-51,2018-04-01,4,2018,The Month_Retail Clients,1047
+15,2018-04-01,4,2018,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,10056
+27,2018-04-01,4,2018,Government of Canada Treasury Bills_Banks,4724
+39,2018-04-01,4,2018,Government of Canada Treasury Bills_Institutional Clients,63696
+3,2018-04-01,4,2018,Government of Canada Treasury Bills_Investment Dealers,4685
+75,2018-04-01,4,2018,Government of Canada Treasury Bills_Issuer,0
+63,2018-04-01,4,2018,Government of Canada Treasury Bills_Non-Residents,11447
+51,2018-04-01,4,2018,Government of Canada Treasury Bills_Retail Clients,1047
 100,2018-05-01,5,2018,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,348014
 112,2018-05-01,5,2018,Government of Canada Bonds_Banks,159048
 124,2018-05-01,5,2018,Government of Canada Bonds_Institutional Clients,202232
@@ -62,13 +62,13 @@
 160,2018-05-01,5,2018,Government of Canada Bonds_Issuer,75
 148,2018-05-01,5,2018,Government of Canada Bonds_Non-Residents,190893
 136,2018-05-01,5,2018,Government of Canada Bonds_Retail Clients,500
-16,2018-05-01,5,2018,The Month_Anonymous Systems: IDBBs and ATSs,7693
-28,2018-05-01,5,2018,The Month_Banks,7786
-40,2018-05-01,5,2018,The Month_Institutional Clients,79894
-4,2018-05-01,5,2018,The Month_Investment Dealers,4849
-76,2018-05-01,5,2018,The Month_Issuer,0
-64,2018-05-01,5,2018,The Month_Non-Residents,14795
-52,2018-05-01,5,2018,The Month_Retail Clients,1248
+16,2018-05-01,5,2018,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,7693
+28,2018-05-01,5,2018,Government of Canada Treasury Bills_Banks,7786
+40,2018-05-01,5,2018,Government of Canada Treasury Bills_Institutional Clients,79894
+4,2018-05-01,5,2018,Government of Canada Treasury Bills_Investment Dealers,4849
+76,2018-05-01,5,2018,Government of Canada Treasury Bills_Issuer,0
+64,2018-05-01,5,2018,Government of Canada Treasury Bills_Non-Residents,14795
+52,2018-05-01,5,2018,Government of Canada Treasury Bills_Retail Clients,1248
 101,2018-06-01,6,2018,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,275767
 113,2018-06-01,6,2018,Government of Canada Bonds_Banks,156913
 125,2018-06-01,6,2018,Government of Canada Bonds_Institutional Clients,213054
@@ -76,13 +76,13 @@
 161,2018-06-01,6,2018,Government of Canada Bonds_Issuer,175
 149,2018-06-01,6,2018,Government of Canada Bonds_Non-Residents,170395
 137,2018-06-01,6,2018,Government of Canada Bonds_Retail Clients,640
-17,2018-06-01,6,2018,The Month_Anonymous Systems: IDBBs and ATSs,11198
-29,2018-06-01,6,2018,The Month_Banks,4848
-41,2018-06-01,6,2018,The Month_Institutional Clients,64607
-5,2018-06-01,6,2018,The Month_Investment Dealers,5404
-77,2018-06-01,6,2018,The Month_Issuer,0
-65,2018-06-01,6,2018,The Month_Non-Residents,12483
-53,2018-06-01,6,2018,The Month_Retail Clients,1441
+17,2018-06-01,6,2018,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,11198
+29,2018-06-01,6,2018,Government of Canada Treasury Bills_Banks,4848
+41,2018-06-01,6,2018,Government of Canada Treasury Bills_Institutional Clients,64607
+5,2018-06-01,6,2018,Government of Canada Treasury Bills_Investment Dealers,5404
+77,2018-06-01,6,2018,Government of Canada Treasury Bills_Issuer,0
+65,2018-06-01,6,2018,Government of Canada Treasury Bills_Non-Residents,12483
+53,2018-06-01,6,2018,Government of Canada Treasury Bills_Retail Clients,1441
 102,2018-07-01,7,2018,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,258731
 114,2018-07-01,7,2018,Government of Canada Bonds_Banks,118276
 126,2018-07-01,7,2018,Government of Canada Bonds_Institutional Clients,137147
@@ -90,13 +90,13 @@
 162,2018-07-01,7,2018,Government of Canada Bonds_Issuer,196
 150,2018-07-01,7,2018,Government of Canada Bonds_Non-Residents,151457
 138,2018-07-01,7,2018,Government of Canada Bonds_Retail Clients,380
-18,2018-07-01,7,2018,The Month_Anonymous Systems: IDBBs and ATSs,7471
-30,2018-07-01,7,2018,The Month_Banks,6397
-42,2018-07-01,7,2018,The Month_Institutional Clients,55895
-6,2018-07-01,7,2018,The Month_Investment Dealers,4400
-78,2018-07-01,7,2018,The Month_Issuer,0
-66,2018-07-01,7,2018,The Month_Non-Residents,11392
-54,2018-07-01,7,2018,The Month_Retail Clients,1299
+18,2018-07-01,7,2018,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,7471
+30,2018-07-01,7,2018,Government of Canada Treasury Bills_Banks,6397
+42,2018-07-01,7,2018,Government of Canada Treasury Bills_Institutional Clients,55895
+6,2018-07-01,7,2018,Government of Canada Treasury Bills_Investment Dealers,4400
+78,2018-07-01,7,2018,Government of Canada Treasury Bills_Issuer,0
+66,2018-07-01,7,2018,Government of Canada Treasury Bills_Non-Residents,11392
+54,2018-07-01,7,2018,Government of Canada Treasury Bills_Retail Clients,1299
 103,2018-08-01,8,2018,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,261436
 115,2018-08-01,8,2018,Government of Canada Bonds_Banks,101843
 127,2018-08-01,8,2018,Government of Canada Bonds_Institutional Clients,165284
@@ -104,13 +104,13 @@
 163,2018-08-01,8,2018,Government of Canada Bonds_Issuer,125
 151,2018-08-01,8,2018,Government of Canada Bonds_Non-Residents,183608
 139,2018-08-01,8,2018,Government of Canada Bonds_Retail Clients,328
-19,2018-08-01,8,2018,The Month_Anonymous Systems: IDBBs and ATSs,11325
-31,2018-08-01,8,2018,The Month_Banks,4697
-43,2018-08-01,8,2018,The Month_Institutional Clients,68870
-7,2018-08-01,8,2018,The Month_Investment Dealers,4307
-79,2018-08-01,8,2018,The Month_Issuer,0
-67,2018-08-01,8,2018,The Month_Non-Residents,12304
-55,2018-08-01,8,2018,The Month_Retail Clients,1230
+19,2018-08-01,8,2018,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,11325
+31,2018-08-01,8,2018,Government of Canada Treasury Bills_Banks,4697
+43,2018-08-01,8,2018,Government of Canada Treasury Bills_Institutional Clients,68870
+7,2018-08-01,8,2018,Government of Canada Treasury Bills_Investment Dealers,4307
+79,2018-08-01,8,2018,Government of Canada Treasury Bills_Issuer,0
+67,2018-08-01,8,2018,Government of Canada Treasury Bills_Non-Residents,12304
+55,2018-08-01,8,2018,Government of Canada Treasury Bills_Retail Clients,1230
 104,2018-09-01,9,2018,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,309022
 116,2018-09-01,9,2018,Government of Canada Bonds_Banks,118025
 128,2018-09-01,9,2018,Government of Canada Bonds_Institutional Clients,148260
@@ -118,13 +118,13 @@
 164,2018-09-01,9,2018,Government of Canada Bonds_Issuer,10
 152,2018-09-01,9,2018,Government of Canada Bonds_Non-Residents,168216
 140,2018-09-01,9,2018,Government of Canada Bonds_Retail Clients,401
-20,2018-09-01,9,2018,The Month_Anonymous Systems: IDBBs and ATSs,11965
-32,2018-09-01,9,2018,The Month_Banks,7785
-44,2018-09-01,9,2018,The Month_Institutional Clients,63712
-8,2018-09-01,9,2018,The Month_Investment Dealers,5139
-80,2018-09-01,9,2018,The Month_Issuer,0
-68,2018-09-01,9,2018,The Month_Non-Residents,15295
-56,2018-09-01,9,2018,The Month_Retail Clients,935
+20,2018-09-01,9,2018,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,11965
+32,2018-09-01,9,2018,Government of Canada Treasury Bills_Banks,7785
+44,2018-09-01,9,2018,Government of Canada Treasury Bills_Institutional Clients,63712
+8,2018-09-01,9,2018,Government of Canada Treasury Bills_Investment Dealers,5139
+80,2018-09-01,9,2018,Government of Canada Treasury Bills_Issuer,0
+68,2018-09-01,9,2018,Government of Canada Treasury Bills_Non-Residents,15295
+56,2018-09-01,9,2018,Government of Canada Treasury Bills_Retail Clients,935
 105,2018-10-01,10,2018,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,378728
 117,2018-10-01,10,2018,Government of Canada Bonds_Banks,203583
 129,2018-10-01,10,2018,Government of Canada Bonds_Institutional Clients,189816
@@ -132,13 +132,13 @@
 165,2018-10-01,10,2018,Government of Canada Bonds_Issuer,0
 153,2018-10-01,10,2018,Government of Canada Bonds_Non-Residents,229942
 141,2018-10-01,10,2018,Government of Canada Bonds_Retail Clients,408
-21,2018-10-01,10,2018,The Month_Anonymous Systems: IDBBs and ATSs,12451
-33,2018-10-01,10,2018,The Month_Banks,7471
-45,2018-10-01,10,2018,The Month_Institutional Clients,87472
-9,2018-10-01,10,2018,The Month_Investment Dealers,5329
-81,2018-10-01,10,2018,The Month_Issuer,0
-69,2018-10-01,10,2018,The Month_Non-Residents,17043
-57,2018-10-01,10,2018,The Month_Retail Clients,1120
+21,2018-10-01,10,2018,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,12451
+33,2018-10-01,10,2018,Government of Canada Treasury Bills_Banks,7471
+45,2018-10-01,10,2018,Government of Canada Treasury Bills_Institutional Clients,87472
+9,2018-10-01,10,2018,Government of Canada Treasury Bills_Investment Dealers,5329
+81,2018-10-01,10,2018,Government of Canada Treasury Bills_Issuer,0
+69,2018-10-01,10,2018,Government of Canada Treasury Bills_Non-Residents,17043
+57,2018-10-01,10,2018,Government of Canada Treasury Bills_Retail Clients,1120
 106,2018-11-01,11,2018,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,276302
 118,2018-11-01,11,2018,Government of Canada Bonds_Banks,146440
 130,2018-11-01,11,2018,Government of Canada Bonds_Institutional Clients,150276
@@ -146,13 +146,13 @@
 166,2018-11-01,11,2018,Government of Canada Bonds_Issuer,0
 154,2018-11-01,11,2018,Government of Canada Bonds_Non-Residents,183296
 142,2018-11-01,11,2018,Government of Canada Bonds_Retail Clients,1797
-22,2018-11-01,11,2018,The Month_Anonymous Systems: IDBBs and ATSs,12283
-34,2018-11-01,11,2018,The Month_Banks,7583
-46,2018-11-01,11,2018,The Month_Institutional Clients,81522
-10,2018-11-01,11,2018,The Month_Investment Dealers,5674
-82,2018-11-01,11,2018,The Month_Issuer,0
-70,2018-11-01,11,2018,The Month_Non-Residents,21196
-58,2018-11-01,11,2018,The Month_Retail Clients,5441
+22,2018-11-01,11,2018,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,12283
+34,2018-11-01,11,2018,Government of Canada Treasury Bills_Banks,7583
+46,2018-11-01,11,2018,Government of Canada Treasury Bills_Institutional Clients,81522
+10,2018-11-01,11,2018,Government of Canada Treasury Bills_Investment Dealers,5674
+82,2018-11-01,11,2018,Government of Canada Treasury Bills_Issuer,0
+70,2018-11-01,11,2018,Government of Canada Treasury Bills_Non-Residents,21196
+58,2018-11-01,11,2018,Government of Canada Treasury Bills_Retail Clients,5441
 107,2018-12-01,12,2018,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,230904
 119,2018-12-01,12,2018,Government of Canada Bonds_Banks,171481
 131,2018-12-01,12,2018,Government of Canada Bonds_Institutional Clients,170625
@@ -160,13 +160,13 @@
 167,2018-12-01,12,2018,Government of Canada Bonds_Issuer,0
 155,2018-12-01,12,2018,Government of Canada Bonds_Non-Residents,194492
 143,2018-12-01,12,2018,Government of Canada Bonds_Retail Clients,787
-23,2018-12-01,12,2018,The Month_Anonymous Systems: IDBBs and ATSs,11425
-35,2018-12-01,12,2018,The Month_Banks,6537
-47,2018-12-01,12,2018,The Month_Institutional Clients,80011
-11,2018-12-01,12,2018,The Month_Investment Dealers,4769
-83,2018-12-01,12,2018,The Month_Issuer,0
-71,2018-12-01,12,2018,The Month_Non-Residents,14556
-59,2018-12-01,12,2018,The Month_Retail Clients,1639
+23,2018-12-01,12,2018,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,11425
+35,2018-12-01,12,2018,Government of Canada Treasury Bills_Banks,6537
+47,2018-12-01,12,2018,Government of Canada Treasury Bills_Institutional Clients,80011
+11,2018-12-01,12,2018,Government of Canada Treasury Bills_Investment Dealers,4769
+83,2018-12-01,12,2018,Government of Canada Treasury Bills_Issuer,0
+71,2018-12-01,12,2018,Government of Canada Treasury Bills_Non-Residents,14556
+59,2018-12-01,12,2018,Government of Canada Treasury Bills_Retail Clients,1639
 96,2019-01-01,1,2019,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,300471
 108,2019-01-01,1,2019,Government of Canada Bonds_Banks,140773
 120,2019-01-01,1,2019,Government of Canada Bonds_Institutional Clients,194662
@@ -174,13 +174,13 @@
 156,2019-01-01,1,2019,Government of Canada Bonds_Issuer,35
 144,2019-01-01,1,2019,Government of Canada Bonds_Non-Residents,210184
 132,2019-01-01,1,2019,Government of Canada Bonds_Retail Clients,633
-12,2019-01-01,1,2019,The Month_Anonymous Systems: IDBBs and ATSs,13294
-24,2019-01-01,1,2019,The Month_Banks,7356
-36,2019-01-01,1,2019,The Month_Institutional Clients,67072
-0,2019-01-01,1,2019,The Month_Investment Dealers,4296
-72,2019-01-01,1,2019,The Month_Issuer,0
-60,2019-01-01,1,2019,The Month_Non-Residents,12833
-48,2019-01-01,1,2019,The Month_Retail Clients,1951
+12,2019-01-01,1,2019,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,13294
+24,2019-01-01,1,2019,Government of Canada Treasury Bills_Banks,7356
+36,2019-01-01,1,2019,Government of Canada Treasury Bills_Institutional Clients,67072
+0,2019-01-01,1,2019,Government of Canada Treasury Bills_Investment Dealers,4296
+72,2019-01-01,1,2019,Government of Canada Treasury Bills_Issuer,0
+60,2019-01-01,1,2019,Government of Canada Treasury Bills_Non-Residents,12833
+48,2019-01-01,1,2019,Government of Canada Treasury Bills_Retail Clients,1951
 97,2019-02-01,2,2019,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,226981
 109,2019-02-01,2,2019,Government of Canada Bonds_Banks,103181
 121,2019-02-01,2,2019,Government of Canada Bonds_Institutional Clients,166481
@@ -188,13 +188,13 @@
 157,2019-02-01,2,2019,Government of Canada Bonds_Issuer,0
 145,2019-02-01,2,2019,Government of Canada Bonds_Non-Residents,158740
 133,2019-02-01,2,2019,Government of Canada Bonds_Retail Clients,521
-13,2019-02-01,2,2019,The Month_Anonymous Systems: IDBBs and ATSs,10623
-25,2019-02-01,2,2019,The Month_Banks,6953
-37,2019-02-01,2,2019,The Month_Institutional Clients,70636
-1,2019-02-01,2,2019,The Month_Investment Dealers,4241
-73,2019-02-01,2,2019,The Month_Issuer,0
-61,2019-02-01,2,2019,The Month_Non-Residents,14651
-49,2019-02-01,2,2019,The Month_Retail Clients,1111
+13,2019-02-01,2,2019,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,10623
+25,2019-02-01,2,2019,Government of Canada Treasury Bills_Banks,6953
+37,2019-02-01,2,2019,Government of Canada Treasury Bills_Institutional Clients,70636
+1,2019-02-01,2,2019,Government of Canada Treasury Bills_Investment Dealers,4241
+73,2019-02-01,2,2019,Government of Canada Treasury Bills_Issuer,0
+61,2019-02-01,2,2019,Government of Canada Treasury Bills_Non-Residents,14651
+49,2019-02-01,2,2019,Government of Canada Treasury Bills_Retail Clients,1111
 98,2019-03-01,3,2019,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,311908
 110,2019-03-01,3,2019,Government of Canada Bonds_Banks,140818
 122,2019-03-01,3,2019,Government of Canada Bonds_Institutional Clients,183367
@@ -202,13 +202,13 @@
 158,2019-03-01,3,2019,Government of Canada Bonds_Issuer,0
 146,2019-03-01,3,2019,Government of Canada Bonds_Non-Residents,193965
 134,2019-03-01,3,2019,Government of Canada Bonds_Retail Clients,381
-14,2019-03-01,3,2019,The Month_Anonymous Systems: IDBBs and ATSs,9329
-26,2019-03-01,3,2019,The Month_Banks,6369
-38,2019-03-01,3,2019,The Month_Institutional Clients,72275
-2,2019-03-01,3,2019,The Month_Investment Dealers,3728
-74,2019-03-01,3,2019,The Month_Issuer,0
-62,2019-03-01,3,2019,The Month_Non-Residents,15344
-50,2019-03-01,3,2019,The Month_Retail Clients,1144
+14,2019-03-01,3,2019,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,9329
+26,2019-03-01,3,2019,Government of Canada Treasury Bills_Banks,6369
+38,2019-03-01,3,2019,Government of Canada Treasury Bills_Institutional Clients,72275
+2,2019-03-01,3,2019,Government of Canada Treasury Bills_Investment Dealers,3728
+74,2019-03-01,3,2019,Government of Canada Treasury Bills_Issuer,0
+62,2019-03-01,3,2019,Government of Canada Treasury Bills_Non-Residents,15344
+50,2019-03-01,3,2019,Government of Canada Treasury Bills_Retail Clients,1144
 99,2019-04-01,4,2019,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,329450
 111,2019-04-01,4,2019,Government of Canada Bonds_Banks,160441
 123,2019-04-01,4,2019,Government of Canada Bonds_Institutional Clients,184430
@@ -216,13 +216,13 @@
 159,2019-04-01,4,2019,Government of Canada Bonds_Issuer,3
 147,2019-04-01,4,2019,Government of Canada Bonds_Non-Residents,213685
 135,2019-04-01,4,2019,Government of Canada Bonds_Retail Clients,254
-15,2019-04-01,4,2019,The Month_Anonymous Systems: IDBBs and ATSs,5866
-27,2019-04-01,4,2019,The Month_Banks,6607
-39,2019-04-01,4,2019,The Month_Institutional Clients,78793
-3,2019-04-01,4,2019,The Month_Investment Dealers,3603
-75,2019-04-01,4,2019,The Month_Issuer,0
-63,2019-04-01,4,2019,The Month_Non-Residents,18860
-51,2019-04-01,4,2019,The Month_Retail Clients,891
+15,2019-04-01,4,2019,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,5866
+27,2019-04-01,4,2019,Government of Canada Treasury Bills_Banks,6607
+39,2019-04-01,4,2019,Government of Canada Treasury Bills_Institutional Clients,78793
+3,2019-04-01,4,2019,Government of Canada Treasury Bills_Investment Dealers,3603
+75,2019-04-01,4,2019,Government of Canada Treasury Bills_Issuer,0
+63,2019-04-01,4,2019,Government of Canada Treasury Bills_Non-Residents,18860
+51,2019-04-01,4,2019,Government of Canada Treasury Bills_Retail Clients,891
 100,2019-05-01,5,2019,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,367050
 112,2019-05-01,5,2019,Government of Canada Bonds_Banks,147282
 124,2019-05-01,5,2019,Government of Canada Bonds_Institutional Clients,194784
@@ -230,13 +230,13 @@
 160,2019-05-01,5,2019,Government of Canada Bonds_Issuer,4
 148,2019-05-01,5,2019,Government of Canada Bonds_Non-Residents,213293
 136,2019-05-01,5,2019,Government of Canada Bonds_Retail Clients,2261
-16,2019-05-01,5,2019,The Month_Anonymous Systems: IDBBs and ATSs,12068
-28,2019-05-01,5,2019,The Month_Banks,6098
-40,2019-05-01,5,2019,The Month_Institutional Clients,79023
-4,2019-05-01,5,2019,The Month_Investment Dealers,3743
-76,2019-05-01,5,2019,The Month_Issuer,4
-64,2019-05-01,5,2019,The Month_Non-Residents,21136
-52,2019-05-01,5,2019,The Month_Retail Clients,1527
+16,2019-05-01,5,2019,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,12068
+28,2019-05-01,5,2019,Government of Canada Treasury Bills_Banks,6098
+40,2019-05-01,5,2019,Government of Canada Treasury Bills_Institutional Clients,79023
+4,2019-05-01,5,2019,Government of Canada Treasury Bills_Investment Dealers,3743
+76,2019-05-01,5,2019,Government of Canada Treasury Bills_Issuer,4
+64,2019-05-01,5,2019,Government of Canada Treasury Bills_Non-Residents,21136
+52,2019-05-01,5,2019,Government of Canada Treasury Bills_Retail Clients,1527
 101,2019-06-01,6,2019,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,325447
 113,2019-06-01,6,2019,Government of Canada Bonds_Banks,139761
 125,2019-06-01,6,2019,Government of Canada Bonds_Institutional Clients,216447
@@ -244,13 +244,13 @@
 161,2019-06-01,6,2019,Government of Canada Bonds_Issuer,284
 149,2019-06-01,6,2019,Government of Canada Bonds_Non-Residents,178948
 137,2019-06-01,6,2019,Government of Canada Bonds_Retail Clients,2149
-17,2019-06-01,6,2019,The Month_Anonymous Systems: IDBBs and ATSs,8038
-29,2019-06-01,6,2019,The Month_Banks,5471
-41,2019-06-01,6,2019,The Month_Institutional Clients,66046
-5,2019-06-01,6,2019,The Month_Investment Dealers,3941
-77,2019-06-01,6,2019,The Month_Issuer,0
-65,2019-06-01,6,2019,The Month_Non-Residents,16863
-53,2019-06-01,6,2019,The Month_Retail Clients,1393
+17,2019-06-01,6,2019,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,8038
+29,2019-06-01,6,2019,Government of Canada Treasury Bills_Banks,5471
+41,2019-06-01,6,2019,Government of Canada Treasury Bills_Institutional Clients,66046
+5,2019-06-01,6,2019,Government of Canada Treasury Bills_Investment Dealers,3941
+77,2019-06-01,6,2019,Government of Canada Treasury Bills_Issuer,0
+65,2019-06-01,6,2019,Government of Canada Treasury Bills_Non-Residents,16863
+53,2019-06-01,6,2019,Government of Canada Treasury Bills_Retail Clients,1393
 102,2019-07-01,7,2019,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,341265
 114,2019-07-01,7,2019,Government of Canada Bonds_Banks,178856
 126,2019-07-01,7,2019,Government of Canada Bonds_Institutional Clients,185980
@@ -258,13 +258,13 @@
 162,2019-07-01,7,2019,Government of Canada Bonds_Issuer,12
 150,2019-07-01,7,2019,Government of Canada Bonds_Non-Residents,206867
 138,2019-07-01,7,2019,Government of Canada Bonds_Retail Clients,405
-18,2019-07-01,7,2019,The Month_Anonymous Systems: IDBBs and ATSs,6080
-30,2019-07-01,7,2019,The Month_Banks,5399
-42,2019-07-01,7,2019,The Month_Institutional Clients,66324
-6,2019-07-01,7,2019,The Month_Investment Dealers,3326
-78,2019-07-01,7,2019,The Month_Issuer,0
-66,2019-07-01,7,2019,The Month_Non-Residents,14972
-54,2019-07-01,7,2019,The Month_Retail Clients,1085
+18,2019-07-01,7,2019,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,6080
+30,2019-07-01,7,2019,Government of Canada Treasury Bills_Banks,5399
+42,2019-07-01,7,2019,Government of Canada Treasury Bills_Institutional Clients,66324
+6,2019-07-01,7,2019,Government of Canada Treasury Bills_Investment Dealers,3326
+78,2019-07-01,7,2019,Government of Canada Treasury Bills_Issuer,0
+66,2019-07-01,7,2019,Government of Canada Treasury Bills_Non-Residents,14972
+54,2019-07-01,7,2019,Government of Canada Treasury Bills_Retail Clients,1085
 103,2019-08-01,8,2019,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,237734
 115,2019-08-01,8,2019,Government of Canada Bonds_Banks,139923
 127,2019-08-01,8,2019,Government of Canada Bonds_Institutional Clients,158624
@@ -272,13 +272,13 @@
 163,2019-08-01,8,2019,Government of Canada Bonds_Issuer,10
 151,2019-08-01,8,2019,Government of Canada Bonds_Non-Residents,171702
 139,2019-08-01,8,2019,Government of Canada Bonds_Retail Clients,385
-19,2019-08-01,8,2019,The Month_Anonymous Systems: IDBBs and ATSs,11528
-31,2019-08-01,8,2019,The Month_Banks,4181
-43,2019-08-01,8,2019,The Month_Institutional Clients,68685
-7,2019-08-01,8,2019,The Month_Investment Dealers,3590
-79,2019-08-01,8,2019,The Month_Issuer,0
-67,2019-08-01,8,2019,The Month_Non-Residents,14404
-55,2019-08-01,8,2019,The Month_Retail Clients,1315
+19,2019-08-01,8,2019,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,11528
+31,2019-08-01,8,2019,Government of Canada Treasury Bills_Banks,4181
+43,2019-08-01,8,2019,Government of Canada Treasury Bills_Institutional Clients,68685
+7,2019-08-01,8,2019,Government of Canada Treasury Bills_Investment Dealers,3590
+79,2019-08-01,8,2019,Government of Canada Treasury Bills_Issuer,0
+67,2019-08-01,8,2019,Government of Canada Treasury Bills_Non-Residents,14404
+55,2019-08-01,8,2019,Government of Canada Treasury Bills_Retail Clients,1315
 104,2019-09-01,9,2019,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,259467
 116,2019-09-01,9,2019,Government of Canada Bonds_Banks,145821
 128,2019-09-01,9,2019,Government of Canada Bonds_Institutional Clients,158428
@@ -286,13 +286,13 @@
 164,2019-09-01,9,2019,Government of Canada Bonds_Issuer,0
 152,2019-09-01,9,2019,Government of Canada Bonds_Non-Residents,174430
 140,2019-09-01,9,2019,Government of Canada Bonds_Retail Clients,342
-20,2019-09-01,9,2019,The Month_Anonymous Systems: IDBBs and ATSs,11151
-32,2019-09-01,9,2019,The Month_Banks,5702
-44,2019-09-01,9,2019,The Month_Institutional Clients,66373
-8,2019-09-01,9,2019,The Month_Investment Dealers,3183
-80,2019-09-01,9,2019,The Month_Issuer,0
-68,2019-09-01,9,2019,The Month_Non-Residents,12113
-56,2019-09-01,9,2019,The Month_Retail Clients,1425
+20,2019-09-01,9,2019,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,11151
+32,2019-09-01,9,2019,Government of Canada Treasury Bills_Banks,5702
+44,2019-09-01,9,2019,Government of Canada Treasury Bills_Institutional Clients,66373
+8,2019-09-01,9,2019,Government of Canada Treasury Bills_Investment Dealers,3183
+80,2019-09-01,9,2019,Government of Canada Treasury Bills_Issuer,0
+68,2019-09-01,9,2019,Government of Canada Treasury Bills_Non-Residents,12113
+56,2019-09-01,9,2019,Government of Canada Treasury Bills_Retail Clients,1425
 105,2019-10-01,10,2019,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,299689
 117,2019-10-01,10,2019,Government of Canada Bonds_Banks,151818
 129,2019-10-01,10,2019,Government of Canada Bonds_Institutional Clients,218657
@@ -300,13 +300,13 @@
 165,2019-10-01,10,2019,Government of Canada Bonds_Issuer,0
 153,2019-10-01,10,2019,Government of Canada Bonds_Non-Residents,157858
 141,2019-10-01,10,2019,Government of Canada Bonds_Retail Clients,286
-21,2019-10-01,10,2019,The Month_Anonymous Systems: IDBBs and ATSs,6690
-33,2019-10-01,10,2019,The Month_Banks,6275
-45,2019-10-01,10,2019,The Month_Institutional Clients,71890
-9,2019-10-01,10,2019,The Month_Investment Dealers,3082
-81,2019-10-01,10,2019,The Month_Issuer,1675
-69,2019-10-01,10,2019,The Month_Non-Residents,12468
-57,2019-10-01,10,2019,The Month_Retail Clients,4080
+21,2019-10-01,10,2019,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,6690
+33,2019-10-01,10,2019,Government of Canada Treasury Bills_Banks,6275
+45,2019-10-01,10,2019,Government of Canada Treasury Bills_Institutional Clients,71890
+9,2019-10-01,10,2019,Government of Canada Treasury Bills_Investment Dealers,3082
+81,2019-10-01,10,2019,Government of Canada Treasury Bills_Issuer,1675
+69,2019-10-01,10,2019,Government of Canada Treasury Bills_Non-Residents,12468
+57,2019-10-01,10,2019,Government of Canada Treasury Bills_Retail Clients,4080
 106,2019-11-01,11,2019,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,244600
 118,2019-11-01,11,2019,Government of Canada Bonds_Banks,89477
 130,2019-11-01,11,2019,Government of Canada Bonds_Institutional Clients,221918
@@ -314,13 +314,13 @@
 166,2019-11-01,11,2019,Government of Canada Bonds_Issuer,7
 154,2019-11-01,11,2019,Government of Canada Bonds_Non-Residents,119682
 142,2019-11-01,11,2019,Government of Canada Bonds_Retail Clients,291
-22,2019-11-01,11,2019,The Month_Anonymous Systems: IDBBs and ATSs,4263
-34,2019-11-01,11,2019,The Month_Banks,6497
-46,2019-11-01,11,2019,The Month_Institutional Clients,58296
-10,2019-11-01,11,2019,The Month_Investment Dealers,3433
-82,2019-11-01,11,2019,The Month_Issuer,4701
-70,2019-11-01,11,2019,The Month_Non-Residents,9314
-58,2019-11-01,11,2019,The Month_Retail Clients,3928
+22,2019-11-01,11,2019,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,4263
+34,2019-11-01,11,2019,Government of Canada Treasury Bills_Banks,6497
+46,2019-11-01,11,2019,Government of Canada Treasury Bills_Institutional Clients,58296
+10,2019-11-01,11,2019,Government of Canada Treasury Bills_Investment Dealers,3433
+82,2019-11-01,11,2019,Government of Canada Treasury Bills_Issuer,4701
+70,2019-11-01,11,2019,Government of Canada Treasury Bills_Non-Residents,9314
+58,2019-11-01,11,2019,Government of Canada Treasury Bills_Retail Clients,3928
 107,2019-12-01,12,2019,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,224862
 119,2019-12-01,12,2019,Government of Canada Bonds_Banks,115602
 131,2019-12-01,12,2019,Government of Canada Bonds_Institutional Clients,212885
@@ -328,13 +328,13 @@
 167,2019-12-01,12,2019,Government of Canada Bonds_Issuer,9
 155,2019-12-01,12,2019,Government of Canada Bonds_Non-Residents,106502
 143,2019-12-01,12,2019,Government of Canada Bonds_Retail Clients,362
-23,2019-12-01,12,2019,The Month_Anonymous Systems: IDBBs and ATSs,4290
-35,2019-12-01,12,2019,The Month_Banks,6189
-47,2019-12-01,12,2019,The Month_Institutional Clients,64848
-11,2019-12-01,12,2019,The Month_Investment Dealers,4514
-83,2019-12-01,12,2019,The Month_Issuer,4365
-71,2019-12-01,12,2019,The Month_Non-Residents,7982
-59,2019-12-01,12,2019,The Month_Retail Clients,1870
+23,2019-12-01,12,2019,Government of Canada Treasury Bills_Anonymous Systems: IDBBs and ATSs,4290
+35,2019-12-01,12,2019,Government of Canada Treasury Bills_Banks,6189
+47,2019-12-01,12,2019,Government of Canada Treasury Bills_Institutional Clients,64848
+11,2019-12-01,12,2019,Government of Canada Treasury Bills_Investment Dealers,4514
+83,2019-12-01,12,2019,Government of Canada Treasury Bills_Issuer,4365
+71,2019-12-01,12,2019,Government of Canada Treasury Bills_Non-Residents,7982
+59,2019-12-01,12,2019,Government of Canada Treasury Bills_Retail Clients,1870
 96,2020-01-01,1,2020,Government of Canada Bonds_Anonymous Systems: IDBBs and ATSs,306152.2475
 108,2020-01-01,1,2020,Government of Canada Bonds_Banks,93870.12855
 120,2020-01-01,1,2020,Government of Canada Bonds_Institutional Clients,281255.113212

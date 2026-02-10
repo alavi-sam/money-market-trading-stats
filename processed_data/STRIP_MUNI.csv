@@ -6,13 +6,13 @@
 156,2018-01-01,1,2018,Municipal bonds_Issuer,0
 144,2018-01-01,1,2018,Municipal bonds_Non-Residents,224
 132,2018-01-01,1,2018,Municipal bonds_Retail Clients,145
-12,2018-01-01,1,2018,The Month_Anonymous Systems: IDBBs and ATSs,216
-24,2018-01-01,1,2018,The Month_Banks,95
-36,2018-01-01,1,2018,The Month_Institutional Clients,2955
-0,2018-01-01,1,2018,The Month_Investment Dealers,282
-72,2018-01-01,1,2018,The Month_Issuer,25
-60,2018-01-01,1,2018,The Month_Non-Residents,100
-48,2018-01-01,1,2018,The Month_Retail Clients,396
+12,2018-01-01,1,2018,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,216
+24,2018-01-01,1,2018,Strip Bond Trading (coupons and residuals)_Banks,95
+36,2018-01-01,1,2018,Strip Bond Trading (coupons and residuals)_Institutional Clients,2955
+0,2018-01-01,1,2018,Strip Bond Trading (coupons and residuals)_Investment Dealers,282
+72,2018-01-01,1,2018,Strip Bond Trading (coupons and residuals)_Issuer,25
+60,2018-01-01,1,2018,Strip Bond Trading (coupons and residuals)_Non-Residents,100
+48,2018-01-01,1,2018,Strip Bond Trading (coupons and residuals)_Retail Clients,396
 97,2018-02-01,2,2018,Municipal bonds_Anonymous Systems: IDBBs and ATSs,637
 109,2018-02-01,2,2018,Municipal bonds_Banks,188
 121,2018-02-01,2,2018,Municipal bonds_Institutional Clients,1513
@@ -20,13 +20,13 @@
 157,2018-02-01,2,2018,Municipal bonds_Issuer,0
 145,2018-02-01,2,2018,Municipal bonds_Non-Residents,203
 133,2018-02-01,2,2018,Municipal bonds_Retail Clients,187
-13,2018-02-01,2,2018,The Month_Anonymous Systems: IDBBs and ATSs,221
-25,2018-02-01,2,2018,The Month_Banks,37
-37,2018-02-01,2,2018,The Month_Institutional Clients,2484
-1,2018-02-01,2,2018,The Month_Investment Dealers,121
-73,2018-02-01,2,2018,The Month_Issuer,40
-61,2018-02-01,2,2018,The Month_Non-Residents,104
-49,2018-02-01,2,2018,The Month_Retail Clients,342
+13,2018-02-01,2,2018,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,221
+25,2018-02-01,2,2018,Strip Bond Trading (coupons and residuals)_Banks,37
+37,2018-02-01,2,2018,Strip Bond Trading (coupons and residuals)_Institutional Clients,2484
+1,2018-02-01,2,2018,Strip Bond Trading (coupons and residuals)_Investment Dealers,121
+73,2018-02-01,2,2018,Strip Bond Trading (coupons and residuals)_Issuer,40
+61,2018-02-01,2,2018,Strip Bond Trading (coupons and residuals)_Non-Residents,104
+49,2018-02-01,2,2018,Strip Bond Trading (coupons and residuals)_Retail Clients,342
 98,2018-03-01,3,2018,Municipal bonds_Anonymous Systems: IDBBs and ATSs,637
 110,2018-03-01,3,2018,Municipal bonds_Banks,161
 122,2018-03-01,3,2018,Municipal bonds_Institutional Clients,1528
@@ -34,13 +34,13 @@
 158,2018-03-01,3,2018,Municipal bonds_Issuer,0
 146,2018-03-01,3,2018,Municipal bonds_Non-Residents,441
 134,2018-03-01,3,2018,Municipal bonds_Retail Clients,182
-14,2018-03-01,3,2018,The Month_Anonymous Systems: IDBBs and ATSs,277
-26,2018-03-01,3,2018,The Month_Banks,75
-38,2018-03-01,3,2018,The Month_Institutional Clients,3313
-2,2018-03-01,3,2018,The Month_Investment Dealers,174
-74,2018-03-01,3,2018,The Month_Issuer,69
-62,2018-03-01,3,2018,The Month_Non-Residents,180
-50,2018-03-01,3,2018,The Month_Retail Clients,421
+14,2018-03-01,3,2018,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,277
+26,2018-03-01,3,2018,Strip Bond Trading (coupons and residuals)_Banks,75
+38,2018-03-01,3,2018,Strip Bond Trading (coupons and residuals)_Institutional Clients,3313
+2,2018-03-01,3,2018,Strip Bond Trading (coupons and residuals)_Investment Dealers,174
+74,2018-03-01,3,2018,Strip Bond Trading (coupons and residuals)_Issuer,69
+62,2018-03-01,3,2018,Strip Bond Trading (coupons and residuals)_Non-Residents,180
+50,2018-03-01,3,2018,Strip Bond Trading (coupons and residuals)_Retail Clients,421
 99,2018-04-01,4,2018,Municipal bonds_Anonymous Systems: IDBBs and ATSs,280
 111,2018-04-01,4,2018,Municipal bonds_Banks,128
 123,2018-04-01,4,2018,Municipal bonds_Institutional Clients,1649
@@ -48,13 +48,13 @@
 159,2018-04-01,4,2018,Municipal bonds_Issuer,0
 147,2018-04-01,4,2018,Municipal bonds_Non-Residents,241
 135,2018-04-01,4,2018,Municipal bonds_Retail Clients,100
-15,2018-04-01,4,2018,The Month_Anonymous Systems: IDBBs and ATSs,113
-27,2018-04-01,4,2018,The Month_Banks,102
-39,2018-04-01,4,2018,The Month_Institutional Clients,3177
-3,2018-04-01,4,2018,The Month_Investment Dealers,228
-75,2018-04-01,4,2018,The Month_Issuer,50
-63,2018-04-01,4,2018,The Month_Non-Residents,247
-51,2018-04-01,4,2018,The Month_Retail Clients,294
+15,2018-04-01,4,2018,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,113
+27,2018-04-01,4,2018,Strip Bond Trading (coupons and residuals)_Banks,102
+39,2018-04-01,4,2018,Strip Bond Trading (coupons and residuals)_Institutional Clients,3177
+3,2018-04-01,4,2018,Strip Bond Trading (coupons and residuals)_Investment Dealers,228
+75,2018-04-01,4,2018,Strip Bond Trading (coupons and residuals)_Issuer,50
+63,2018-04-01,4,2018,Strip Bond Trading (coupons and residuals)_Non-Residents,247
+51,2018-04-01,4,2018,Strip Bond Trading (coupons and residuals)_Retail Clients,294
 100,2018-05-01,5,2018,Municipal bonds_Anonymous Systems: IDBBs and ATSs,487
 112,2018-05-01,5,2018,Municipal bonds_Banks,108
 124,2018-05-01,5,2018,Municipal bonds_Institutional Clients,1123
@@ -62,13 +62,13 @@
 160,2018-05-01,5,2018,Municipal bonds_Issuer,7
 148,2018-05-01,5,2018,Municipal bonds_Non-Residents,250
 136,2018-05-01,5,2018,Municipal bonds_Retail Clients,172
-16,2018-05-01,5,2018,The Month_Anonymous Systems: IDBBs and ATSs,483
-28,2018-05-01,5,2018,The Month_Banks,75
-40,2018-05-01,5,2018,The Month_Institutional Clients,2474
-4,2018-05-01,5,2018,The Month_Investment Dealers,243
-76,2018-05-01,5,2018,The Month_Issuer,50
-64,2018-05-01,5,2018,The Month_Non-Residents,136
-52,2018-05-01,5,2018,The Month_Retail Clients,331
+16,2018-05-01,5,2018,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,483
+28,2018-05-01,5,2018,Strip Bond Trading (coupons and residuals)_Banks,75
+40,2018-05-01,5,2018,Strip Bond Trading (coupons and residuals)_Institutional Clients,2474
+4,2018-05-01,5,2018,Strip Bond Trading (coupons and residuals)_Investment Dealers,243
+76,2018-05-01,5,2018,Strip Bond Trading (coupons and residuals)_Issuer,50
+64,2018-05-01,5,2018,Strip Bond Trading (coupons and residuals)_Non-Residents,136
+52,2018-05-01,5,2018,Strip Bond Trading (coupons and residuals)_Retail Clients,331
 101,2018-06-01,6,2018,Municipal bonds_Anonymous Systems: IDBBs and ATSs,269
 113,2018-06-01,6,2018,Municipal bonds_Banks,156
 125,2018-06-01,6,2018,Municipal bonds_Institutional Clients,1479
@@ -76,13 +76,13 @@
 161,2018-06-01,6,2018,Municipal bonds_Issuer,2
 149,2018-06-01,6,2018,Municipal bonds_Non-Residents,163
 137,2018-06-01,6,2018,Municipal bonds_Retail Clients,177
-17,2018-06-01,6,2018,The Month_Anonymous Systems: IDBBs and ATSs,156
-29,2018-06-01,6,2018,The Month_Banks,235
-41,2018-06-01,6,2018,The Month_Institutional Clients,2513
-5,2018-06-01,6,2018,The Month_Investment Dealers,258
-77,2018-06-01,6,2018,The Month_Issuer,320
-65,2018-06-01,6,2018,The Month_Non-Residents,656
-53,2018-06-01,6,2018,The Month_Retail Clients,365
+17,2018-06-01,6,2018,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,156
+29,2018-06-01,6,2018,Strip Bond Trading (coupons and residuals)_Banks,235
+41,2018-06-01,6,2018,Strip Bond Trading (coupons and residuals)_Institutional Clients,2513
+5,2018-06-01,6,2018,Strip Bond Trading (coupons and residuals)_Investment Dealers,258
+77,2018-06-01,6,2018,Strip Bond Trading (coupons and residuals)_Issuer,320
+65,2018-06-01,6,2018,Strip Bond Trading (coupons and residuals)_Non-Residents,656
+53,2018-06-01,6,2018,Strip Bond Trading (coupons and residuals)_Retail Clients,365
 102,2018-07-01,7,2018,Municipal bonds_Anonymous Systems: IDBBs and ATSs,421
 114,2018-07-01,7,2018,Municipal bonds_Banks,163
 126,2018-07-01,7,2018,Municipal bonds_Institutional Clients,1599
@@ -90,13 +90,13 @@
 162,2018-07-01,7,2018,Municipal bonds_Issuer,99
 150,2018-07-01,7,2018,Municipal bonds_Non-Residents,248
 138,2018-07-01,7,2018,Municipal bonds_Retail Clients,159
-18,2018-07-01,7,2018,The Month_Anonymous Systems: IDBBs and ATSs,136
-30,2018-07-01,7,2018,The Month_Banks,156
-42,2018-07-01,7,2018,The Month_Institutional Clients,3010
-6,2018-07-01,7,2018,The Month_Investment Dealers,256
-78,2018-07-01,7,2018,The Month_Issuer,16
-66,2018-07-01,7,2018,The Month_Non-Residents,312
-54,2018-07-01,7,2018,The Month_Retail Clients,297
+18,2018-07-01,7,2018,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,136
+30,2018-07-01,7,2018,Strip Bond Trading (coupons and residuals)_Banks,156
+42,2018-07-01,7,2018,Strip Bond Trading (coupons and residuals)_Institutional Clients,3010
+6,2018-07-01,7,2018,Strip Bond Trading (coupons and residuals)_Investment Dealers,256
+78,2018-07-01,7,2018,Strip Bond Trading (coupons and residuals)_Issuer,16
+66,2018-07-01,7,2018,Strip Bond Trading (coupons and residuals)_Non-Residents,312
+54,2018-07-01,7,2018,Strip Bond Trading (coupons and residuals)_Retail Clients,297
 103,2018-08-01,8,2018,Municipal bonds_Anonymous Systems: IDBBs and ATSs,317
 115,2018-08-01,8,2018,Municipal bonds_Banks,185
 127,2018-08-01,8,2018,Municipal bonds_Institutional Clients,1371
@@ -104,13 +104,13 @@
 163,2018-08-01,8,2018,Municipal bonds_Issuer,7
 151,2018-08-01,8,2018,Municipal bonds_Non-Residents,251
 139,2018-08-01,8,2018,Municipal bonds_Retail Clients,147
-19,2018-08-01,8,2018,The Month_Anonymous Systems: IDBBs and ATSs,239
-31,2018-08-01,8,2018,The Month_Banks,108
-43,2018-08-01,8,2018,The Month_Institutional Clients,3462
-7,2018-08-01,8,2018,The Month_Investment Dealers,130
-79,2018-08-01,8,2018,The Month_Issuer,25
-67,2018-08-01,8,2018,The Month_Non-Residents,267
-55,2018-08-01,8,2018,The Month_Retail Clients,319
+19,2018-08-01,8,2018,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,239
+31,2018-08-01,8,2018,Strip Bond Trading (coupons and residuals)_Banks,108
+43,2018-08-01,8,2018,Strip Bond Trading (coupons and residuals)_Institutional Clients,3462
+7,2018-08-01,8,2018,Strip Bond Trading (coupons and residuals)_Investment Dealers,130
+79,2018-08-01,8,2018,Strip Bond Trading (coupons and residuals)_Issuer,25
+67,2018-08-01,8,2018,Strip Bond Trading (coupons and residuals)_Non-Residents,267
+55,2018-08-01,8,2018,Strip Bond Trading (coupons and residuals)_Retail Clients,319
 104,2018-09-01,9,2018,Municipal bonds_Anonymous Systems: IDBBs and ATSs,1067
 116,2018-09-01,9,2018,Municipal bonds_Banks,302
 128,2018-09-01,9,2018,Municipal bonds_Institutional Clients,1822
@@ -118,13 +118,13 @@
 164,2018-09-01,9,2018,Municipal bonds_Issuer,0
 152,2018-09-01,9,2018,Municipal bonds_Non-Residents,295
 140,2018-09-01,9,2018,Municipal bonds_Retail Clients,142
-20,2018-09-01,9,2018,The Month_Anonymous Systems: IDBBs and ATSs,608
-32,2018-09-01,9,2018,The Month_Banks,113
-44,2018-09-01,9,2018,The Month_Institutional Clients,3067
-8,2018-09-01,9,2018,The Month_Investment Dealers,224
-80,2018-09-01,9,2018,The Month_Issuer,48
-68,2018-09-01,9,2018,The Month_Non-Residents,972
-56,2018-09-01,9,2018,The Month_Retail Clients,281
+20,2018-09-01,9,2018,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,608
+32,2018-09-01,9,2018,Strip Bond Trading (coupons and residuals)_Banks,113
+44,2018-09-01,9,2018,Strip Bond Trading (coupons and residuals)_Institutional Clients,3067
+8,2018-09-01,9,2018,Strip Bond Trading (coupons and residuals)_Investment Dealers,224
+80,2018-09-01,9,2018,Strip Bond Trading (coupons and residuals)_Issuer,48
+68,2018-09-01,9,2018,Strip Bond Trading (coupons and residuals)_Non-Residents,972
+56,2018-09-01,9,2018,Strip Bond Trading (coupons and residuals)_Retail Clients,281
 105,2018-10-01,10,2018,Municipal bonds_Anonymous Systems: IDBBs and ATSs,616
 117,2018-10-01,10,2018,Municipal bonds_Banks,282
 129,2018-10-01,10,2018,Municipal bonds_Institutional Clients,1328
@@ -132,13 +132,13 @@
 165,2018-10-01,10,2018,Municipal bonds_Issuer,0
 153,2018-10-01,10,2018,Municipal bonds_Non-Residents,124
 141,2018-10-01,10,2018,Municipal bonds_Retail Clients,149
-21,2018-10-01,10,2018,The Month_Anonymous Systems: IDBBs and ATSs,483
-33,2018-10-01,10,2018,The Month_Banks,319
-45,2018-10-01,10,2018,The Month_Institutional Clients,2788
-9,2018-10-01,10,2018,The Month_Investment Dealers,278
-81,2018-10-01,10,2018,The Month_Issuer,10
-69,2018-10-01,10,2018,The Month_Non-Residents,81
-57,2018-10-01,10,2018,The Month_Retail Clients,305
+21,2018-10-01,10,2018,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,483
+33,2018-10-01,10,2018,Strip Bond Trading (coupons and residuals)_Banks,319
+45,2018-10-01,10,2018,Strip Bond Trading (coupons and residuals)_Institutional Clients,2788
+9,2018-10-01,10,2018,Strip Bond Trading (coupons and residuals)_Investment Dealers,278
+81,2018-10-01,10,2018,Strip Bond Trading (coupons and residuals)_Issuer,10
+69,2018-10-01,10,2018,Strip Bond Trading (coupons and residuals)_Non-Residents,81
+57,2018-10-01,10,2018,Strip Bond Trading (coupons and residuals)_Retail Clients,305
 106,2018-11-01,11,2018,Municipal bonds_Anonymous Systems: IDBBs and ATSs,646
 118,2018-11-01,11,2018,Municipal bonds_Banks,139
 130,2018-11-01,11,2018,Municipal bonds_Institutional Clients,1359
@@ -146,13 +146,13 @@
 166,2018-11-01,11,2018,Municipal bonds_Issuer,0
 154,2018-11-01,11,2018,Municipal bonds_Non-Residents,263
 142,2018-11-01,11,2018,Municipal bonds_Retail Clients,161
-22,2018-11-01,11,2018,The Month_Anonymous Systems: IDBBs and ATSs,1282
-34,2018-11-01,11,2018,The Month_Banks,132
-46,2018-11-01,11,2018,The Month_Institutional Clients,3036
-10,2018-11-01,11,2018,The Month_Investment Dealers,296
-82,2018-11-01,11,2018,The Month_Issuer,205
-70,2018-11-01,11,2018,The Month_Non-Residents,376
-58,2018-11-01,11,2018,The Month_Retail Clients,300
+22,2018-11-01,11,2018,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,1282
+34,2018-11-01,11,2018,Strip Bond Trading (coupons and residuals)_Banks,132
+46,2018-11-01,11,2018,Strip Bond Trading (coupons and residuals)_Institutional Clients,3036
+10,2018-11-01,11,2018,Strip Bond Trading (coupons and residuals)_Investment Dealers,296
+82,2018-11-01,11,2018,Strip Bond Trading (coupons and residuals)_Issuer,205
+70,2018-11-01,11,2018,Strip Bond Trading (coupons and residuals)_Non-Residents,376
+58,2018-11-01,11,2018,Strip Bond Trading (coupons and residuals)_Retail Clients,300
 107,2018-12-01,12,2018,Municipal bonds_Anonymous Systems: IDBBs and ATSs,222
 119,2018-12-01,12,2018,Municipal bonds_Banks,98
 131,2018-12-01,12,2018,Municipal bonds_Institutional Clients,756
@@ -160,13 +160,13 @@
 167,2018-12-01,12,2018,Municipal bonds_Issuer,0
 155,2018-12-01,12,2018,Municipal bonds_Non-Residents,215
 143,2018-12-01,12,2018,Municipal bonds_Retail Clients,109
-23,2018-12-01,12,2018,The Month_Anonymous Systems: IDBBs and ATSs,275
-35,2018-12-01,12,2018,The Month_Banks,56
-47,2018-12-01,12,2018,The Month_Institutional Clients,2392
-11,2018-12-01,12,2018,The Month_Investment Dealers,316
-83,2018-12-01,12,2018,The Month_Issuer,32
-71,2018-12-01,12,2018,The Month_Non-Residents,1010
-59,2018-12-01,12,2018,The Month_Retail Clients,270
+23,2018-12-01,12,2018,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,275
+35,2018-12-01,12,2018,Strip Bond Trading (coupons and residuals)_Banks,56
+47,2018-12-01,12,2018,Strip Bond Trading (coupons and residuals)_Institutional Clients,2392
+11,2018-12-01,12,2018,Strip Bond Trading (coupons and residuals)_Investment Dealers,316
+83,2018-12-01,12,2018,Strip Bond Trading (coupons and residuals)_Issuer,32
+71,2018-12-01,12,2018,Strip Bond Trading (coupons and residuals)_Non-Residents,1010
+59,2018-12-01,12,2018,Strip Bond Trading (coupons and residuals)_Retail Clients,270
 96,2019-01-01,1,2019,Municipal bonds_Anonymous Systems: IDBBs and ATSs,1030
 108,2019-01-01,1,2019,Municipal bonds_Banks,126
 120,2019-01-01,1,2019,Municipal bonds_Institutional Clients,1322
@@ -174,13 +174,13 @@
 156,2019-01-01,1,2019,Municipal bonds_Issuer,0
 144,2019-01-01,1,2019,Municipal bonds_Non-Residents,434
 132,2019-01-01,1,2019,Municipal bonds_Retail Clients,129
-12,2019-01-01,1,2019,The Month_Anonymous Systems: IDBBs and ATSs,454
-24,2019-01-01,1,2019,The Month_Banks,77
-36,2019-01-01,1,2019,The Month_Institutional Clients,3314
-0,2019-01-01,1,2019,The Month_Investment Dealers,227
-72,2019-01-01,1,2019,The Month_Issuer,30
-60,2019-01-01,1,2019,The Month_Non-Residents,823
-48,2019-01-01,1,2019,The Month_Retail Clients,273
+12,2019-01-01,1,2019,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,454
+24,2019-01-01,1,2019,Strip Bond Trading (coupons and residuals)_Banks,77
+36,2019-01-01,1,2019,Strip Bond Trading (coupons and residuals)_Institutional Clients,3314
+0,2019-01-01,1,2019,Strip Bond Trading (coupons and residuals)_Investment Dealers,227
+72,2019-01-01,1,2019,Strip Bond Trading (coupons and residuals)_Issuer,30
+60,2019-01-01,1,2019,Strip Bond Trading (coupons and residuals)_Non-Residents,823
+48,2019-01-01,1,2019,Strip Bond Trading (coupons and residuals)_Retail Clients,273
 97,2019-02-01,2,2019,Municipal bonds_Anonymous Systems: IDBBs and ATSs,517
 109,2019-02-01,2,2019,Municipal bonds_Banks,108
 121,2019-02-01,2,2019,Municipal bonds_Institutional Clients,1205
@@ -188,13 +188,13 @@
 157,2019-02-01,2,2019,Municipal bonds_Issuer,0
 145,2019-02-01,2,2019,Municipal bonds_Non-Residents,268
 133,2019-02-01,2,2019,Municipal bonds_Retail Clients,100
-13,2019-02-01,2,2019,The Month_Anonymous Systems: IDBBs and ATSs,699
-25,2019-02-01,2,2019,The Month_Banks,248
-37,2019-02-01,2,2019,The Month_Institutional Clients,2768
-1,2019-02-01,2,2019,The Month_Investment Dealers,198
-73,2019-02-01,2,2019,The Month_Issuer,30
-61,2019-02-01,2,2019,The Month_Non-Residents,744
-49,2019-02-01,2,2019,The Month_Retail Clients,248
+13,2019-02-01,2,2019,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,699
+25,2019-02-01,2,2019,Strip Bond Trading (coupons and residuals)_Banks,248
+37,2019-02-01,2,2019,Strip Bond Trading (coupons and residuals)_Institutional Clients,2768
+1,2019-02-01,2,2019,Strip Bond Trading (coupons and residuals)_Investment Dealers,198
+73,2019-02-01,2,2019,Strip Bond Trading (coupons and residuals)_Issuer,30
+61,2019-02-01,2,2019,Strip Bond Trading (coupons and residuals)_Non-Residents,744
+49,2019-02-01,2,2019,Strip Bond Trading (coupons and residuals)_Retail Clients,248
 98,2019-03-01,3,2019,Municipal bonds_Anonymous Systems: IDBBs and ATSs,708
 110,2019-03-01,3,2019,Municipal bonds_Banks,114
 122,2019-03-01,3,2019,Municipal bonds_Institutional Clients,1394
@@ -202,13 +202,13 @@
 158,2019-03-01,3,2019,Municipal bonds_Issuer,0
 146,2019-03-01,3,2019,Municipal bonds_Non-Residents,278
 134,2019-03-01,3,2019,Municipal bonds_Retail Clients,95
-14,2019-03-01,3,2019,The Month_Anonymous Systems: IDBBs and ATSs,495
-26,2019-03-01,3,2019,The Month_Banks,189
-38,2019-03-01,3,2019,The Month_Institutional Clients,4358
-2,2019-03-01,3,2019,The Month_Investment Dealers,291
-74,2019-03-01,3,2019,The Month_Issuer,143
-62,2019-03-01,3,2019,The Month_Non-Residents,200
-50,2019-03-01,3,2019,The Month_Retail Clients,459
+14,2019-03-01,3,2019,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,495
+26,2019-03-01,3,2019,Strip Bond Trading (coupons and residuals)_Banks,189
+38,2019-03-01,3,2019,Strip Bond Trading (coupons and residuals)_Institutional Clients,4358
+2,2019-03-01,3,2019,Strip Bond Trading (coupons and residuals)_Investment Dealers,291
+74,2019-03-01,3,2019,Strip Bond Trading (coupons and residuals)_Issuer,143
+62,2019-03-01,3,2019,Strip Bond Trading (coupons and residuals)_Non-Residents,200
+50,2019-03-01,3,2019,Strip Bond Trading (coupons and residuals)_Retail Clients,459
 99,2019-04-01,4,2019,Municipal bonds_Anonymous Systems: IDBBs and ATSs,903
 111,2019-04-01,4,2019,Municipal bonds_Banks,82
 123,2019-04-01,4,2019,Municipal bonds_Institutional Clients,1430
@@ -216,13 +216,13 @@
 159,2019-04-01,4,2019,Municipal bonds_Issuer,0
 147,2019-04-01,4,2019,Municipal bonds_Non-Residents,408
 135,2019-04-01,4,2019,Municipal bonds_Retail Clients,97
-15,2019-04-01,4,2019,The Month_Anonymous Systems: IDBBs and ATSs,101
-27,2019-04-01,4,2019,The Month_Banks,324
-39,2019-04-01,4,2019,The Month_Institutional Clients,3134
-3,2019-04-01,4,2019,The Month_Investment Dealers,244
-75,2019-04-01,4,2019,The Month_Issuer,0
-63,2019-04-01,4,2019,The Month_Non-Residents,612
-51,2019-04-01,4,2019,The Month_Retail Clients,355
+15,2019-04-01,4,2019,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,101
+27,2019-04-01,4,2019,Strip Bond Trading (coupons and residuals)_Banks,324
+39,2019-04-01,4,2019,Strip Bond Trading (coupons and residuals)_Institutional Clients,3134
+3,2019-04-01,4,2019,Strip Bond Trading (coupons and residuals)_Investment Dealers,244
+75,2019-04-01,4,2019,Strip Bond Trading (coupons and residuals)_Issuer,0
+63,2019-04-01,4,2019,Strip Bond Trading (coupons and residuals)_Non-Residents,612
+51,2019-04-01,4,2019,Strip Bond Trading (coupons and residuals)_Retail Clients,355
 100,2019-05-01,5,2019,Municipal bonds_Anonymous Systems: IDBBs and ATSs,787
 112,2019-05-01,5,2019,Municipal bonds_Banks,98
 124,2019-05-01,5,2019,Municipal bonds_Institutional Clients,2513
@@ -230,13 +230,13 @@
 160,2019-05-01,5,2019,Municipal bonds_Issuer,0
 148,2019-05-01,5,2019,Municipal bonds_Non-Residents,284
 136,2019-05-01,5,2019,Municipal bonds_Retail Clients,138
-16,2019-05-01,5,2019,The Month_Anonymous Systems: IDBBs and ATSs,186
-28,2019-05-01,5,2019,The Month_Banks,107
-40,2019-05-01,5,2019,The Month_Institutional Clients,3414
-4,2019-05-01,5,2019,The Month_Investment Dealers,129
-76,2019-05-01,5,2019,The Month_Issuer,82
-64,2019-05-01,5,2019,The Month_Non-Residents,429
-52,2019-05-01,5,2019,The Month_Retail Clients,333
+16,2019-05-01,5,2019,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,186
+28,2019-05-01,5,2019,Strip Bond Trading (coupons and residuals)_Banks,107
+40,2019-05-01,5,2019,Strip Bond Trading (coupons and residuals)_Institutional Clients,3414
+4,2019-05-01,5,2019,Strip Bond Trading (coupons and residuals)_Investment Dealers,129
+76,2019-05-01,5,2019,Strip Bond Trading (coupons and residuals)_Issuer,82
+64,2019-05-01,5,2019,Strip Bond Trading (coupons and residuals)_Non-Residents,429
+52,2019-05-01,5,2019,Strip Bond Trading (coupons and residuals)_Retail Clients,333
 101,2019-06-01,6,2019,Municipal bonds_Anonymous Systems: IDBBs and ATSs,275
 113,2019-06-01,6,2019,Municipal bonds_Banks,48
 125,2019-06-01,6,2019,Municipal bonds_Institutional Clients,2043
@@ -244,13 +244,13 @@
 161,2019-06-01,6,2019,Municipal bonds_Issuer,0
 149,2019-06-01,6,2019,Municipal bonds_Non-Residents,346
 137,2019-06-01,6,2019,Municipal bonds_Retail Clients,125
-17,2019-06-01,6,2019,The Month_Anonymous Systems: IDBBs and ATSs,104
-29,2019-06-01,6,2019,The Month_Banks,179
-41,2019-06-01,6,2019,The Month_Institutional Clients,4125
-5,2019-06-01,6,2019,The Month_Investment Dealers,231
-77,2019-06-01,6,2019,The Month_Issuer,39
-65,2019-06-01,6,2019,The Month_Non-Residents,767
-53,2019-06-01,6,2019,The Month_Retail Clients,498
+17,2019-06-01,6,2019,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,104
+29,2019-06-01,6,2019,Strip Bond Trading (coupons and residuals)_Banks,179
+41,2019-06-01,6,2019,Strip Bond Trading (coupons and residuals)_Institutional Clients,4125
+5,2019-06-01,6,2019,Strip Bond Trading (coupons and residuals)_Investment Dealers,231
+77,2019-06-01,6,2019,Strip Bond Trading (coupons and residuals)_Issuer,39
+65,2019-06-01,6,2019,Strip Bond Trading (coupons and residuals)_Non-Residents,767
+53,2019-06-01,6,2019,Strip Bond Trading (coupons and residuals)_Retail Clients,498
 102,2019-07-01,7,2019,Municipal bonds_Anonymous Systems: IDBBs and ATSs,701
 114,2019-07-01,7,2019,Municipal bonds_Banks,133
 126,2019-07-01,7,2019,Municipal bonds_Institutional Clients,1522
@@ -258,13 +258,13 @@
 162,2019-07-01,7,2019,Municipal bonds_Issuer,0
 150,2019-07-01,7,2019,Municipal bonds_Non-Residents,420
 138,2019-07-01,7,2019,Municipal bonds_Retail Clients,125
-18,2019-07-01,7,2019,The Month_Anonymous Systems: IDBBs and ATSs,488
-30,2019-07-01,7,2019,The Month_Banks,316
-42,2019-07-01,7,2019,The Month_Institutional Clients,3504
-6,2019-07-01,7,2019,The Month_Investment Dealers,298
-78,2019-07-01,7,2019,The Month_Issuer,22
-66,2019-07-01,7,2019,The Month_Non-Residents,79
-54,2019-07-01,7,2019,The Month_Retail Clients,467
+18,2019-07-01,7,2019,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,488
+30,2019-07-01,7,2019,Strip Bond Trading (coupons and residuals)_Banks,316
+42,2019-07-01,7,2019,Strip Bond Trading (coupons and residuals)_Institutional Clients,3504
+6,2019-07-01,7,2019,Strip Bond Trading (coupons and residuals)_Investment Dealers,298
+78,2019-07-01,7,2019,Strip Bond Trading (coupons and residuals)_Issuer,22
+66,2019-07-01,7,2019,Strip Bond Trading (coupons and residuals)_Non-Residents,79
+54,2019-07-01,7,2019,Strip Bond Trading (coupons and residuals)_Retail Clients,467
 103,2019-08-01,8,2019,Municipal bonds_Anonymous Systems: IDBBs and ATSs,459
 115,2019-08-01,8,2019,Municipal bonds_Banks,97
 127,2019-08-01,8,2019,Municipal bonds_Institutional Clients,1324
@@ -272,13 +272,13 @@
 163,2019-08-01,8,2019,Municipal bonds_Issuer,0
 151,2019-08-01,8,2019,Municipal bonds_Non-Residents,212
 139,2019-08-01,8,2019,Municipal bonds_Retail Clients,88
-19,2019-08-01,8,2019,The Month_Anonymous Systems: IDBBs and ATSs,228
-31,2019-08-01,8,2019,The Month_Banks,133
-43,2019-08-01,8,2019,The Month_Institutional Clients,1703
-7,2019-08-01,8,2019,The Month_Investment Dealers,244
-79,2019-08-01,8,2019,The Month_Issuer,0
-67,2019-08-01,8,2019,The Month_Non-Residents,289
-55,2019-08-01,8,2019,The Month_Retail Clients,312
+19,2019-08-01,8,2019,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,228
+31,2019-08-01,8,2019,Strip Bond Trading (coupons and residuals)_Banks,133
+43,2019-08-01,8,2019,Strip Bond Trading (coupons and residuals)_Institutional Clients,1703
+7,2019-08-01,8,2019,Strip Bond Trading (coupons and residuals)_Investment Dealers,244
+79,2019-08-01,8,2019,Strip Bond Trading (coupons and residuals)_Issuer,0
+67,2019-08-01,8,2019,Strip Bond Trading (coupons and residuals)_Non-Residents,289
+55,2019-08-01,8,2019,Strip Bond Trading (coupons and residuals)_Retail Clients,312
 104,2019-09-01,9,2019,Municipal bonds_Anonymous Systems: IDBBs and ATSs,442
 116,2019-09-01,9,2019,Municipal bonds_Banks,165
 128,2019-09-01,9,2019,Municipal bonds_Institutional Clients,1320
@@ -286,13 +286,13 @@
 164,2019-09-01,9,2019,Municipal bonds_Issuer,2
 152,2019-09-01,9,2019,Municipal bonds_Non-Residents,274
 140,2019-09-01,9,2019,Municipal bonds_Retail Clients,128
-20,2019-09-01,9,2019,The Month_Anonymous Systems: IDBBs and ATSs,173
-32,2019-09-01,9,2019,The Month_Banks,342
-44,2019-09-01,9,2019,The Month_Institutional Clients,2724
-8,2019-09-01,9,2019,The Month_Investment Dealers,197
-80,2019-09-01,9,2019,The Month_Issuer,92
-68,2019-09-01,9,2019,The Month_Non-Residents,134
-56,2019-09-01,9,2019,The Month_Retail Clients,506
+20,2019-09-01,9,2019,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,173
+32,2019-09-01,9,2019,Strip Bond Trading (coupons and residuals)_Banks,342
+44,2019-09-01,9,2019,Strip Bond Trading (coupons and residuals)_Institutional Clients,2724
+8,2019-09-01,9,2019,Strip Bond Trading (coupons and residuals)_Investment Dealers,197
+80,2019-09-01,9,2019,Strip Bond Trading (coupons and residuals)_Issuer,92
+68,2019-09-01,9,2019,Strip Bond Trading (coupons and residuals)_Non-Residents,134
+56,2019-09-01,9,2019,Strip Bond Trading (coupons and residuals)_Retail Clients,506
 105,2019-10-01,10,2019,Municipal bonds_Anonymous Systems: IDBBs and ATSs,884
 117,2019-10-01,10,2019,Municipal bonds_Banks,202
 129,2019-10-01,10,2019,Municipal bonds_Institutional Clients,1578
@@ -300,13 +300,13 @@
 165,2019-10-01,10,2019,Municipal bonds_Issuer,0
 153,2019-10-01,10,2019,Municipal bonds_Non-Residents,391
 141,2019-10-01,10,2019,Municipal bonds_Retail Clients,136
-21,2019-10-01,10,2019,The Month_Anonymous Systems: IDBBs and ATSs,282
-33,2019-10-01,10,2019,The Month_Banks,341
-45,2019-10-01,10,2019,The Month_Institutional Clients,5101
-9,2019-10-01,10,2019,The Month_Investment Dealers,338
-81,2019-10-01,10,2019,The Month_Issuer,30
-69,2019-10-01,10,2019,The Month_Non-Residents,210
-57,2019-10-01,10,2019,The Month_Retail Clients,383
+21,2019-10-01,10,2019,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,282
+33,2019-10-01,10,2019,Strip Bond Trading (coupons and residuals)_Banks,341
+45,2019-10-01,10,2019,Strip Bond Trading (coupons and residuals)_Institutional Clients,5101
+9,2019-10-01,10,2019,Strip Bond Trading (coupons and residuals)_Investment Dealers,338
+81,2019-10-01,10,2019,Strip Bond Trading (coupons and residuals)_Issuer,30
+69,2019-10-01,10,2019,Strip Bond Trading (coupons and residuals)_Non-Residents,210
+57,2019-10-01,10,2019,Strip Bond Trading (coupons and residuals)_Retail Clients,383
 106,2019-11-01,11,2019,Municipal bonds_Anonymous Systems: IDBBs and ATSs,793
 118,2019-11-01,11,2019,Municipal bonds_Banks,282
 130,2019-11-01,11,2019,Municipal bonds_Institutional Clients,2726
@@ -314,13 +314,13 @@
 166,2019-11-01,11,2019,Municipal bonds_Issuer,4
 154,2019-11-01,11,2019,Municipal bonds_Non-Residents,510
 142,2019-11-01,11,2019,Municipal bonds_Retail Clients,132
-22,2019-11-01,11,2019,The Month_Anonymous Systems: IDBBs and ATSs,143
-34,2019-11-01,11,2019,The Month_Banks,77
-46,2019-11-01,11,2019,The Month_Institutional Clients,3362
-10,2019-11-01,11,2019,The Month_Investment Dealers,169
-82,2019-11-01,11,2019,The Month_Issuer,62
-70,2019-11-01,11,2019,The Month_Non-Residents,96
-58,2019-11-01,11,2019,The Month_Retail Clients,238
+22,2019-11-01,11,2019,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,143
+34,2019-11-01,11,2019,Strip Bond Trading (coupons and residuals)_Banks,77
+46,2019-11-01,11,2019,Strip Bond Trading (coupons and residuals)_Institutional Clients,3362
+10,2019-11-01,11,2019,Strip Bond Trading (coupons and residuals)_Investment Dealers,169
+82,2019-11-01,11,2019,Strip Bond Trading (coupons and residuals)_Issuer,62
+70,2019-11-01,11,2019,Strip Bond Trading (coupons and residuals)_Non-Residents,96
+58,2019-11-01,11,2019,Strip Bond Trading (coupons and residuals)_Retail Clients,238
 107,2019-12-01,12,2019,Municipal bonds_Anonymous Systems: IDBBs and ATSs,467
 119,2019-12-01,12,2019,Municipal bonds_Banks,48
 131,2019-12-01,12,2019,Municipal bonds_Institutional Clients,1462
@@ -328,13 +328,13 @@
 167,2019-12-01,12,2019,Municipal bonds_Issuer,18
 155,2019-12-01,12,2019,Municipal bonds_Non-Residents,162
 143,2019-12-01,12,2019,Municipal bonds_Retail Clients,140
-23,2019-12-01,12,2019,The Month_Anonymous Systems: IDBBs and ATSs,126
-35,2019-12-01,12,2019,The Month_Banks,26
-47,2019-12-01,12,2019,The Month_Institutional Clients,3345
-11,2019-12-01,12,2019,The Month_Investment Dealers,155
-83,2019-12-01,12,2019,The Month_Issuer,63
-71,2019-12-01,12,2019,The Month_Non-Residents,121
-59,2019-12-01,12,2019,The Month_Retail Clients,337
+23,2019-12-01,12,2019,Strip Bond Trading (coupons and residuals)_Anonymous Systems: IDBBs and ATSs,126
+35,2019-12-01,12,2019,Strip Bond Trading (coupons and residuals)_Banks,26
+47,2019-12-01,12,2019,Strip Bond Trading (coupons and residuals)_Institutional Clients,3345
+11,2019-12-01,12,2019,Strip Bond Trading (coupons and residuals)_Investment Dealers,155
+83,2019-12-01,12,2019,Strip Bond Trading (coupons and residuals)_Issuer,63
+71,2019-12-01,12,2019,Strip Bond Trading (coupons and residuals)_Non-Residents,121
+59,2019-12-01,12,2019,Strip Bond Trading (coupons and residuals)_Retail Clients,337
 96,2020-01-01,1,2020,Municipal bonds_Anonymous Systems: IDBBs and ATSs,1382.4195
 108,2020-01-01,1,2020,Municipal bonds_Banks,122.2545
 120,2020-01-01,1,2020,Municipal bonds_Institutional Clients,2338.229268

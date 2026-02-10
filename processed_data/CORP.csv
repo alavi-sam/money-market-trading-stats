@@ -1,4 +1,11 @@
 ,date,month,year,instruments,volume
+12,2018-01-01,1,2018,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,3623
+24,2018-01-01,1,2018,Corporate Bonds_Banks,2027
+36,2018-01-01,1,2018,Corporate Bonds_Institutional Clients,38740
+0,2018-01-01,1,2018,Corporate Bonds_Investment Dealers,3650
+72,2018-01-01,1,2018,Corporate Bonds_Issuer,16
+60,2018-01-01,1,2018,Corporate Bonds_Non-Residents,8038
+48,2018-01-01,1,2018,Corporate Bonds_Retail Clients,1446
 96,2018-01-01,1,2018,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 108,2018-01-01,1,2018,Other Domestic Bonds_Banks,23
 120,2018-01-01,1,2018,Other Domestic Bonds_Institutional Clients,715
@@ -6,13 +13,13 @@
 156,2018-01-01,1,2018,Other Domestic Bonds_Issuer,0.0
 144,2018-01-01,1,2018,Other Domestic Bonds_Non-Residents,663
 132,2018-01-01,1,2018,Other Domestic Bonds_Retail Clients,6
-12,2018-01-01,1,2018,The Month_Anonymous Systems: IDBBs and ATSs,3623
-24,2018-01-01,1,2018,The Month_Banks,2027
-36,2018-01-01,1,2018,The Month_Institutional Clients,38740
-0,2018-01-01,1,2018,The Month_Investment Dealers,3650
-72,2018-01-01,1,2018,The Month_Issuer,16
-60,2018-01-01,1,2018,The Month_Non-Residents,8038
-48,2018-01-01,1,2018,The Month_Retail Clients,1446
+13,2018-02-01,2,2018,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,2664
+25,2018-02-01,2,2018,Corporate Bonds_Banks,1221
+37,2018-02-01,2,2018,Corporate Bonds_Institutional Clients,32972
+1,2018-02-01,2,2018,Corporate Bonds_Investment Dealers,2381
+73,2018-02-01,2,2018,Corporate Bonds_Issuer,21
+61,2018-02-01,2,2018,Corporate Bonds_Non-Residents,3758
+49,2018-02-01,2,2018,Corporate Bonds_Retail Clients,1153
 97,2018-02-01,2,2018,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 109,2018-02-01,2,2018,Other Domestic Bonds_Banks,0
 121,2018-02-01,2,2018,Other Domestic Bonds_Institutional Clients,29
@@ -20,13 +27,13 @@
 157,2018-02-01,2,2018,Other Domestic Bonds_Issuer,810.0
 145,2018-02-01,2,2018,Other Domestic Bonds_Non-Residents,287
 133,2018-02-01,2,2018,Other Domestic Bonds_Retail Clients,2
-13,2018-02-01,2,2018,The Month_Anonymous Systems: IDBBs and ATSs,2664
-25,2018-02-01,2,2018,The Month_Banks,1221
-37,2018-02-01,2,2018,The Month_Institutional Clients,32972
-1,2018-02-01,2,2018,The Month_Investment Dealers,2381
-73,2018-02-01,2,2018,The Month_Issuer,21
-61,2018-02-01,2,2018,The Month_Non-Residents,3758
-49,2018-02-01,2,2018,The Month_Retail Clients,1153
+14,2018-03-01,3,2018,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,2455
+26,2018-03-01,3,2018,Corporate Bonds_Banks,869
+38,2018-03-01,3,2018,Corporate Bonds_Institutional Clients,35330
+2,2018-03-01,3,2018,Corporate Bonds_Investment Dealers,2610
+74,2018-03-01,3,2018,Corporate Bonds_Issuer,184
+62,2018-03-01,3,2018,Corporate Bonds_Non-Residents,5742
+50,2018-03-01,3,2018,Corporate Bonds_Retail Clients,1573
 98,2018-03-01,3,2018,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 110,2018-03-01,3,2018,Other Domestic Bonds_Banks,2
 122,2018-03-01,3,2018,Other Domestic Bonds_Institutional Clients,72
@@ -34,13 +41,13 @@
 158,2018-03-01,3,2018,Other Domestic Bonds_Issuer,0.0
 146,2018-03-01,3,2018,Other Domestic Bonds_Non-Residents,261
 134,2018-03-01,3,2018,Other Domestic Bonds_Retail Clients,3
-14,2018-03-01,3,2018,The Month_Anonymous Systems: IDBBs and ATSs,2455
-26,2018-03-01,3,2018,The Month_Banks,869
-38,2018-03-01,3,2018,The Month_Institutional Clients,35330
-2,2018-03-01,3,2018,The Month_Investment Dealers,2610
-74,2018-03-01,3,2018,The Month_Issuer,184
-62,2018-03-01,3,2018,The Month_Non-Residents,5742
-50,2018-03-01,3,2018,The Month_Retail Clients,1573
+15,2018-04-01,4,2018,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,2109
+27,2018-04-01,4,2018,Corporate Bonds_Banks,1600
+39,2018-04-01,4,2018,Corporate Bonds_Institutional Clients,34293
+3,2018-04-01,4,2018,Corporate Bonds_Investment Dealers,2566
+75,2018-04-01,4,2018,Corporate Bonds_Issuer,45
+63,2018-04-01,4,2018,Corporate Bonds_Non-Residents,5699
+51,2018-04-01,4,2018,Corporate Bonds_Retail Clients,1370
 99,2018-04-01,4,2018,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 111,2018-04-01,4,2018,Other Domestic Bonds_Banks,26
 123,2018-04-01,4,2018,Other Domestic Bonds_Institutional Clients,215
@@ -48,13 +55,13 @@
 159,2018-04-01,4,2018,Other Domestic Bonds_Issuer,0.0
 147,2018-04-01,4,2018,Other Domestic Bonds_Non-Residents,891
 135,2018-04-01,4,2018,Other Domestic Bonds_Retail Clients,1
-15,2018-04-01,4,2018,The Month_Anonymous Systems: IDBBs and ATSs,2109
-27,2018-04-01,4,2018,The Month_Banks,1600
-39,2018-04-01,4,2018,The Month_Institutional Clients,34293
-3,2018-04-01,4,2018,The Month_Investment Dealers,2566
-75,2018-04-01,4,2018,The Month_Issuer,45
-63,2018-04-01,4,2018,The Month_Non-Residents,5699
-51,2018-04-01,4,2018,The Month_Retail Clients,1370
+16,2018-05-01,5,2018,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,2157
+28,2018-05-01,5,2018,Corporate Bonds_Banks,1440
+40,2018-05-01,5,2018,Corporate Bonds_Institutional Clients,42201
+4,2018-05-01,5,2018,Corporate Bonds_Investment Dealers,3211
+76,2018-05-01,5,2018,Corporate Bonds_Issuer,27
+64,2018-05-01,5,2018,Corporate Bonds_Non-Residents,4722
+52,2018-05-01,5,2018,Corporate Bonds_Retail Clients,1706
 100,2018-05-01,5,2018,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 112,2018-05-01,5,2018,Other Domestic Bonds_Banks,23
 124,2018-05-01,5,2018,Other Domestic Bonds_Institutional Clients,53
@@ -62,13 +69,13 @@
 160,2018-05-01,5,2018,Other Domestic Bonds_Issuer,7032.0
 148,2018-05-01,5,2018,Other Domestic Bonds_Non-Residents,398
 136,2018-05-01,5,2018,Other Domestic Bonds_Retail Clients,5
-16,2018-05-01,5,2018,The Month_Anonymous Systems: IDBBs and ATSs,2157
-28,2018-05-01,5,2018,The Month_Banks,1440
-40,2018-05-01,5,2018,The Month_Institutional Clients,42201
-4,2018-05-01,5,2018,The Month_Investment Dealers,3211
-76,2018-05-01,5,2018,The Month_Issuer,27
-64,2018-05-01,5,2018,The Month_Non-Residents,4722
-52,2018-05-01,5,2018,The Month_Retail Clients,1706
+17,2018-06-01,6,2018,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,1815
+29,2018-06-01,6,2018,Corporate Bonds_Banks,1715
+41,2018-06-01,6,2018,Corporate Bonds_Institutional Clients,37841
+5,2018-06-01,6,2018,Corporate Bonds_Investment Dealers,3347
+77,2018-06-01,6,2018,Corporate Bonds_Issuer,13
+65,2018-06-01,6,2018,Corporate Bonds_Non-Residents,7422
+53,2018-06-01,6,2018,Corporate Bonds_Retail Clients,1545
 101,2018-06-01,6,2018,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,3
 113,2018-06-01,6,2018,Other Domestic Bonds_Banks,67
 125,2018-06-01,6,2018,Other Domestic Bonds_Institutional Clients,1225
@@ -76,13 +83,13 @@
 161,2018-06-01,6,2018,Other Domestic Bonds_Issuer,12469.0
 149,2018-06-01,6,2018,Other Domestic Bonds_Non-Residents,251
 137,2018-06-01,6,2018,Other Domestic Bonds_Retail Clients,6
-17,2018-06-01,6,2018,The Month_Anonymous Systems: IDBBs and ATSs,1815
-29,2018-06-01,6,2018,The Month_Banks,1715
-41,2018-06-01,6,2018,The Month_Institutional Clients,37841
-5,2018-06-01,6,2018,The Month_Investment Dealers,3347
-77,2018-06-01,6,2018,The Month_Issuer,13
-65,2018-06-01,6,2018,The Month_Non-Residents,7422
-53,2018-06-01,6,2018,The Month_Retail Clients,1545
+18,2018-07-01,7,2018,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,1729
+30,2018-07-01,7,2018,Corporate Bonds_Banks,1358
+42,2018-07-01,7,2018,Corporate Bonds_Institutional Clients,35499
+6,2018-07-01,7,2018,Corporate Bonds_Investment Dealers,2805
+78,2018-07-01,7,2018,Corporate Bonds_Issuer,64
+66,2018-07-01,7,2018,Corporate Bonds_Non-Residents,7910
+54,2018-07-01,7,2018,Corporate Bonds_Retail Clients,1487
 102,2018-07-01,7,2018,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 114,2018-07-01,7,2018,Other Domestic Bonds_Banks,24
 126,2018-07-01,7,2018,Other Domestic Bonds_Institutional Clients,90
@@ -90,13 +97,13 @@
 162,2018-07-01,7,2018,Other Domestic Bonds_Issuer,0.0
 150,2018-07-01,7,2018,Other Domestic Bonds_Non-Residents,112
 138,2018-07-01,7,2018,Other Domestic Bonds_Retail Clients,11
-18,2018-07-01,7,2018,The Month_Anonymous Systems: IDBBs and ATSs,1729
-30,2018-07-01,7,2018,The Month_Banks,1358
-42,2018-07-01,7,2018,The Month_Institutional Clients,35499
-6,2018-07-01,7,2018,The Month_Investment Dealers,2805
-78,2018-07-01,7,2018,The Month_Issuer,64
-66,2018-07-01,7,2018,The Month_Non-Residents,7910
-54,2018-07-01,7,2018,The Month_Retail Clients,1487
+19,2018-08-01,8,2018,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,1613
+31,2018-08-01,8,2018,Corporate Bonds_Banks,1118
+43,2018-08-01,8,2018,Corporate Bonds_Institutional Clients,33531
+7,2018-08-01,8,2018,Corporate Bonds_Investment Dealers,2304
+79,2018-08-01,8,2018,Corporate Bonds_Issuer,565
+67,2018-08-01,8,2018,Corporate Bonds_Non-Residents,5923
+55,2018-08-01,8,2018,Corporate Bonds_Retail Clients,1491
 103,2018-08-01,8,2018,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 115,2018-08-01,8,2018,Other Domestic Bonds_Banks,9
 127,2018-08-01,8,2018,Other Domestic Bonds_Institutional Clients,31
@@ -104,13 +111,13 @@
 163,2018-08-01,8,2018,Other Domestic Bonds_Issuer,0.0
 151,2018-08-01,8,2018,Other Domestic Bonds_Non-Residents,150
 139,2018-08-01,8,2018,Other Domestic Bonds_Retail Clients,5
-19,2018-08-01,8,2018,The Month_Anonymous Systems: IDBBs and ATSs,1613
-31,2018-08-01,8,2018,The Month_Banks,1118
-43,2018-08-01,8,2018,The Month_Institutional Clients,33531
-7,2018-08-01,8,2018,The Month_Investment Dealers,2304
-79,2018-08-01,8,2018,The Month_Issuer,565
-67,2018-08-01,8,2018,The Month_Non-Residents,5923
-55,2018-08-01,8,2018,The Month_Retail Clients,1491
+20,2018-09-01,9,2018,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,5008
+32,2018-09-01,9,2018,Corporate Bonds_Banks,1081
+44,2018-09-01,9,2018,Corporate Bonds_Institutional Clients,35094
+8,2018-09-01,9,2018,Corporate Bonds_Investment Dealers,2335
+80,2018-09-01,9,2018,Corporate Bonds_Issuer,14
+68,2018-09-01,9,2018,Corporate Bonds_Non-Residents,5457
+56,2018-09-01,9,2018,Corporate Bonds_Retail Clients,1464
 104,2018-09-01,9,2018,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 116,2018-09-01,9,2018,Other Domestic Bonds_Banks,20
 128,2018-09-01,9,2018,Other Domestic Bonds_Institutional Clients,355
@@ -118,13 +125,13 @@
 164,2018-09-01,9,2018,Other Domestic Bonds_Issuer,0.0
 152,2018-09-01,9,2018,Other Domestic Bonds_Non-Residents,227
 140,2018-09-01,9,2018,Other Domestic Bonds_Retail Clients,105
-20,2018-09-01,9,2018,The Month_Anonymous Systems: IDBBs and ATSs,5008
-32,2018-09-01,9,2018,The Month_Banks,1081
-44,2018-09-01,9,2018,The Month_Institutional Clients,35094
-8,2018-09-01,9,2018,The Month_Investment Dealers,2335
-80,2018-09-01,9,2018,The Month_Issuer,14
-68,2018-09-01,9,2018,The Month_Non-Residents,5457
-56,2018-09-01,9,2018,The Month_Retail Clients,1464
+21,2018-10-01,10,2018,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,2659
+33,2018-10-01,10,2018,Corporate Bonds_Banks,1585
+45,2018-10-01,10,2018,Corporate Bonds_Institutional Clients,35077
+9,2018-10-01,10,2018,Corporate Bonds_Investment Dealers,3515
+81,2018-10-01,10,2018,Corporate Bonds_Issuer,10
+69,2018-10-01,10,2018,Corporate Bonds_Non-Residents,5503
+57,2018-10-01,10,2018,Corporate Bonds_Retail Clients,1458
 105,2018-10-01,10,2018,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 117,2018-10-01,10,2018,Other Domestic Bonds_Banks,57
 129,2018-10-01,10,2018,Other Domestic Bonds_Institutional Clients,176
@@ -132,13 +139,13 @@
 165,2018-10-01,10,2018,Other Domestic Bonds_Issuer,0.0
 153,2018-10-01,10,2018,Other Domestic Bonds_Non-Residents,399
 141,2018-10-01,10,2018,Other Domestic Bonds_Retail Clients,79
-21,2018-10-01,10,2018,The Month_Anonymous Systems: IDBBs and ATSs,2659
-33,2018-10-01,10,2018,The Month_Banks,1585
-45,2018-10-01,10,2018,The Month_Institutional Clients,35077
-9,2018-10-01,10,2018,The Month_Investment Dealers,3515
-81,2018-10-01,10,2018,The Month_Issuer,10
-69,2018-10-01,10,2018,The Month_Non-Residents,5503
-57,2018-10-01,10,2018,The Month_Retail Clients,1458
+22,2018-11-01,11,2018,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,2038
+34,2018-11-01,11,2018,Corporate Bonds_Banks,907
+46,2018-11-01,11,2018,Corporate Bonds_Institutional Clients,27546
+10,2018-11-01,11,2018,Corporate Bonds_Investment Dealers,2201
+82,2018-11-01,11,2018,Corporate Bonds_Issuer,82
+70,2018-11-01,11,2018,Corporate Bonds_Non-Residents,4134
+58,2018-11-01,11,2018,Corporate Bonds_Retail Clients,1430
 106,2018-11-01,11,2018,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 118,2018-11-01,11,2018,Other Domestic Bonds_Banks,27
 130,2018-11-01,11,2018,Other Domestic Bonds_Institutional Clients,96
@@ -146,13 +153,13 @@
 166,2018-11-01,11,2018,Other Domestic Bonds_Issuer,0.0
 154,2018-11-01,11,2018,Other Domestic Bonds_Non-Residents,135
 142,2018-11-01,11,2018,Other Domestic Bonds_Retail Clients,78
-22,2018-11-01,11,2018,The Month_Anonymous Systems: IDBBs and ATSs,2038
-34,2018-11-01,11,2018,The Month_Banks,907
-46,2018-11-01,11,2018,The Month_Institutional Clients,27546
-10,2018-11-01,11,2018,The Month_Investment Dealers,2201
-82,2018-11-01,11,2018,The Month_Issuer,82
-70,2018-11-01,11,2018,The Month_Non-Residents,4134
-58,2018-11-01,11,2018,The Month_Retail Clients,1430
+23,2018-12-01,12,2018,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,1324
+35,2018-12-01,12,2018,Corporate Bonds_Banks,1168
+47,2018-12-01,12,2018,Corporate Bonds_Institutional Clients,26512
+11,2018-12-01,12,2018,Corporate Bonds_Investment Dealers,2039
+83,2018-12-01,12,2018,Corporate Bonds_Issuer,1
+71,2018-12-01,12,2018,Corporate Bonds_Non-Residents,4487
+59,2018-12-01,12,2018,Corporate Bonds_Retail Clients,1401
 107,2018-12-01,12,2018,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 119,2018-12-01,12,2018,Other Domestic Bonds_Banks,16
 131,2018-12-01,12,2018,Other Domestic Bonds_Institutional Clients,15
@@ -160,13 +167,13 @@
 167,2018-12-01,12,2018,Other Domestic Bonds_Issuer,0.0
 155,2018-12-01,12,2018,Other Domestic Bonds_Non-Residents,106
 143,2018-12-01,12,2018,Other Domestic Bonds_Retail Clients,67
-23,2018-12-01,12,2018,The Month_Anonymous Systems: IDBBs and ATSs,1324
-35,2018-12-01,12,2018,The Month_Banks,1168
-47,2018-12-01,12,2018,The Month_Institutional Clients,26512
-11,2018-12-01,12,2018,The Month_Investment Dealers,2039
-83,2018-12-01,12,2018,The Month_Issuer,1
-71,2018-12-01,12,2018,The Month_Non-Residents,4487
-59,2018-12-01,12,2018,The Month_Retail Clients,1401
+12,2019-01-01,1,2019,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,5730
+24,2019-01-01,1,2019,Corporate Bonds_Banks,3606
+36,2019-01-01,1,2019,Corporate Bonds_Institutional Clients,37944
+0,2019-01-01,1,2019,Corporate Bonds_Investment Dealers,4579
+72,2019-01-01,1,2019,Corporate Bonds_Issuer,14
+60,2019-01-01,1,2019,Corporate Bonds_Non-Residents,9387
+48,2019-01-01,1,2019,Corporate Bonds_Retail Clients,1650
 96,2019-01-01,1,2019,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 108,2019-01-01,1,2019,Other Domestic Bonds_Banks,211
 120,2019-01-01,1,2019,Other Domestic Bonds_Institutional Clients,130
@@ -174,13 +181,13 @@
 156,2019-01-01,1,2019,Other Domestic Bonds_Issuer,0.0
 144,2019-01-01,1,2019,Other Domestic Bonds_Non-Residents,1523
 132,2019-01-01,1,2019,Other Domestic Bonds_Retail Clients,10
-12,2019-01-01,1,2019,The Month_Anonymous Systems: IDBBs and ATSs,5730
-24,2019-01-01,1,2019,The Month_Banks,3606
-36,2019-01-01,1,2019,The Month_Institutional Clients,37944
-0,2019-01-01,1,2019,The Month_Investment Dealers,4579
-72,2019-01-01,1,2019,The Month_Issuer,14
-60,2019-01-01,1,2019,The Month_Non-Residents,9387
-48,2019-01-01,1,2019,The Month_Retail Clients,1650
+13,2019-02-01,2,2019,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,3458
+25,2019-02-01,2,2019,Corporate Bonds_Banks,2825
+37,2019-02-01,2,2019,Corporate Bonds_Institutional Clients,33909
+1,2019-02-01,2,2019,Corporate Bonds_Investment Dealers,3779
+73,2019-02-01,2,2019,Corporate Bonds_Issuer,41
+61,2019-02-01,2,2019,Corporate Bonds_Non-Residents,7068
+49,2019-02-01,2,2019,Corporate Bonds_Retail Clients,1299
 97,2019-02-01,2,2019,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 109,2019-02-01,2,2019,Other Domestic Bonds_Banks,99
 121,2019-02-01,2,2019,Other Domestic Bonds_Institutional Clients,604
@@ -188,13 +195,13 @@
 157,2019-02-01,2,2019,Other Domestic Bonds_Issuer,0.0
 145,2019-02-01,2,2019,Other Domestic Bonds_Non-Residents,3685
 133,2019-02-01,2,2019,Other Domestic Bonds_Retail Clients,11
-13,2019-02-01,2,2019,The Month_Anonymous Systems: IDBBs and ATSs,3458
-25,2019-02-01,2,2019,The Month_Banks,2825
-37,2019-02-01,2,2019,The Month_Institutional Clients,33909
-1,2019-02-01,2,2019,The Month_Investment Dealers,3779
-73,2019-02-01,2,2019,The Month_Issuer,41
-61,2019-02-01,2,2019,The Month_Non-Residents,7068
-49,2019-02-01,2,2019,The Month_Retail Clients,1299
+14,2019-03-01,3,2019,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,2445
+26,2019-03-01,3,2019,Corporate Bonds_Banks,2729
+38,2019-03-01,3,2019,Corporate Bonds_Institutional Clients,37941
+2,2019-03-01,3,2019,Corporate Bonds_Investment Dealers,3575
+74,2019-03-01,3,2019,Corporate Bonds_Issuer,21
+62,2019-03-01,3,2019,Corporate Bonds_Non-Residents,6669
+50,2019-03-01,3,2019,Corporate Bonds_Retail Clients,1710
 98,2019-03-01,3,2019,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 110,2019-03-01,3,2019,Other Domestic Bonds_Banks,80
 122,2019-03-01,3,2019,Other Domestic Bonds_Institutional Clients,215
@@ -202,13 +209,13 @@
 158,2019-03-01,3,2019,Other Domestic Bonds_Issuer,27.0
 146,2019-03-01,3,2019,Other Domestic Bonds_Non-Residents,502
 134,2019-03-01,3,2019,Other Domestic Bonds_Retail Clients,28
-14,2019-03-01,3,2019,The Month_Anonymous Systems: IDBBs and ATSs,2445
-26,2019-03-01,3,2019,The Month_Banks,2729
-38,2019-03-01,3,2019,The Month_Institutional Clients,37941
-2,2019-03-01,3,2019,The Month_Investment Dealers,3575
-74,2019-03-01,3,2019,The Month_Issuer,21
-62,2019-03-01,3,2019,The Month_Non-Residents,6669
-50,2019-03-01,3,2019,The Month_Retail Clients,1710
+15,2019-04-01,4,2019,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,1726
+27,2019-04-01,4,2019,Corporate Bonds_Banks,1333
+39,2019-04-01,4,2019,Corporate Bonds_Institutional Clients,35248
+3,2019-04-01,4,2019,Corporate Bonds_Investment Dealers,3319
+75,2019-04-01,4,2019,Corporate Bonds_Issuer,42
+63,2019-04-01,4,2019,Corporate Bonds_Non-Residents,5221
+51,2019-04-01,4,2019,Corporate Bonds_Retail Clients,1497
 99,2019-04-01,4,2019,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 111,2019-04-01,4,2019,Other Domestic Bonds_Banks,8
 123,2019-04-01,4,2019,Other Domestic Bonds_Institutional Clients,478
@@ -216,13 +223,13 @@
 159,2019-04-01,4,2019,Other Domestic Bonds_Issuer,55.0
 147,2019-04-01,4,2019,Other Domestic Bonds_Non-Residents,213
 135,2019-04-01,4,2019,Other Domestic Bonds_Retail Clients,83
-15,2019-04-01,4,2019,The Month_Anonymous Systems: IDBBs and ATSs,1726
-27,2019-04-01,4,2019,The Month_Banks,1333
-39,2019-04-01,4,2019,The Month_Institutional Clients,35248
-3,2019-04-01,4,2019,The Month_Investment Dealers,3319
-75,2019-04-01,4,2019,The Month_Issuer,42
-63,2019-04-01,4,2019,The Month_Non-Residents,5221
-51,2019-04-01,4,2019,The Month_Retail Clients,1497
+16,2019-05-01,5,2019,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,1492
+28,2019-05-01,5,2019,Corporate Bonds_Banks,1386
+40,2019-05-01,5,2019,Corporate Bonds_Institutional Clients,32315
+4,2019-05-01,5,2019,Corporate Bonds_Investment Dealers,3528
+76,2019-05-01,5,2019,Corporate Bonds_Issuer,37
+64,2019-05-01,5,2019,Corporate Bonds_Non-Residents,4686
+52,2019-05-01,5,2019,Corporate Bonds_Retail Clients,1336
 100,2019-05-01,5,2019,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 112,2019-05-01,5,2019,Other Domestic Bonds_Banks,43
 124,2019-05-01,5,2019,Other Domestic Bonds_Institutional Clients,214
@@ -230,13 +237,13 @@
 160,2019-05-01,5,2019,Other Domestic Bonds_Issuer,0.0
 148,2019-05-01,5,2019,Other Domestic Bonds_Non-Residents,727
 136,2019-05-01,5,2019,Other Domestic Bonds_Retail Clients,29
-16,2019-05-01,5,2019,The Month_Anonymous Systems: IDBBs and ATSs,1492
-28,2019-05-01,5,2019,The Month_Banks,1386
-40,2019-05-01,5,2019,The Month_Institutional Clients,32315
-4,2019-05-01,5,2019,The Month_Investment Dealers,3528
-76,2019-05-01,5,2019,The Month_Issuer,37
-64,2019-05-01,5,2019,The Month_Non-Residents,4686
-52,2019-05-01,5,2019,The Month_Retail Clients,1336
+17,2019-06-01,6,2019,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,1100
+29,2019-06-01,6,2019,Corporate Bonds_Banks,6473
+41,2019-06-01,6,2019,Corporate Bonds_Institutional Clients,38279
+5,2019-06-01,6,2019,Corporate Bonds_Investment Dealers,4331
+77,2019-06-01,6,2019,Corporate Bonds_Issuer,49
+65,2019-06-01,6,2019,Corporate Bonds_Non-Residents,6650
+53,2019-06-01,6,2019,Corporate Bonds_Retail Clients,1731
 101,2019-06-01,6,2019,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 113,2019-06-01,6,2019,Other Domestic Bonds_Banks,23
 125,2019-06-01,6,2019,Other Domestic Bonds_Institutional Clients,339
@@ -244,13 +251,13 @@
 161,2019-06-01,6,2019,Other Domestic Bonds_Issuer,0.0
 149,2019-06-01,6,2019,Other Domestic Bonds_Non-Residents,668
 137,2019-06-01,6,2019,Other Domestic Bonds_Retail Clients,69
-17,2019-06-01,6,2019,The Month_Anonymous Systems: IDBBs and ATSs,1100
-29,2019-06-01,6,2019,The Month_Banks,6473
-41,2019-06-01,6,2019,The Month_Institutional Clients,38279
-5,2019-06-01,6,2019,The Month_Investment Dealers,4331
-77,2019-06-01,6,2019,The Month_Issuer,49
-65,2019-06-01,6,2019,The Month_Non-Residents,6650
-53,2019-06-01,6,2019,The Month_Retail Clients,1731
+18,2019-07-01,7,2019,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,1476
+30,2019-07-01,7,2019,Corporate Bonds_Banks,1225
+42,2019-07-01,7,2019,Corporate Bonds_Institutional Clients,34381
+6,2019-07-01,7,2019,Corporate Bonds_Investment Dealers,3339
+78,2019-07-01,7,2019,Corporate Bonds_Issuer,0
+66,2019-07-01,7,2019,Corporate Bonds_Non-Residents,4512
+54,2019-07-01,7,2019,Corporate Bonds_Retail Clients,1371
 102,2019-07-01,7,2019,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 114,2019-07-01,7,2019,Other Domestic Bonds_Banks,48
 126,2019-07-01,7,2019,Other Domestic Bonds_Institutional Clients,191
@@ -258,13 +265,13 @@
 162,2019-07-01,7,2019,Other Domestic Bonds_Issuer,1.0
 150,2019-07-01,7,2019,Other Domestic Bonds_Non-Residents,311
 138,2019-07-01,7,2019,Other Domestic Bonds_Retail Clients,26
-18,2019-07-01,7,2019,The Month_Anonymous Systems: IDBBs and ATSs,1476
-30,2019-07-01,7,2019,The Month_Banks,1225
-42,2019-07-01,7,2019,The Month_Institutional Clients,34381
-6,2019-07-01,7,2019,The Month_Investment Dealers,3339
-78,2019-07-01,7,2019,The Month_Issuer,0
-66,2019-07-01,7,2019,The Month_Non-Residents,4512
-54,2019-07-01,7,2019,The Month_Retail Clients,1371
+19,2019-08-01,8,2019,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,1060
+31,2019-08-01,8,2019,Corporate Bonds_Banks,1317
+43,2019-08-01,8,2019,Corporate Bonds_Institutional Clients,30467
+7,2019-08-01,8,2019,Corporate Bonds_Investment Dealers,2664
+79,2019-08-01,8,2019,Corporate Bonds_Issuer,186
+67,2019-08-01,8,2019,Corporate Bonds_Non-Residents,3919
+55,2019-08-01,8,2019,Corporate Bonds_Retail Clients,1085
 103,2019-08-01,8,2019,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 115,2019-08-01,8,2019,Other Domestic Bonds_Banks,67
 127,2019-08-01,8,2019,Other Domestic Bonds_Institutional Clients,131
@@ -272,13 +279,13 @@
 163,2019-08-01,8,2019,Other Domestic Bonds_Issuer,28.0
 151,2019-08-01,8,2019,Other Domestic Bonds_Non-Residents,367
 139,2019-08-01,8,2019,Other Domestic Bonds_Retail Clients,119
-19,2019-08-01,8,2019,The Month_Anonymous Systems: IDBBs and ATSs,1060
-31,2019-08-01,8,2019,The Month_Banks,1317
-43,2019-08-01,8,2019,The Month_Institutional Clients,30467
-7,2019-08-01,8,2019,The Month_Investment Dealers,2664
-79,2019-08-01,8,2019,The Month_Issuer,186
-67,2019-08-01,8,2019,The Month_Non-Residents,3919
-55,2019-08-01,8,2019,The Month_Retail Clients,1085
+20,2019-09-01,9,2019,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,1627
+32,2019-09-01,9,2019,Corporate Bonds_Banks,2465
+44,2019-09-01,9,2019,Corporate Bonds_Institutional Clients,37846
+8,2019-09-01,9,2019,Corporate Bonds_Investment Dealers,2756
+80,2019-09-01,9,2019,Corporate Bonds_Issuer,147
+68,2019-09-01,9,2019,Corporate Bonds_Non-Residents,4645
+56,2019-09-01,9,2019,Corporate Bonds_Retail Clients,1419
 104,2019-09-01,9,2019,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 116,2019-09-01,9,2019,Other Domestic Bonds_Banks,120
 128,2019-09-01,9,2019,Other Domestic Bonds_Institutional Clients,325
@@ -286,13 +293,13 @@
 164,2019-09-01,9,2019,Other Domestic Bonds_Issuer,0.0
 152,2019-09-01,9,2019,Other Domestic Bonds_Non-Residents,605
 140,2019-09-01,9,2019,Other Domestic Bonds_Retail Clients,30
-20,2019-09-01,9,2019,The Month_Anonymous Systems: IDBBs and ATSs,1627
-32,2019-09-01,9,2019,The Month_Banks,2465
-44,2019-09-01,9,2019,The Month_Institutional Clients,37846
-8,2019-09-01,9,2019,The Month_Investment Dealers,2756
-80,2019-09-01,9,2019,The Month_Issuer,147
-68,2019-09-01,9,2019,The Month_Non-Residents,4645
-56,2019-09-01,9,2019,The Month_Retail Clients,1419
+21,2019-10-01,10,2019,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,2572
+33,2019-10-01,10,2019,Corporate Bonds_Banks,2071
+45,2019-10-01,10,2019,Corporate Bonds_Institutional Clients,34409
+9,2019-10-01,10,2019,Corporate Bonds_Investment Dealers,3059
+81,2019-10-01,10,2019,Corporate Bonds_Issuer,53
+69,2019-10-01,10,2019,Corporate Bonds_Non-Residents,4063
+57,2019-10-01,10,2019,Corporate Bonds_Retail Clients,1508
 105,2019-10-01,10,2019,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 117,2019-10-01,10,2019,Other Domestic Bonds_Banks,13
 129,2019-10-01,10,2019,Other Domestic Bonds_Institutional Clients,15
@@ -300,13 +307,13 @@
 165,2019-10-01,10,2019,Other Domestic Bonds_Issuer,0.0
 153,2019-10-01,10,2019,Other Domestic Bonds_Non-Residents,192
 141,2019-10-01,10,2019,Other Domestic Bonds_Retail Clients,6
-21,2019-10-01,10,2019,The Month_Anonymous Systems: IDBBs and ATSs,2572
-33,2019-10-01,10,2019,The Month_Banks,2071
-45,2019-10-01,10,2019,The Month_Institutional Clients,34409
-9,2019-10-01,10,2019,The Month_Investment Dealers,3059
-81,2019-10-01,10,2019,The Month_Issuer,53
-69,2019-10-01,10,2019,The Month_Non-Residents,4063
-57,2019-10-01,10,2019,The Month_Retail Clients,1508
+22,2019-11-01,11,2019,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,1526
+34,2019-11-01,11,2019,Corporate Bonds_Banks,2197
+46,2019-11-01,11,2019,Corporate Bonds_Institutional Clients,31444
+10,2019-11-01,11,2019,Corporate Bonds_Investment Dealers,3045
+82,2019-11-01,11,2019,Corporate Bonds_Issuer,93
+70,2019-11-01,11,2019,Corporate Bonds_Non-Residents,3087
+58,2019-11-01,11,2019,Corporate Bonds_Retail Clients,1994
 106,2019-11-01,11,2019,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,10
 118,2019-11-01,11,2019,Other Domestic Bonds_Banks,38
 130,2019-11-01,11,2019,Other Domestic Bonds_Institutional Clients,152
@@ -314,13 +321,13 @@
 166,2019-11-01,11,2019,Other Domestic Bonds_Issuer,0.0
 154,2019-11-01,11,2019,Other Domestic Bonds_Non-Residents,221
 142,2019-11-01,11,2019,Other Domestic Bonds_Retail Clients,9
-22,2019-11-01,11,2019,The Month_Anonymous Systems: IDBBs and ATSs,1526
-34,2019-11-01,11,2019,The Month_Banks,2197
-46,2019-11-01,11,2019,The Month_Institutional Clients,31444
-10,2019-11-01,11,2019,The Month_Investment Dealers,3045
-82,2019-11-01,11,2019,The Month_Issuer,93
-70,2019-11-01,11,2019,The Month_Non-Residents,3087
-58,2019-11-01,11,2019,The Month_Retail Clients,1994
+23,2019-12-01,12,2019,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,2262
+35,2019-12-01,12,2019,Corporate Bonds_Banks,2649
+47,2019-12-01,12,2019,Corporate Bonds_Institutional Clients,27944
+11,2019-12-01,12,2019,Corporate Bonds_Investment Dealers,2604
+83,2019-12-01,12,2019,Corporate Bonds_Issuer,136
+71,2019-12-01,12,2019,Corporate Bonds_Non-Residents,2601
+59,2019-12-01,12,2019,Corporate Bonds_Retail Clients,2039
 107,2019-12-01,12,2019,Other Domestic Bonds_Anonymous Systems: IDBBs and ATSs,0
 119,2019-12-01,12,2019,Other Domestic Bonds_Banks,40
 131,2019-12-01,12,2019,Other Domestic Bonds_Institutional Clients,59
@@ -328,13 +335,6 @@
 167,2019-12-01,12,2019,Other Domestic Bonds_Issuer,0.0
 155,2019-12-01,12,2019,Other Domestic Bonds_Non-Residents,134
 143,2019-12-01,12,2019,Other Domestic Bonds_Retail Clients,8
-23,2019-12-01,12,2019,The Month_Anonymous Systems: IDBBs and ATSs,2262
-35,2019-12-01,12,2019,The Month_Banks,2649
-47,2019-12-01,12,2019,The Month_Institutional Clients,27944
-11,2019-12-01,12,2019,The Month_Investment Dealers,2604
-83,2019-12-01,12,2019,The Month_Issuer,136
-71,2019-12-01,12,2019,The Month_Non-Residents,2601
-59,2019-12-01,12,2019,The Month_Retail Clients,2039
 12,2020-01-01,1,2020,Corporate Bonds_Anonymous Systems: IDBBs and ATSs,2843.8095
 24,2020-01-01,1,2020,Corporate Bonds_Banks,2432.967437
 36,2020-01-01,1,2020,Corporate Bonds_Institutional Clients,36886.06898

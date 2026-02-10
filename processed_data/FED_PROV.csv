@@ -1,4 +1,11 @@
 ,date,month,year,instruments,volume
+12,2018-01-01,1,2018,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,15109
+24,2018-01-01,1,2018,Federal Crown Corporation Bonds_Banks,3347
+36,2018-01-01,1,2018,Federal Crown Corporation Bonds_Institutional Clients,19150
+0,2018-01-01,1,2018,Federal Crown Corporation Bonds_Investment Dealers,2048
+72,2018-01-01,1,2018,Federal Crown Corporation Bonds_Issuer,0
+60,2018-01-01,1,2018,Federal Crown Corporation Bonds_Non-Residents,5053
+48,2018-01-01,1,2018,Federal Crown Corporation Bonds_Retail Clients,187
 96,2018-01-01,1,2018,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,41663
 108,2018-01-01,1,2018,Provincial Bonds_Banks,7285
 120,2018-01-01,1,2018,Provincial Bonds_Institutional Clients,51714
@@ -6,13 +13,13 @@
 156,2018-01-01,1,2018,Provincial Bonds_Issuer,323
 144,2018-01-01,1,2018,Provincial Bonds_Non-Residents,4645
 132,2018-01-01,1,2018,Provincial Bonds_Retail Clients,600
-12,2018-01-01,1,2018,The Month_Anonymous Systems: IDBBs and ATSs,15109
-24,2018-01-01,1,2018,The Month_Banks,3347
-36,2018-01-01,1,2018,The Month_Institutional Clients,19150
-0,2018-01-01,1,2018,The Month_Investment Dealers,2048
-72,2018-01-01,1,2018,The Month_Issuer,0
-60,2018-01-01,1,2018,The Month_Non-Residents,5053
-48,2018-01-01,1,2018,The Month_Retail Clients,187
+13,2018-02-01,2,2018,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,15629
+25,2018-02-01,2,2018,Federal Crown Corporation Bonds_Banks,4360
+37,2018-02-01,2,2018,Federal Crown Corporation Bonds_Institutional Clients,20796
+1,2018-02-01,2,2018,Federal Crown Corporation Bonds_Investment Dealers,3769
+73,2018-02-01,2,2018,Federal Crown Corporation Bonds_Issuer,26
+61,2018-02-01,2,2018,Federal Crown Corporation Bonds_Non-Residents,3402
+49,2018-02-01,2,2018,Federal Crown Corporation Bonds_Retail Clients,125
 97,2018-02-01,2,2018,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,34753
 109,2018-02-01,2,2018,Provincial Bonds_Banks,4967
 121,2018-02-01,2,2018,Provincial Bonds_Institutional Clients,38559
@@ -20,13 +27,13 @@
 157,2018-02-01,2,2018,Provincial Bonds_Issuer,302
 145,2018-02-01,2,2018,Provincial Bonds_Non-Residents,3522
 133,2018-02-01,2,2018,Provincial Bonds_Retail Clients,507
-13,2018-02-01,2,2018,The Month_Anonymous Systems: IDBBs and ATSs,15629
-25,2018-02-01,2,2018,The Month_Banks,4360
-37,2018-02-01,2,2018,The Month_Institutional Clients,20796
-1,2018-02-01,2,2018,The Month_Investment Dealers,3769
-73,2018-02-01,2,2018,The Month_Issuer,26
-61,2018-02-01,2,2018,The Month_Non-Residents,3402
-49,2018-02-01,2,2018,The Month_Retail Clients,125
+14,2018-03-01,3,2018,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,15932
+26,2018-03-01,3,2018,Federal Crown Corporation Bonds_Banks,5843
+38,2018-03-01,3,2018,Federal Crown Corporation Bonds_Institutional Clients,25766
+2,2018-03-01,3,2018,Federal Crown Corporation Bonds_Investment Dealers,3366
+74,2018-03-01,3,2018,Federal Crown Corporation Bonds_Issuer,80
+62,2018-03-01,3,2018,Federal Crown Corporation Bonds_Non-Residents,8816
+50,2018-03-01,3,2018,Federal Crown Corporation Bonds_Retail Clients,180
 98,2018-03-01,3,2018,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,33580
 110,2018-03-01,3,2018,Provincial Bonds_Banks,6073
 122,2018-03-01,3,2018,Provincial Bonds_Institutional Clients,42376
@@ -34,13 +41,13 @@
 158,2018-03-01,3,2018,Provincial Bonds_Issuer,1144
 146,2018-03-01,3,2018,Provincial Bonds_Non-Residents,6524
 134,2018-03-01,3,2018,Provincial Bonds_Retail Clients,396
-14,2018-03-01,3,2018,The Month_Anonymous Systems: IDBBs and ATSs,15932
-26,2018-03-01,3,2018,The Month_Banks,5843
-38,2018-03-01,3,2018,The Month_Institutional Clients,25766
-2,2018-03-01,3,2018,The Month_Investment Dealers,3366
-74,2018-03-01,3,2018,The Month_Issuer,80
-62,2018-03-01,3,2018,The Month_Non-Residents,8816
-50,2018-03-01,3,2018,The Month_Retail Clients,180
+15,2018-04-01,4,2018,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,21247
+27,2018-04-01,4,2018,Federal Crown Corporation Bonds_Banks,4176
+39,2018-04-01,4,2018,Federal Crown Corporation Bonds_Institutional Clients,20035
+3,2018-04-01,4,2018,Federal Crown Corporation Bonds_Investment Dealers,3970
+75,2018-04-01,4,2018,Federal Crown Corporation Bonds_Issuer,16
+63,2018-04-01,4,2018,Federal Crown Corporation Bonds_Non-Residents,8079
+51,2018-04-01,4,2018,Federal Crown Corporation Bonds_Retail Clients,140
 99,2018-04-01,4,2018,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,35942
 111,2018-04-01,4,2018,Provincial Bonds_Banks,7806
 123,2018-04-01,4,2018,Provincial Bonds_Institutional Clients,52096
@@ -48,13 +55,13 @@
 159,2018-04-01,4,2018,Provincial Bonds_Issuer,475
 147,2018-04-01,4,2018,Provincial Bonds_Non-Residents,5741
 135,2018-04-01,4,2018,Provincial Bonds_Retail Clients,395
-15,2018-04-01,4,2018,The Month_Anonymous Systems: IDBBs and ATSs,21247
-27,2018-04-01,4,2018,The Month_Banks,4176
-39,2018-04-01,4,2018,The Month_Institutional Clients,20035
-3,2018-04-01,4,2018,The Month_Investment Dealers,3970
-75,2018-04-01,4,2018,The Month_Issuer,16
-63,2018-04-01,4,2018,The Month_Non-Residents,8079
-51,2018-04-01,4,2018,The Month_Retail Clients,140
+16,2018-05-01,5,2018,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,18381
+28,2018-05-01,5,2018,Federal Crown Corporation Bonds_Banks,5554
+40,2018-05-01,5,2018,Federal Crown Corporation Bonds_Institutional Clients,21503
+4,2018-05-01,5,2018,Federal Crown Corporation Bonds_Investment Dealers,2480
+76,2018-05-01,5,2018,Federal Crown Corporation Bonds_Issuer,12
+64,2018-05-01,5,2018,Federal Crown Corporation Bonds_Non-Residents,5428
+52,2018-05-01,5,2018,Federal Crown Corporation Bonds_Retail Clients,181
 100,2018-05-01,5,2018,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,38908
 112,2018-05-01,5,2018,Provincial Bonds_Banks,8435
 124,2018-05-01,5,2018,Provincial Bonds_Institutional Clients,61514
@@ -62,13 +69,13 @@
 160,2018-05-01,5,2018,Provincial Bonds_Issuer,975
 148,2018-05-01,5,2018,Provincial Bonds_Non-Residents,6943
 136,2018-05-01,5,2018,Provincial Bonds_Retail Clients,568
-16,2018-05-01,5,2018,The Month_Anonymous Systems: IDBBs and ATSs,18381
-28,2018-05-01,5,2018,The Month_Banks,5554
-40,2018-05-01,5,2018,The Month_Institutional Clients,21503
-4,2018-05-01,5,2018,The Month_Investment Dealers,2480
-76,2018-05-01,5,2018,The Month_Issuer,12
-64,2018-05-01,5,2018,The Month_Non-Residents,5428
-52,2018-05-01,5,2018,The Month_Retail Clients,181
+17,2018-06-01,6,2018,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,14822
+29,2018-06-01,6,2018,Federal Crown Corporation Bonds_Banks,7261
+41,2018-06-01,6,2018,Federal Crown Corporation Bonds_Institutional Clients,24250
+5,2018-06-01,6,2018,Federal Crown Corporation Bonds_Investment Dealers,4797
+77,2018-06-01,6,2018,Federal Crown Corporation Bonds_Issuer,0
+65,2018-06-01,6,2018,Federal Crown Corporation Bonds_Non-Residents,12637
+53,2018-06-01,6,2018,Federal Crown Corporation Bonds_Retail Clients,145
 101,2018-06-01,6,2018,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,29917
 113,2018-06-01,6,2018,Provincial Bonds_Banks,8812
 125,2018-06-01,6,2018,Provincial Bonds_Institutional Clients,42648
@@ -76,13 +83,13 @@
 161,2018-06-01,6,2018,Provincial Bonds_Issuer,816
 149,2018-06-01,6,2018,Provincial Bonds_Non-Residents,5686
 137,2018-06-01,6,2018,Provincial Bonds_Retail Clients,640
-17,2018-06-01,6,2018,The Month_Anonymous Systems: IDBBs and ATSs,14822
-29,2018-06-01,6,2018,The Month_Banks,7261
-41,2018-06-01,6,2018,The Month_Institutional Clients,24250
-5,2018-06-01,6,2018,The Month_Investment Dealers,4797
-77,2018-06-01,6,2018,The Month_Issuer,0
-65,2018-06-01,6,2018,The Month_Non-Residents,12637
-53,2018-06-01,6,2018,The Month_Retail Clients,145
+18,2018-07-01,7,2018,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,12339
+30,2018-07-01,7,2018,Federal Crown Corporation Bonds_Banks,3479
+42,2018-07-01,7,2018,Federal Crown Corporation Bonds_Institutional Clients,12954
+6,2018-07-01,7,2018,Federal Crown Corporation Bonds_Investment Dealers,1455
+78,2018-07-01,7,2018,Federal Crown Corporation Bonds_Issuer,0
+66,2018-07-01,7,2018,Federal Crown Corporation Bonds_Non-Residents,3726
+54,2018-07-01,7,2018,Federal Crown Corporation Bonds_Retail Clients,95
 102,2018-07-01,7,2018,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,21428
 114,2018-07-01,7,2018,Provincial Bonds_Banks,7381
 126,2018-07-01,7,2018,Provincial Bonds_Institutional Clients,38594
@@ -90,13 +97,13 @@
 162,2018-07-01,7,2018,Provincial Bonds_Issuer,973
 150,2018-07-01,7,2018,Provincial Bonds_Non-Residents,3966
 138,2018-07-01,7,2018,Provincial Bonds_Retail Clients,514
-18,2018-07-01,7,2018,The Month_Anonymous Systems: IDBBs and ATSs,12339
-30,2018-07-01,7,2018,The Month_Banks,3479
-42,2018-07-01,7,2018,The Month_Institutional Clients,12954
-6,2018-07-01,7,2018,The Month_Investment Dealers,1455
-78,2018-07-01,7,2018,The Month_Issuer,0
-66,2018-07-01,7,2018,The Month_Non-Residents,3726
-54,2018-07-01,7,2018,The Month_Retail Clients,95
+19,2018-08-01,8,2018,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,12531
+31,2018-08-01,8,2018,Federal Crown Corporation Bonds_Banks,4369
+43,2018-08-01,8,2018,Federal Crown Corporation Bonds_Institutional Clients,17709
+7,2018-08-01,8,2018,Federal Crown Corporation Bonds_Investment Dealers,3491
+79,2018-08-01,8,2018,Federal Crown Corporation Bonds_Issuer,15
+67,2018-08-01,8,2018,Federal Crown Corporation Bonds_Non-Residents,5887
+55,2018-08-01,8,2018,Federal Crown Corporation Bonds_Retail Clients,140
 103,2018-08-01,8,2018,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,25350
 115,2018-08-01,8,2018,Provincial Bonds_Banks,7112
 127,2018-08-01,8,2018,Provincial Bonds_Institutional Clients,35959
@@ -104,13 +111,13 @@
 163,2018-08-01,8,2018,Provincial Bonds_Issuer,301
 151,2018-08-01,8,2018,Provincial Bonds_Non-Residents,6958
 139,2018-08-01,8,2018,Provincial Bonds_Retail Clients,422
-19,2018-08-01,8,2018,The Month_Anonymous Systems: IDBBs and ATSs,12531
-31,2018-08-01,8,2018,The Month_Banks,4369
-43,2018-08-01,8,2018,The Month_Institutional Clients,17709
-7,2018-08-01,8,2018,The Month_Investment Dealers,3491
-79,2018-08-01,8,2018,The Month_Issuer,15
-67,2018-08-01,8,2018,The Month_Non-Residents,5887
-55,2018-08-01,8,2018,The Month_Retail Clients,140
+20,2018-09-01,9,2018,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,16110
+32,2018-09-01,9,2018,Federal Crown Corporation Bonds_Banks,5761
+44,2018-09-01,9,2018,Federal Crown Corporation Bonds_Institutional Clients,20307
+8,2018-09-01,9,2018,Federal Crown Corporation Bonds_Investment Dealers,5385
+80,2018-09-01,9,2018,Federal Crown Corporation Bonds_Issuer,0
+68,2018-09-01,9,2018,Federal Crown Corporation Bonds_Non-Residents,4204
+56,2018-09-01,9,2018,Federal Crown Corporation Bonds_Retail Clients,198
 104,2018-09-01,9,2018,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,32701
 116,2018-09-01,9,2018,Provincial Bonds_Banks,7538
 128,2018-09-01,9,2018,Provincial Bonds_Institutional Clients,46287
@@ -118,13 +125,13 @@
 164,2018-09-01,9,2018,Provincial Bonds_Issuer,387
 152,2018-09-01,9,2018,Provincial Bonds_Non-Residents,5519
 140,2018-09-01,9,2018,Provincial Bonds_Retail Clients,498
-20,2018-09-01,9,2018,The Month_Anonymous Systems: IDBBs and ATSs,16110
-32,2018-09-01,9,2018,The Month_Banks,5761
-44,2018-09-01,9,2018,The Month_Institutional Clients,20307
-8,2018-09-01,9,2018,The Month_Investment Dealers,5385
-80,2018-09-01,9,2018,The Month_Issuer,0
-68,2018-09-01,9,2018,The Month_Non-Residents,4204
-56,2018-09-01,9,2018,The Month_Retail Clients,198
+21,2018-10-01,10,2018,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,20576
+33,2018-10-01,10,2018,Federal Crown Corporation Bonds_Banks,7513
+45,2018-10-01,10,2018,Federal Crown Corporation Bonds_Institutional Clients,23041
+9,2018-10-01,10,2018,Federal Crown Corporation Bonds_Investment Dealers,3923
+81,2018-10-01,10,2018,Federal Crown Corporation Bonds_Issuer,0
+69,2018-10-01,10,2018,Federal Crown Corporation Bonds_Non-Residents,5250
+57,2018-10-01,10,2018,Federal Crown Corporation Bonds_Retail Clients,154
 105,2018-10-01,10,2018,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,31137
 117,2018-10-01,10,2018,Provincial Bonds_Banks,16518
 129,2018-10-01,10,2018,Provincial Bonds_Institutional Clients,54409
@@ -132,13 +139,13 @@
 165,2018-10-01,10,2018,Provincial Bonds_Issuer,491
 153,2018-10-01,10,2018,Provincial Bonds_Non-Residents,9052
 141,2018-10-01,10,2018,Provincial Bonds_Retail Clients,556
-21,2018-10-01,10,2018,The Month_Anonymous Systems: IDBBs and ATSs,20576
-33,2018-10-01,10,2018,The Month_Banks,7513
-45,2018-10-01,10,2018,The Month_Institutional Clients,23041
-9,2018-10-01,10,2018,The Month_Investment Dealers,3923
-81,2018-10-01,10,2018,The Month_Issuer,0
-69,2018-10-01,10,2018,The Month_Non-Residents,5250
-57,2018-10-01,10,2018,The Month_Retail Clients,154
+22,2018-11-01,11,2018,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,17920
+34,2018-11-01,11,2018,Federal Crown Corporation Bonds_Banks,5561
+46,2018-11-01,11,2018,Federal Crown Corporation Bonds_Institutional Clients,20443
+10,2018-11-01,11,2018,Federal Crown Corporation Bonds_Investment Dealers,2692
+82,2018-11-01,11,2018,Federal Crown Corporation Bonds_Issuer,65
+70,2018-11-01,11,2018,Federal Crown Corporation Bonds_Non-Residents,6786
+58,2018-11-01,11,2018,Federal Crown Corporation Bonds_Retail Clients,532
 106,2018-11-01,11,2018,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,36373
 118,2018-11-01,11,2018,Provincial Bonds_Banks,11424
 130,2018-11-01,11,2018,Provincial Bonds_Institutional Clients,42862
@@ -146,13 +153,13 @@
 166,2018-11-01,11,2018,Provincial Bonds_Issuer,395
 154,2018-11-01,11,2018,Provincial Bonds_Non-Residents,12415
 142,2018-11-01,11,2018,Provincial Bonds_Retail Clients,496
-22,2018-11-01,11,2018,The Month_Anonymous Systems: IDBBs and ATSs,17920
-34,2018-11-01,11,2018,The Month_Banks,5561
-46,2018-11-01,11,2018,The Month_Institutional Clients,20443
-10,2018-11-01,11,2018,The Month_Investment Dealers,2692
-82,2018-11-01,11,2018,The Month_Issuer,65
-70,2018-11-01,11,2018,The Month_Non-Residents,6786
-58,2018-11-01,11,2018,The Month_Retail Clients,532
+23,2018-12-01,12,2018,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,13180
+35,2018-12-01,12,2018,Federal Crown Corporation Bonds_Banks,5254
+47,2018-12-01,12,2018,Federal Crown Corporation Bonds_Institutional Clients,28665
+11,2018-12-01,12,2018,Federal Crown Corporation Bonds_Investment Dealers,2885
+83,2018-12-01,12,2018,Federal Crown Corporation Bonds_Issuer,8
+71,2018-12-01,12,2018,Federal Crown Corporation Bonds_Non-Residents,7804
+59,2018-12-01,12,2018,Federal Crown Corporation Bonds_Retail Clients,324
 107,2018-12-01,12,2018,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,27419
 119,2018-12-01,12,2018,Provincial Bonds_Banks,9536
 131,2018-12-01,12,2018,Provincial Bonds_Institutional Clients,41001
@@ -160,13 +167,13 @@
 167,2018-12-01,12,2018,Provincial Bonds_Issuer,203
 155,2018-12-01,12,2018,Provincial Bonds_Non-Residents,9531
 143,2018-12-01,12,2018,Provincial Bonds_Retail Clients,608
-23,2018-12-01,12,2018,The Month_Anonymous Systems: IDBBs and ATSs,13180
-35,2018-12-01,12,2018,The Month_Banks,5254
-47,2018-12-01,12,2018,The Month_Institutional Clients,28665
-11,2018-12-01,12,2018,The Month_Investment Dealers,2885
-83,2018-12-01,12,2018,The Month_Issuer,8
-71,2018-12-01,12,2018,The Month_Non-Residents,7804
-59,2018-12-01,12,2018,The Month_Retail Clients,324
+12,2019-01-01,1,2019,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,21501
+24,2019-01-01,1,2019,Federal Crown Corporation Bonds_Banks,6116
+36,2019-01-01,1,2019,Federal Crown Corporation Bonds_Institutional Clients,19292
+0,2019-01-01,1,2019,Federal Crown Corporation Bonds_Investment Dealers,3759
+72,2019-01-01,1,2019,Federal Crown Corporation Bonds_Issuer,2
+60,2019-01-01,1,2019,Federal Crown Corporation Bonds_Non-Residents,5275
+48,2019-01-01,1,2019,Federal Crown Corporation Bonds_Retail Clients,291
 96,2019-01-01,1,2019,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,37127
 108,2019-01-01,1,2019,Provincial Bonds_Banks,9355
 120,2019-01-01,1,2019,Provincial Bonds_Institutional Clients,46695
@@ -174,13 +181,13 @@
 156,2019-01-01,1,2019,Provincial Bonds_Issuer,69
 144,2019-01-01,1,2019,Provincial Bonds_Non-Residents,12221
 132,2019-01-01,1,2019,Provincial Bonds_Retail Clients,609
-12,2019-01-01,1,2019,The Month_Anonymous Systems: IDBBs and ATSs,21501
-24,2019-01-01,1,2019,The Month_Banks,6116
-36,2019-01-01,1,2019,The Month_Institutional Clients,19292
-0,2019-01-01,1,2019,The Month_Investment Dealers,3759
-72,2019-01-01,1,2019,The Month_Issuer,2
-60,2019-01-01,1,2019,The Month_Non-Residents,5275
-48,2019-01-01,1,2019,The Month_Retail Clients,291
+13,2019-02-01,2,2019,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,16375
+25,2019-02-01,2,2019,Federal Crown Corporation Bonds_Banks,4458
+37,2019-02-01,2,2019,Federal Crown Corporation Bonds_Institutional Clients,16200
+1,2019-02-01,2,2019,Federal Crown Corporation Bonds_Investment Dealers,2754
+73,2019-02-01,2,2019,Federal Crown Corporation Bonds_Issuer,1
+61,2019-02-01,2,2019,Federal Crown Corporation Bonds_Non-Residents,8634
+49,2019-02-01,2,2019,Federal Crown Corporation Bonds_Retail Clients,218
 97,2019-02-01,2,2019,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,32548
 109,2019-02-01,2,2019,Provincial Bonds_Banks,8950
 121,2019-02-01,2,2019,Provincial Bonds_Institutional Clients,41759
@@ -188,13 +195,13 @@
 157,2019-02-01,2,2019,Provincial Bonds_Issuer,173
 145,2019-02-01,2,2019,Provincial Bonds_Non-Residents,8535
 133,2019-02-01,2,2019,Provincial Bonds_Retail Clients,612
-13,2019-02-01,2,2019,The Month_Anonymous Systems: IDBBs and ATSs,16375
-25,2019-02-01,2,2019,The Month_Banks,4458
-37,2019-02-01,2,2019,The Month_Institutional Clients,16200
-1,2019-02-01,2,2019,The Month_Investment Dealers,2754
-73,2019-02-01,2,2019,The Month_Issuer,1
-61,2019-02-01,2,2019,The Month_Non-Residents,8634
-49,2019-02-01,2,2019,The Month_Retail Clients,218
+14,2019-03-01,3,2019,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,18693
+26,2019-03-01,3,2019,Federal Crown Corporation Bonds_Banks,6581
+38,2019-03-01,3,2019,Federal Crown Corporation Bonds_Institutional Clients,27506
+2,2019-03-01,3,2019,Federal Crown Corporation Bonds_Investment Dealers,4534
+74,2019-03-01,3,2019,Federal Crown Corporation Bonds_Issuer,1
+62,2019-03-01,3,2019,Federal Crown Corporation Bonds_Non-Residents,12840
+50,2019-03-01,3,2019,Federal Crown Corporation Bonds_Retail Clients,297
 98,2019-03-01,3,2019,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,29333
 110,2019-03-01,3,2019,Provincial Bonds_Banks,7718
 122,2019-03-01,3,2019,Provincial Bonds_Institutional Clients,47509
@@ -202,13 +209,13 @@
 158,2019-03-01,3,2019,Provincial Bonds_Issuer,230
 146,2019-03-01,3,2019,Provincial Bonds_Non-Residents,7157
 134,2019-03-01,3,2019,Provincial Bonds_Retail Clients,527
-14,2019-03-01,3,2019,The Month_Anonymous Systems: IDBBs and ATSs,18693
-26,2019-03-01,3,2019,The Month_Banks,6581
-38,2019-03-01,3,2019,The Month_Institutional Clients,27506
-2,2019-03-01,3,2019,The Month_Investment Dealers,4534
-74,2019-03-01,3,2019,The Month_Issuer,1
-62,2019-03-01,3,2019,The Month_Non-Residents,12840
-50,2019-03-01,3,2019,The Month_Retail Clients,297
+15,2019-04-01,4,2019,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,19956
+27,2019-04-01,4,2019,Federal Crown Corporation Bonds_Banks,4205
+39,2019-04-01,4,2019,Federal Crown Corporation Bonds_Institutional Clients,17641
+3,2019-04-01,4,2019,Federal Crown Corporation Bonds_Investment Dealers,1620
+75,2019-04-01,4,2019,Federal Crown Corporation Bonds_Issuer,110
+63,2019-04-01,4,2019,Federal Crown Corporation Bonds_Non-Residents,8207
+51,2019-04-01,4,2019,Federal Crown Corporation Bonds_Retail Clients,171
 99,2019-04-01,4,2019,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,32356
 111,2019-04-01,4,2019,Provincial Bonds_Banks,6262
 123,2019-04-01,4,2019,Provincial Bonds_Institutional Clients,48745
@@ -216,13 +223,13 @@
 159,2019-04-01,4,2019,Provincial Bonds_Issuer,354
 147,2019-04-01,4,2019,Provincial Bonds_Non-Residents,6936
 135,2019-04-01,4,2019,Provincial Bonds_Retail Clients,518
-15,2019-04-01,4,2019,The Month_Anonymous Systems: IDBBs and ATSs,19956
-27,2019-04-01,4,2019,The Month_Banks,4205
-39,2019-04-01,4,2019,The Month_Institutional Clients,17641
-3,2019-04-01,4,2019,The Month_Investment Dealers,1620
-75,2019-04-01,4,2019,The Month_Issuer,110
-63,2019-04-01,4,2019,The Month_Non-Residents,8207
-51,2019-04-01,4,2019,The Month_Retail Clients,171
+16,2019-05-01,5,2019,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,20694
+28,2019-05-01,5,2019,Federal Crown Corporation Bonds_Banks,6317
+40,2019-05-01,5,2019,Federal Crown Corporation Bonds_Institutional Clients,28162
+4,2019-05-01,5,2019,Federal Crown Corporation Bonds_Investment Dealers,4512
+76,2019-05-01,5,2019,Federal Crown Corporation Bonds_Issuer,25
+64,2019-05-01,5,2019,Federal Crown Corporation Bonds_Non-Residents,8065
+52,2019-05-01,5,2019,Federal Crown Corporation Bonds_Retail Clients,301
 100,2019-05-01,5,2019,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,41766
 112,2019-05-01,5,2019,Provincial Bonds_Banks,6582
 124,2019-05-01,5,2019,Provincial Bonds_Institutional Clients,46749
@@ -230,13 +237,13 @@
 160,2019-05-01,5,2019,Provincial Bonds_Issuer,253
 148,2019-05-01,5,2019,Provincial Bonds_Non-Residents,8778
 136,2019-05-01,5,2019,Provincial Bonds_Retail Clients,586
-16,2019-05-01,5,2019,The Month_Anonymous Systems: IDBBs and ATSs,20694
-28,2019-05-01,5,2019,The Month_Banks,6317
-40,2019-05-01,5,2019,The Month_Institutional Clients,28162
-4,2019-05-01,5,2019,The Month_Investment Dealers,4512
-76,2019-05-01,5,2019,The Month_Issuer,25
-64,2019-05-01,5,2019,The Month_Non-Residents,8065
-52,2019-05-01,5,2019,The Month_Retail Clients,301
+17,2019-06-01,6,2019,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,21553
+29,2019-06-01,6,2019,Federal Crown Corporation Bonds_Banks,3705
+41,2019-06-01,6,2019,Federal Crown Corporation Bonds_Institutional Clients,34387
+5,2019-06-01,6,2019,Federal Crown Corporation Bonds_Investment Dealers,4025
+77,2019-06-01,6,2019,Federal Crown Corporation Bonds_Issuer,0
+65,2019-06-01,6,2019,Federal Crown Corporation Bonds_Non-Residents,11090
+53,2019-06-01,6,2019,Federal Crown Corporation Bonds_Retail Clients,263
 101,2019-06-01,6,2019,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,33835
 113,2019-06-01,6,2019,Provincial Bonds_Banks,6579
 125,2019-06-01,6,2019,Provincial Bonds_Institutional Clients,55278
@@ -244,13 +251,13 @@
 161,2019-06-01,6,2019,Provincial Bonds_Issuer,247
 149,2019-06-01,6,2019,Provincial Bonds_Non-Residents,8373
 137,2019-06-01,6,2019,Provincial Bonds_Retail Clients,609
-17,2019-06-01,6,2019,The Month_Anonymous Systems: IDBBs and ATSs,21553
-29,2019-06-01,6,2019,The Month_Banks,3705
-41,2019-06-01,6,2019,The Month_Institutional Clients,34387
-5,2019-06-01,6,2019,The Month_Investment Dealers,4025
-77,2019-06-01,6,2019,The Month_Issuer,0
-65,2019-06-01,6,2019,The Month_Non-Residents,11090
-53,2019-06-01,6,2019,The Month_Retail Clients,263
+18,2019-07-01,7,2019,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,15168
+30,2019-07-01,7,2019,Federal Crown Corporation Bonds_Banks,3490
+42,2019-07-01,7,2019,Federal Crown Corporation Bonds_Institutional Clients,20329
+6,2019-07-01,7,2019,Federal Crown Corporation Bonds_Investment Dealers,1730
+78,2019-07-01,7,2019,Federal Crown Corporation Bonds_Issuer,1
+66,2019-07-01,7,2019,Federal Crown Corporation Bonds_Non-Residents,6389
+54,2019-07-01,7,2019,Federal Crown Corporation Bonds_Retail Clients,231
 102,2019-07-01,7,2019,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,34509
 114,2019-07-01,7,2019,Provincial Bonds_Banks,5713
 126,2019-07-01,7,2019,Provincial Bonds_Institutional Clients,51994
@@ -258,13 +265,13 @@
 162,2019-07-01,7,2019,Provincial Bonds_Issuer,266
 150,2019-07-01,7,2019,Provincial Bonds_Non-Residents,8443
 138,2019-07-01,7,2019,Provincial Bonds_Retail Clients,387
-18,2019-07-01,7,2019,The Month_Anonymous Systems: IDBBs and ATSs,15168
-30,2019-07-01,7,2019,The Month_Banks,3490
-42,2019-07-01,7,2019,The Month_Institutional Clients,20329
-6,2019-07-01,7,2019,The Month_Investment Dealers,1730
-78,2019-07-01,7,2019,The Month_Issuer,1
-66,2019-07-01,7,2019,The Month_Non-Residents,6389
-54,2019-07-01,7,2019,The Month_Retail Clients,231
+19,2019-08-01,8,2019,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,12331
+31,2019-08-01,8,2019,Federal Crown Corporation Bonds_Banks,6615
+43,2019-08-01,8,2019,Federal Crown Corporation Bonds_Institutional Clients,18057
+7,2019-08-01,8,2019,Federal Crown Corporation Bonds_Investment Dealers,3833
+79,2019-08-01,8,2019,Federal Crown Corporation Bonds_Issuer,0
+67,2019-08-01,8,2019,Federal Crown Corporation Bonds_Non-Residents,6848
+55,2019-08-01,8,2019,Federal Crown Corporation Bonds_Retail Clients,183
 103,2019-08-01,8,2019,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,27276
 115,2019-08-01,8,2019,Provincial Bonds_Banks,5824
 127,2019-08-01,8,2019,Provincial Bonds_Institutional Clients,33637
@@ -272,13 +279,13 @@
 163,2019-08-01,8,2019,Provincial Bonds_Issuer,779
 151,2019-08-01,8,2019,Provincial Bonds_Non-Residents,8117
 139,2019-08-01,8,2019,Provincial Bonds_Retail Clients,303
-19,2019-08-01,8,2019,The Month_Anonymous Systems: IDBBs and ATSs,12331
-31,2019-08-01,8,2019,The Month_Banks,6615
-43,2019-08-01,8,2019,The Month_Institutional Clients,18057
-7,2019-08-01,8,2019,The Month_Investment Dealers,3833
-79,2019-08-01,8,2019,The Month_Issuer,0
-67,2019-08-01,8,2019,The Month_Non-Residents,6848
-55,2019-08-01,8,2019,The Month_Retail Clients,183
+20,2019-09-01,9,2019,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,17823
+32,2019-09-01,9,2019,Federal Crown Corporation Bonds_Banks,5489
+44,2019-09-01,9,2019,Federal Crown Corporation Bonds_Institutional Clients,20253
+8,2019-09-01,9,2019,Federal Crown Corporation Bonds_Investment Dealers,3980
+80,2019-09-01,9,2019,Federal Crown Corporation Bonds_Issuer,1
+68,2019-09-01,9,2019,Federal Crown Corporation Bonds_Non-Residents,7898
+56,2019-09-01,9,2019,Federal Crown Corporation Bonds_Retail Clients,191
 104,2019-09-01,9,2019,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,35782
 116,2019-09-01,9,2019,Provincial Bonds_Banks,5698
 128,2019-09-01,9,2019,Provincial Bonds_Institutional Clients,41144
@@ -286,13 +293,13 @@
 164,2019-09-01,9,2019,Provincial Bonds_Issuer,246
 152,2019-09-01,9,2019,Provincial Bonds_Non-Residents,7453
 140,2019-09-01,9,2019,Provincial Bonds_Retail Clients,457
-20,2019-09-01,9,2019,The Month_Anonymous Systems: IDBBs and ATSs,17823
-32,2019-09-01,9,2019,The Month_Banks,5489
-44,2019-09-01,9,2019,The Month_Institutional Clients,20253
-8,2019-09-01,9,2019,The Month_Investment Dealers,3980
-80,2019-09-01,9,2019,The Month_Issuer,1
-68,2019-09-01,9,2019,The Month_Non-Residents,7898
-56,2019-09-01,9,2019,The Month_Retail Clients,191
+21,2019-10-01,10,2019,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,24530
+33,2019-10-01,10,2019,Federal Crown Corporation Bonds_Banks,6372
+45,2019-10-01,10,2019,Federal Crown Corporation Bonds_Institutional Clients,26388
+9,2019-10-01,10,2019,Federal Crown Corporation Bonds_Investment Dealers,5272
+81,2019-10-01,10,2019,Federal Crown Corporation Bonds_Issuer,0
+69,2019-10-01,10,2019,Federal Crown Corporation Bonds_Non-Residents,7782
+57,2019-10-01,10,2019,Federal Crown Corporation Bonds_Retail Clients,162
 105,2019-10-01,10,2019,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,38607
 117,2019-10-01,10,2019,Provincial Bonds_Banks,7274
 129,2019-10-01,10,2019,Provincial Bonds_Institutional Clients,42651
@@ -300,13 +307,13 @@
 165,2019-10-01,10,2019,Provincial Bonds_Issuer,312
 153,2019-10-01,10,2019,Provincial Bonds_Non-Residents,9401
 141,2019-10-01,10,2019,Provincial Bonds_Retail Clients,348
-21,2019-10-01,10,2019,The Month_Anonymous Systems: IDBBs and ATSs,24530
-33,2019-10-01,10,2019,The Month_Banks,6372
-45,2019-10-01,10,2019,The Month_Institutional Clients,26388
-9,2019-10-01,10,2019,The Month_Investment Dealers,5272
-81,2019-10-01,10,2019,The Month_Issuer,0
-69,2019-10-01,10,2019,The Month_Non-Residents,7782
-57,2019-10-01,10,2019,The Month_Retail Clients,162
+22,2019-11-01,11,2019,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,19277
+34,2019-11-01,11,2019,Federal Crown Corporation Bonds_Banks,7690
+46,2019-11-01,11,2019,Federal Crown Corporation Bonds_Institutional Clients,23718
+10,2019-11-01,11,2019,Federal Crown Corporation Bonds_Investment Dealers,2177
+82,2019-11-01,11,2019,Federal Crown Corporation Bonds_Issuer,0
+70,2019-11-01,11,2019,Federal Crown Corporation Bonds_Non-Residents,4870
+58,2019-11-01,11,2019,Federal Crown Corporation Bonds_Retail Clients,197
 106,2019-11-01,11,2019,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,34430
 118,2019-11-01,11,2019,Provincial Bonds_Banks,6340
 130,2019-11-01,11,2019,Provincial Bonds_Institutional Clients,55307
@@ -314,13 +321,13 @@
 166,2019-11-01,11,2019,Provincial Bonds_Issuer,478
 154,2019-11-01,11,2019,Provincial Bonds_Non-Residents,6917
 142,2019-11-01,11,2019,Provincial Bonds_Retail Clients,323
-22,2019-11-01,11,2019,The Month_Anonymous Systems: IDBBs and ATSs,19277
-34,2019-11-01,11,2019,The Month_Banks,7690
-46,2019-11-01,11,2019,The Month_Institutional Clients,23718
-10,2019-11-01,11,2019,The Month_Investment Dealers,2177
-82,2019-11-01,11,2019,The Month_Issuer,0
-70,2019-11-01,11,2019,The Month_Non-Residents,4870
-58,2019-11-01,11,2019,The Month_Retail Clients,197
+23,2019-12-01,12,2019,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,25054
+35,2019-12-01,12,2019,Federal Crown Corporation Bonds_Banks,8718
+47,2019-12-01,12,2019,Federal Crown Corporation Bonds_Institutional Clients,24884
+11,2019-12-01,12,2019,Federal Crown Corporation Bonds_Investment Dealers,3731
+83,2019-12-01,12,2019,Federal Crown Corporation Bonds_Issuer,5
+71,2019-12-01,12,2019,Federal Crown Corporation Bonds_Non-Residents,4784
+59,2019-12-01,12,2019,Federal Crown Corporation Bonds_Retail Clients,390
 107,2019-12-01,12,2019,Provincial Bonds_Anonymous Systems: IDBBs and ATSs,29612
 119,2019-12-01,12,2019,Provincial Bonds_Banks,5218
 131,2019-12-01,12,2019,Provincial Bonds_Institutional Clients,36946
@@ -328,13 +335,6 @@
 167,2019-12-01,12,2019,Provincial Bonds_Issuer,881
 155,2019-12-01,12,2019,Provincial Bonds_Non-Residents,6914
 143,2019-12-01,12,2019,Provincial Bonds_Retail Clients,788
-23,2019-12-01,12,2019,The Month_Anonymous Systems: IDBBs and ATSs,25054
-35,2019-12-01,12,2019,The Month_Banks,8718
-47,2019-12-01,12,2019,The Month_Institutional Clients,24884
-11,2019-12-01,12,2019,The Month_Investment Dealers,3731
-83,2019-12-01,12,2019,The Month_Issuer,5
-71,2019-12-01,12,2019,The Month_Non-Residents,4784
-59,2019-12-01,12,2019,The Month_Retail Clients,390
 12,2020-01-01,1,2020,Federal Crown Corporation Bonds_Anonymous Systems: IDBBs and ATSs,30017.354
 24,2020-01-01,1,2020,Federal Crown Corporation Bonds_Banks,5502.73425
 36,2020-01-01,1,2020,Federal Crown Corporation Bonds_Institutional Clients,28218.211151

@@ -6,13 +6,13 @@
 156,2018-01-01,1,2018,Asset-Backed Securities_Issuer,550.0
 144,2018-01-01,1,2018,Asset-Backed Securities_Non-Residents,25
 132,2018-01-01,1,2018,Asset-Backed Securities_Retail Clients,1
-12,2018-01-01,1,2018,The Month_Anonymous Systems: IDBBs and ATSs,196
-24,2018-01-01,1,2018,The Month_Banks,1283
-36,2018-01-01,1,2018,The Month_Institutional Clients,3055
-0,2018-01-01,1,2018,The Month_Investment Dealers,522
-72,2018-01-01,1,2018,The Month_Issuer,60
-60,2018-01-01,1,2018,The Month_Non-Residents,23
-48,2018-01-01,1,2018,The Month_Retail Clients,16
+12,2018-01-01,1,2018,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,196
+24,2018-01-01,1,2018,Mortgage Backed Securities_Banks,1283
+36,2018-01-01,1,2018,Mortgage Backed Securities_Institutional Clients,3055
+0,2018-01-01,1,2018,Mortgage Backed Securities_Investment Dealers,522
+72,2018-01-01,1,2018,Mortgage Backed Securities_Issuer,60
+60,2018-01-01,1,2018,Mortgage Backed Securities_Non-Residents,23
+48,2018-01-01,1,2018,Mortgage Backed Securities_Retail Clients,16
 97,2018-02-01,2,2018,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,104
 109,2018-02-01,2,2018,Asset-Backed Securities_Banks,8
 121,2018-02-01,2,2018,Asset-Backed Securities_Institutional Clients,543
@@ -20,13 +20,13 @@
 157,2018-02-01,2,2018,Asset-Backed Securities_Issuer,0.0
 145,2018-02-01,2,2018,Asset-Backed Securities_Non-Residents,49
 133,2018-02-01,2,2018,Asset-Backed Securities_Retail Clients,2
-13,2018-02-01,2,2018,The Month_Anonymous Systems: IDBBs and ATSs,198
-25,2018-02-01,2,2018,The Month_Banks,3283
-37,2018-02-01,2,2018,The Month_Institutional Clients,4090
-1,2018-02-01,2,2018,The Month_Investment Dealers,1374
-73,2018-02-01,2,2018,The Month_Issuer,0
-61,2018-02-01,2,2018,The Month_Non-Residents,208
-49,2018-02-01,2,2018,The Month_Retail Clients,14
+13,2018-02-01,2,2018,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,198
+25,2018-02-01,2,2018,Mortgage Backed Securities_Banks,3283
+37,2018-02-01,2,2018,Mortgage Backed Securities_Institutional Clients,4090
+1,2018-02-01,2,2018,Mortgage Backed Securities_Investment Dealers,1374
+73,2018-02-01,2,2018,Mortgage Backed Securities_Issuer,0
+61,2018-02-01,2,2018,Mortgage Backed Securities_Non-Residents,208
+49,2018-02-01,2,2018,Mortgage Backed Securities_Retail Clients,14
 98,2018-03-01,3,2018,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,48
 110,2018-03-01,3,2018,Asset-Backed Securities_Banks,1
 122,2018-03-01,3,2018,Asset-Backed Securities_Institutional Clients,631
@@ -34,13 +34,13 @@
 158,2018-03-01,3,2018,Asset-Backed Securities_Issuer,0.0
 146,2018-03-01,3,2018,Asset-Backed Securities_Non-Residents,26
 134,2018-03-01,3,2018,Asset-Backed Securities_Retail Clients,9
-14,2018-03-01,3,2018,The Month_Anonymous Systems: IDBBs and ATSs,4
-26,2018-03-01,3,2018,The Month_Banks,3401
-38,2018-03-01,3,2018,The Month_Institutional Clients,6521
-2,2018-03-01,3,2018,The Month_Investment Dealers,724
-74,2018-03-01,3,2018,The Month_Issuer,783
-62,2018-03-01,3,2018,The Month_Non-Residents,25
-50,2018-03-01,3,2018,The Month_Retail Clients,13
+14,2018-03-01,3,2018,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,4
+26,2018-03-01,3,2018,Mortgage Backed Securities_Banks,3401
+38,2018-03-01,3,2018,Mortgage Backed Securities_Institutional Clients,6521
+2,2018-03-01,3,2018,Mortgage Backed Securities_Investment Dealers,724
+74,2018-03-01,3,2018,Mortgage Backed Securities_Issuer,783
+62,2018-03-01,3,2018,Mortgage Backed Securities_Non-Residents,25
+50,2018-03-01,3,2018,Mortgage Backed Securities_Retail Clients,13
 99,2018-04-01,4,2018,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,121
 111,2018-04-01,4,2018,Asset-Backed Securities_Banks,6
 123,2018-04-01,4,2018,Asset-Backed Securities_Institutional Clients,768
@@ -48,13 +48,13 @@
 159,2018-04-01,4,2018,Asset-Backed Securities_Issuer,0.0
 147,2018-04-01,4,2018,Asset-Backed Securities_Non-Residents,53
 135,2018-04-01,4,2018,Asset-Backed Securities_Retail Clients,2
-15,2018-04-01,4,2018,The Month_Anonymous Systems: IDBBs and ATSs,64
-27,2018-04-01,4,2018,The Month_Banks,978
-39,2018-04-01,4,2018,The Month_Institutional Clients,5230
-3,2018-04-01,4,2018,The Month_Investment Dealers,1334
-75,2018-04-01,4,2018,The Month_Issuer,1317
-63,2018-04-01,4,2018,The Month_Non-Residents,232
-51,2018-04-01,4,2018,The Month_Retail Clients,39
+15,2018-04-01,4,2018,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,64
+27,2018-04-01,4,2018,Mortgage Backed Securities_Banks,978
+39,2018-04-01,4,2018,Mortgage Backed Securities_Institutional Clients,5230
+3,2018-04-01,4,2018,Mortgage Backed Securities_Investment Dealers,1334
+75,2018-04-01,4,2018,Mortgage Backed Securities_Issuer,1317
+63,2018-04-01,4,2018,Mortgage Backed Securities_Non-Residents,232
+51,2018-04-01,4,2018,Mortgage Backed Securities_Retail Clients,39
 100,2018-05-01,5,2018,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,48
 112,2018-05-01,5,2018,Asset-Backed Securities_Banks,1
 124,2018-05-01,5,2018,Asset-Backed Securities_Institutional Clients,1337
@@ -62,13 +62,13 @@
 160,2018-05-01,5,2018,Asset-Backed Securities_Issuer,0.0
 148,2018-05-01,5,2018,Asset-Backed Securities_Non-Residents,17
 136,2018-05-01,5,2018,Asset-Backed Securities_Retail Clients,1
-16,2018-05-01,5,2018,The Month_Anonymous Systems: IDBBs and ATSs,29
-28,2018-05-01,5,2018,The Month_Banks,704
-40,2018-05-01,5,2018,The Month_Institutional Clients,3038
-4,2018-05-01,5,2018,The Month_Investment Dealers,620
-76,2018-05-01,5,2018,The Month_Issuer,693
-64,2018-05-01,5,2018,The Month_Non-Residents,1
-52,2018-05-01,5,2018,The Month_Retail Clients,78
+16,2018-05-01,5,2018,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,29
+28,2018-05-01,5,2018,Mortgage Backed Securities_Banks,704
+40,2018-05-01,5,2018,Mortgage Backed Securities_Institutional Clients,3038
+4,2018-05-01,5,2018,Mortgage Backed Securities_Investment Dealers,620
+76,2018-05-01,5,2018,Mortgage Backed Securities_Issuer,693
+64,2018-05-01,5,2018,Mortgage Backed Securities_Non-Residents,1
+52,2018-05-01,5,2018,Mortgage Backed Securities_Retail Clients,78
 101,2018-06-01,6,2018,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,119
 113,2018-06-01,6,2018,Asset-Backed Securities_Banks,102
 125,2018-06-01,6,2018,Asset-Backed Securities_Institutional Clients,1380
@@ -76,13 +76,13 @@
 161,2018-06-01,6,2018,Asset-Backed Securities_Issuer,0.0
 149,2018-06-01,6,2018,Asset-Backed Securities_Non-Residents,140
 137,2018-06-01,6,2018,Asset-Backed Securities_Retail Clients,1
-17,2018-06-01,6,2018,The Month_Anonymous Systems: IDBBs and ATSs,0
-29,2018-06-01,6,2018,The Month_Banks,1553
-41,2018-06-01,6,2018,The Month_Institutional Clients,3476
-5,2018-06-01,6,2018,The Month_Investment Dealers,782
-77,2018-06-01,6,2018,The Month_Issuer,642
-65,2018-06-01,6,2018,The Month_Non-Residents,10
-53,2018-06-01,6,2018,The Month_Retail Clients,24
+17,2018-06-01,6,2018,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,0
+29,2018-06-01,6,2018,Mortgage Backed Securities_Banks,1553
+41,2018-06-01,6,2018,Mortgage Backed Securities_Institutional Clients,3476
+5,2018-06-01,6,2018,Mortgage Backed Securities_Investment Dealers,782
+77,2018-06-01,6,2018,Mortgage Backed Securities_Issuer,642
+65,2018-06-01,6,2018,Mortgage Backed Securities_Non-Residents,10
+53,2018-06-01,6,2018,Mortgage Backed Securities_Retail Clients,24
 102,2018-07-01,7,2018,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,230
 114,2018-07-01,7,2018,Asset-Backed Securities_Banks,9
 126,2018-07-01,7,2018,Asset-Backed Securities_Institutional Clients,762
@@ -90,13 +90,13 @@
 162,2018-07-01,7,2018,Asset-Backed Securities_Issuer,0.0
 150,2018-07-01,7,2018,Asset-Backed Securities_Non-Residents,20
 138,2018-07-01,7,2018,Asset-Backed Securities_Retail Clients,2
-18,2018-07-01,7,2018,The Month_Anonymous Systems: IDBBs and ATSs,272
-30,2018-07-01,7,2018,The Month_Banks,1884
-42,2018-07-01,7,2018,The Month_Institutional Clients,4039
-6,2018-07-01,7,2018,The Month_Investment Dealers,622
-78,2018-07-01,7,2018,The Month_Issuer,404
-66,2018-07-01,7,2018,The Month_Non-Residents,91
-54,2018-07-01,7,2018,The Month_Retail Clients,61
+18,2018-07-01,7,2018,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,272
+30,2018-07-01,7,2018,Mortgage Backed Securities_Banks,1884
+42,2018-07-01,7,2018,Mortgage Backed Securities_Institutional Clients,4039
+6,2018-07-01,7,2018,Mortgage Backed Securities_Investment Dealers,622
+78,2018-07-01,7,2018,Mortgage Backed Securities_Issuer,404
+66,2018-07-01,7,2018,Mortgage Backed Securities_Non-Residents,91
+54,2018-07-01,7,2018,Mortgage Backed Securities_Retail Clients,61
 103,2018-08-01,8,2018,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,80
 115,2018-08-01,8,2018,Asset-Backed Securities_Banks,17
 127,2018-08-01,8,2018,Asset-Backed Securities_Institutional Clients,793
@@ -104,13 +104,13 @@
 163,2018-08-01,8,2018,Asset-Backed Securities_Issuer,0.0
 151,2018-08-01,8,2018,Asset-Backed Securities_Non-Residents,6
 139,2018-08-01,8,2018,Asset-Backed Securities_Retail Clients,1
-19,2018-08-01,8,2018,The Month_Anonymous Systems: IDBBs and ATSs,0
-31,2018-08-01,8,2018,The Month_Banks,2135
-43,2018-08-01,8,2018,The Month_Institutional Clients,4104
-7,2018-08-01,8,2018,The Month_Investment Dealers,1504
-79,2018-08-01,8,2018,The Month_Issuer,1126
-67,2018-08-01,8,2018,The Month_Non-Residents,176
-55,2018-08-01,8,2018,The Month_Retail Clients,103
+19,2018-08-01,8,2018,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,0
+31,2018-08-01,8,2018,Mortgage Backed Securities_Banks,2135
+43,2018-08-01,8,2018,Mortgage Backed Securities_Institutional Clients,4104
+7,2018-08-01,8,2018,Mortgage Backed Securities_Investment Dealers,1504
+79,2018-08-01,8,2018,Mortgage Backed Securities_Issuer,1126
+67,2018-08-01,8,2018,Mortgage Backed Securities_Non-Residents,176
+55,2018-08-01,8,2018,Mortgage Backed Securities_Retail Clients,103
 104,2018-09-01,9,2018,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,98
 116,2018-09-01,9,2018,Asset-Backed Securities_Banks,46
 128,2018-09-01,9,2018,Asset-Backed Securities_Institutional Clients,1421
@@ -118,13 +118,13 @@
 164,2018-09-01,9,2018,Asset-Backed Securities_Issuer,0.0
 152,2018-09-01,9,2018,Asset-Backed Securities_Non-Residents,56
 140,2018-09-01,9,2018,Asset-Backed Securities_Retail Clients,7
-20,2018-09-01,9,2018,The Month_Anonymous Systems: IDBBs and ATSs,14
-32,2018-09-01,9,2018,The Month_Banks,1007
-44,2018-09-01,9,2018,The Month_Institutional Clients,4272
-8,2018-09-01,9,2018,The Month_Investment Dealers,1091
-80,2018-09-01,9,2018,The Month_Issuer,709
-68,2018-09-01,9,2018,The Month_Non-Residents,235
-56,2018-09-01,9,2018,The Month_Retail Clients,74
+20,2018-09-01,9,2018,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,14
+32,2018-09-01,9,2018,Mortgage Backed Securities_Banks,1007
+44,2018-09-01,9,2018,Mortgage Backed Securities_Institutional Clients,4272
+8,2018-09-01,9,2018,Mortgage Backed Securities_Investment Dealers,1091
+80,2018-09-01,9,2018,Mortgage Backed Securities_Issuer,709
+68,2018-09-01,9,2018,Mortgage Backed Securities_Non-Residents,235
+56,2018-09-01,9,2018,Mortgage Backed Securities_Retail Clients,74
 105,2018-10-01,10,2018,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,167
 117,2018-10-01,10,2018,Asset-Backed Securities_Banks,88
 129,2018-10-01,10,2018,Asset-Backed Securities_Institutional Clients,1117
@@ -132,13 +132,13 @@
 165,2018-10-01,10,2018,Asset-Backed Securities_Issuer,0.0
 153,2018-10-01,10,2018,Asset-Backed Securities_Non-Residents,158
 141,2018-10-01,10,2018,Asset-Backed Securities_Retail Clients,2
-21,2018-10-01,10,2018,The Month_Anonymous Systems: IDBBs and ATSs,134
-33,2018-10-01,10,2018,The Month_Banks,1458
-45,2018-10-01,10,2018,The Month_Institutional Clients,2481
-9,2018-10-01,10,2018,The Month_Investment Dealers,556
-81,2018-10-01,10,2018,The Month_Issuer,358
-69,2018-10-01,10,2018,The Month_Non-Residents,57
-57,2018-10-01,10,2018,The Month_Retail Clients,15
+21,2018-10-01,10,2018,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,134
+33,2018-10-01,10,2018,Mortgage Backed Securities_Banks,1458
+45,2018-10-01,10,2018,Mortgage Backed Securities_Institutional Clients,2481
+9,2018-10-01,10,2018,Mortgage Backed Securities_Investment Dealers,556
+81,2018-10-01,10,2018,Mortgage Backed Securities_Issuer,358
+69,2018-10-01,10,2018,Mortgage Backed Securities_Non-Residents,57
+57,2018-10-01,10,2018,Mortgage Backed Securities_Retail Clients,15
 106,2018-11-01,11,2018,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,196
 118,2018-11-01,11,2018,Asset-Backed Securities_Banks,3
 130,2018-11-01,11,2018,Asset-Backed Securities_Institutional Clients,971
@@ -146,13 +146,13 @@
 166,2018-11-01,11,2018,Asset-Backed Securities_Issuer,0.0
 154,2018-11-01,11,2018,Asset-Backed Securities_Non-Residents,73
 142,2018-11-01,11,2018,Asset-Backed Securities_Retail Clients,2
-22,2018-11-01,11,2018,The Month_Anonymous Systems: IDBBs and ATSs,23
-34,2018-11-01,11,2018,The Month_Banks,1815
-46,2018-11-01,11,2018,The Month_Institutional Clients,4349
-10,2018-11-01,11,2018,The Month_Investment Dealers,694
-82,2018-11-01,11,2018,The Month_Issuer,0
-70,2018-11-01,11,2018,The Month_Non-Residents,279
-58,2018-11-01,11,2018,The Month_Retail Clients,26
+22,2018-11-01,11,2018,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,23
+34,2018-11-01,11,2018,Mortgage Backed Securities_Banks,1815
+46,2018-11-01,11,2018,Mortgage Backed Securities_Institutional Clients,4349
+10,2018-11-01,11,2018,Mortgage Backed Securities_Investment Dealers,694
+82,2018-11-01,11,2018,Mortgage Backed Securities_Issuer,0
+70,2018-11-01,11,2018,Mortgage Backed Securities_Non-Residents,279
+58,2018-11-01,11,2018,Mortgage Backed Securities_Retail Clients,26
 107,2018-12-01,12,2018,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,0
 119,2018-12-01,12,2018,Asset-Backed Securities_Banks,2
 131,2018-12-01,12,2018,Asset-Backed Securities_Institutional Clients,617
@@ -160,13 +160,13 @@
 167,2018-12-01,12,2018,Asset-Backed Securities_Issuer,0.0
 155,2018-12-01,12,2018,Asset-Backed Securities_Non-Residents,12
 143,2018-12-01,12,2018,Asset-Backed Securities_Retail Clients,2
-23,2018-12-01,12,2018,The Month_Anonymous Systems: IDBBs and ATSs,31
-35,2018-12-01,12,2018,The Month_Banks,2035
-47,2018-12-01,12,2018,The Month_Institutional Clients,3429
-11,2018-12-01,12,2018,The Month_Investment Dealers,304
-83,2018-12-01,12,2018,The Month_Issuer,0
-71,2018-12-01,12,2018,The Month_Non-Residents,103
-59,2018-12-01,12,2018,The Month_Retail Clients,19
+23,2018-12-01,12,2018,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,31
+35,2018-12-01,12,2018,Mortgage Backed Securities_Banks,2035
+47,2018-12-01,12,2018,Mortgage Backed Securities_Institutional Clients,3429
+11,2018-12-01,12,2018,Mortgage Backed Securities_Investment Dealers,304
+83,2018-12-01,12,2018,Mortgage Backed Securities_Issuer,0
+71,2018-12-01,12,2018,Mortgage Backed Securities_Non-Residents,103
+59,2018-12-01,12,2018,Mortgage Backed Securities_Retail Clients,19
 96,2019-01-01,1,2019,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,212
 108,2019-01-01,1,2019,Asset-Backed Securities_Banks,7
 120,2019-01-01,1,2019,Asset-Backed Securities_Institutional Clients,582
@@ -174,13 +174,13 @@
 156,2019-01-01,1,2019,Asset-Backed Securities_Issuer,0.0
 144,2019-01-01,1,2019,Asset-Backed Securities_Non-Residents,169
 132,2019-01-01,1,2019,Asset-Backed Securities_Retail Clients,43
-12,2019-01-01,1,2019,The Month_Anonymous Systems: IDBBs and ATSs,24
-24,2019-01-01,1,2019,The Month_Banks,2861
-36,2019-01-01,1,2019,The Month_Institutional Clients,4996
-0,2019-01-01,1,2019,The Month_Investment Dealers,1182
-72,2019-01-01,1,2019,The Month_Issuer,0
-60,2019-01-01,1,2019,The Month_Non-Residents,917
-48,2019-01-01,1,2019,The Month_Retail Clients,103
+12,2019-01-01,1,2019,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,24
+24,2019-01-01,1,2019,Mortgage Backed Securities_Banks,2861
+36,2019-01-01,1,2019,Mortgage Backed Securities_Institutional Clients,4996
+0,2019-01-01,1,2019,Mortgage Backed Securities_Investment Dealers,1182
+72,2019-01-01,1,2019,Mortgage Backed Securities_Issuer,0
+60,2019-01-01,1,2019,Mortgage Backed Securities_Non-Residents,917
+48,2019-01-01,1,2019,Mortgage Backed Securities_Retail Clients,103
 97,2019-02-01,2,2019,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,42
 109,2019-02-01,2,2019,Asset-Backed Securities_Banks,11
 121,2019-02-01,2,2019,Asset-Backed Securities_Institutional Clients,1254
@@ -188,13 +188,13 @@
 157,2019-02-01,2,2019,Asset-Backed Securities_Issuer,0.0
 145,2019-02-01,2,2019,Asset-Backed Securities_Non-Residents,103
 133,2019-02-01,2,2019,Asset-Backed Securities_Retail Clients,2
-13,2019-02-01,2,2019,The Month_Anonymous Systems: IDBBs and ATSs,0
-25,2019-02-01,2,2019,The Month_Banks,1063
-37,2019-02-01,2,2019,The Month_Institutional Clients,3258
-1,2019-02-01,2,2019,The Month_Investment Dealers,1030
-73,2019-02-01,2,2019,The Month_Issuer,880
-61,2019-02-01,2,2019,The Month_Non-Residents,74
-49,2019-02-01,2,2019,The Month_Retail Clients,18
+13,2019-02-01,2,2019,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,0
+25,2019-02-01,2,2019,Mortgage Backed Securities_Banks,1063
+37,2019-02-01,2,2019,Mortgage Backed Securities_Institutional Clients,3258
+1,2019-02-01,2,2019,Mortgage Backed Securities_Investment Dealers,1030
+73,2019-02-01,2,2019,Mortgage Backed Securities_Issuer,880
+61,2019-02-01,2,2019,Mortgage Backed Securities_Non-Residents,74
+49,2019-02-01,2,2019,Mortgage Backed Securities_Retail Clients,18
 98,2019-03-01,3,2019,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,114
 110,2019-03-01,3,2019,Asset-Backed Securities_Banks,495
 122,2019-03-01,3,2019,Asset-Backed Securities_Institutional Clients,1803
@@ -202,13 +202,13 @@
 158,2019-03-01,3,2019,Asset-Backed Securities_Issuer,0.0
 146,2019-03-01,3,2019,Asset-Backed Securities_Non-Residents,76
 134,2019-03-01,3,2019,Asset-Backed Securities_Retail Clients,3
-14,2019-03-01,3,2019,The Month_Anonymous Systems: IDBBs and ATSs,0
-26,2019-03-01,3,2019,The Month_Banks,1280
-38,2019-03-01,3,2019,The Month_Institutional Clients,2563
-2,2019-03-01,3,2019,The Month_Investment Dealers,170
-74,2019-03-01,3,2019,The Month_Issuer,0
-62,2019-03-01,3,2019,The Month_Non-Residents,40
-50,2019-03-01,3,2019,The Month_Retail Clients,92
+14,2019-03-01,3,2019,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,0
+26,2019-03-01,3,2019,Mortgage Backed Securities_Banks,1280
+38,2019-03-01,3,2019,Mortgage Backed Securities_Institutional Clients,2563
+2,2019-03-01,3,2019,Mortgage Backed Securities_Investment Dealers,170
+74,2019-03-01,3,2019,Mortgage Backed Securities_Issuer,0
+62,2019-03-01,3,2019,Mortgage Backed Securities_Non-Residents,40
+50,2019-03-01,3,2019,Mortgage Backed Securities_Retail Clients,92
 99,2019-04-01,4,2019,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,79
 111,2019-04-01,4,2019,Asset-Backed Securities_Banks,14
 123,2019-04-01,4,2019,Asset-Backed Securities_Institutional Clients,730
@@ -216,13 +216,13 @@
 159,2019-04-01,4,2019,Asset-Backed Securities_Issuer,0.0
 147,2019-04-01,4,2019,Asset-Backed Securities_Non-Residents,83
 135,2019-04-01,4,2019,Asset-Backed Securities_Retail Clients,1
-15,2019-04-01,4,2019,The Month_Anonymous Systems: IDBBs and ATSs,2
-27,2019-04-01,4,2019,The Month_Banks,2677
-39,2019-04-01,4,2019,The Month_Institutional Clients,4429
-3,2019-04-01,4,2019,The Month_Investment Dealers,878
-75,2019-04-01,4,2019,The Month_Issuer,0
-63,2019-04-01,4,2019,The Month_Non-Residents,26
-51,2019-04-01,4,2019,The Month_Retail Clients,11
+15,2019-04-01,4,2019,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,2
+27,2019-04-01,4,2019,Mortgage Backed Securities_Banks,2677
+39,2019-04-01,4,2019,Mortgage Backed Securities_Institutional Clients,4429
+3,2019-04-01,4,2019,Mortgage Backed Securities_Investment Dealers,878
+75,2019-04-01,4,2019,Mortgage Backed Securities_Issuer,0
+63,2019-04-01,4,2019,Mortgage Backed Securities_Non-Residents,26
+51,2019-04-01,4,2019,Mortgage Backed Securities_Retail Clients,11
 100,2019-05-01,5,2019,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,153
 112,2019-05-01,5,2019,Asset-Backed Securities_Banks,10
 124,2019-05-01,5,2019,Asset-Backed Securities_Institutional Clients,796
@@ -230,13 +230,13 @@
 160,2019-05-01,5,2019,Asset-Backed Securities_Issuer,0.0
 148,2019-05-01,5,2019,Asset-Backed Securities_Non-Residents,105
 136,2019-05-01,5,2019,Asset-Backed Securities_Retail Clients,3
-16,2019-05-01,5,2019,The Month_Anonymous Systems: IDBBs and ATSs,0
-28,2019-05-01,5,2019,The Month_Banks,1719
-40,2019-05-01,5,2019,The Month_Institutional Clients,2655
-4,2019-05-01,5,2019,The Month_Investment Dealers,546
-76,2019-05-01,5,2019,The Month_Issuer,0
-64,2019-05-01,5,2019,The Month_Non-Residents,14
-52,2019-05-01,5,2019,The Month_Retail Clients,22
+16,2019-05-01,5,2019,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,0
+28,2019-05-01,5,2019,Mortgage Backed Securities_Banks,1719
+40,2019-05-01,5,2019,Mortgage Backed Securities_Institutional Clients,2655
+4,2019-05-01,5,2019,Mortgage Backed Securities_Investment Dealers,546
+76,2019-05-01,5,2019,Mortgage Backed Securities_Issuer,0
+64,2019-05-01,5,2019,Mortgage Backed Securities_Non-Residents,14
+52,2019-05-01,5,2019,Mortgage Backed Securities_Retail Clients,22
 101,2019-06-01,6,2019,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,70
 113,2019-06-01,6,2019,Asset-Backed Securities_Banks,521
 125,2019-06-01,6,2019,Asset-Backed Securities_Institutional Clients,1475
@@ -244,13 +244,13 @@
 161,2019-06-01,6,2019,Asset-Backed Securities_Issuer,0.0
 149,2019-06-01,6,2019,Asset-Backed Securities_Non-Residents,48
 137,2019-06-01,6,2019,Asset-Backed Securities_Retail Clients,3
-17,2019-06-01,6,2019,The Month_Anonymous Systems: IDBBs and ATSs,20
-29,2019-06-01,6,2019,The Month_Banks,1513
-41,2019-06-01,6,2019,The Month_Institutional Clients,3366
-5,2019-06-01,6,2019,The Month_Investment Dealers,397
-77,2019-06-01,6,2019,The Month_Issuer,0
-65,2019-06-01,6,2019,The Month_Non-Residents,8
-53,2019-06-01,6,2019,The Month_Retail Clients,29
+17,2019-06-01,6,2019,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,20
+29,2019-06-01,6,2019,Mortgage Backed Securities_Banks,1513
+41,2019-06-01,6,2019,Mortgage Backed Securities_Institutional Clients,3366
+5,2019-06-01,6,2019,Mortgage Backed Securities_Investment Dealers,397
+77,2019-06-01,6,2019,Mortgage Backed Securities_Issuer,0
+65,2019-06-01,6,2019,Mortgage Backed Securities_Non-Residents,8
+53,2019-06-01,6,2019,Mortgage Backed Securities_Retail Clients,29
 102,2019-07-01,7,2019,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,213
 114,2019-07-01,7,2019,Asset-Backed Securities_Banks,18
 126,2019-07-01,7,2019,Asset-Backed Securities_Institutional Clients,839
@@ -258,13 +258,13 @@
 162,2019-07-01,7,2019,Asset-Backed Securities_Issuer,0.0
 150,2019-07-01,7,2019,Asset-Backed Securities_Non-Residents,32
 138,2019-07-01,7,2019,Asset-Backed Securities_Retail Clients,4
-18,2019-07-01,7,2019,The Month_Anonymous Systems: IDBBs and ATSs,129
-30,2019-07-01,7,2019,The Month_Banks,3030
-42,2019-07-01,7,2019,The Month_Institutional Clients,5089
-6,2019-07-01,7,2019,The Month_Investment Dealers,1361
-78,2019-07-01,7,2019,The Month_Issuer,0
-66,2019-07-01,7,2019,The Month_Non-Residents,12
-54,2019-07-01,7,2019,The Month_Retail Clients,25
+18,2019-07-01,7,2019,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,129
+30,2019-07-01,7,2019,Mortgage Backed Securities_Banks,3030
+42,2019-07-01,7,2019,Mortgage Backed Securities_Institutional Clients,5089
+6,2019-07-01,7,2019,Mortgage Backed Securities_Investment Dealers,1361
+78,2019-07-01,7,2019,Mortgage Backed Securities_Issuer,0
+66,2019-07-01,7,2019,Mortgage Backed Securities_Non-Residents,12
+54,2019-07-01,7,2019,Mortgage Backed Securities_Retail Clients,25
 103,2019-08-01,8,2019,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,65
 115,2019-08-01,8,2019,Asset-Backed Securities_Banks,3
 127,2019-08-01,8,2019,Asset-Backed Securities_Institutional Clients,361
@@ -272,13 +272,13 @@
 163,2019-08-01,8,2019,Asset-Backed Securities_Issuer,0.0
 151,2019-08-01,8,2019,Asset-Backed Securities_Non-Residents,73
 139,2019-08-01,8,2019,Asset-Backed Securities_Retail Clients,1
-19,2019-08-01,8,2019,The Month_Anonymous Systems: IDBBs and ATSs,91
-31,2019-08-01,8,2019,The Month_Banks,3829
-43,2019-08-01,8,2019,The Month_Institutional Clients,4590
-7,2019-08-01,8,2019,The Month_Investment Dealers,1033
-79,2019-08-01,8,2019,The Month_Issuer,0
-67,2019-08-01,8,2019,The Month_Non-Residents,5
-55,2019-08-01,8,2019,The Month_Retail Clients,41
+19,2019-08-01,8,2019,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,91
+31,2019-08-01,8,2019,Mortgage Backed Securities_Banks,3829
+43,2019-08-01,8,2019,Mortgage Backed Securities_Institutional Clients,4590
+7,2019-08-01,8,2019,Mortgage Backed Securities_Investment Dealers,1033
+79,2019-08-01,8,2019,Mortgage Backed Securities_Issuer,0
+67,2019-08-01,8,2019,Mortgage Backed Securities_Non-Residents,5
+55,2019-08-01,8,2019,Mortgage Backed Securities_Retail Clients,41
 104,2019-09-01,9,2019,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,23
 116,2019-09-01,9,2019,Asset-Backed Securities_Banks,47
 128,2019-09-01,9,2019,Asset-Backed Securities_Institutional Clients,751
@@ -286,13 +286,13 @@
 164,2019-09-01,9,2019,Asset-Backed Securities_Issuer,0.0
 152,2019-09-01,9,2019,Asset-Backed Securities_Non-Residents,149
 140,2019-09-01,9,2019,Asset-Backed Securities_Retail Clients,3
-20,2019-09-01,9,2019,The Month_Anonymous Systems: IDBBs and ATSs,32
-32,2019-09-01,9,2019,The Month_Banks,1575
-44,2019-09-01,9,2019,The Month_Institutional Clients,2401
-8,2019-09-01,9,2019,The Month_Investment Dealers,446
-80,2019-09-01,9,2019,The Month_Issuer,0
-68,2019-09-01,9,2019,The Month_Non-Residents,0
-56,2019-09-01,9,2019,The Month_Retail Clients,57
+20,2019-09-01,9,2019,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,32
+32,2019-09-01,9,2019,Mortgage Backed Securities_Banks,1575
+44,2019-09-01,9,2019,Mortgage Backed Securities_Institutional Clients,2401
+8,2019-09-01,9,2019,Mortgage Backed Securities_Investment Dealers,446
+80,2019-09-01,9,2019,Mortgage Backed Securities_Issuer,0
+68,2019-09-01,9,2019,Mortgage Backed Securities_Non-Residents,0
+56,2019-09-01,9,2019,Mortgage Backed Securities_Retail Clients,57
 105,2019-10-01,10,2019,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,181
 117,2019-10-01,10,2019,Asset-Backed Securities_Banks,37
 129,2019-10-01,10,2019,Asset-Backed Securities_Institutional Clients,1001
@@ -300,13 +300,13 @@
 165,2019-10-01,10,2019,Asset-Backed Securities_Issuer,0.0
 153,2019-10-01,10,2019,Asset-Backed Securities_Non-Residents,136
 141,2019-10-01,10,2019,Asset-Backed Securities_Retail Clients,6
-21,2019-10-01,10,2019,The Month_Anonymous Systems: IDBBs and ATSs,38
-33,2019-10-01,10,2019,The Month_Banks,3404
-45,2019-10-01,10,2019,The Month_Institutional Clients,3814
-9,2019-10-01,10,2019,The Month_Investment Dealers,904
-81,2019-10-01,10,2019,The Month_Issuer,0
-69,2019-10-01,10,2019,The Month_Non-Residents,0
-57,2019-10-01,10,2019,The Month_Retail Clients,49
+21,2019-10-01,10,2019,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,38
+33,2019-10-01,10,2019,Mortgage Backed Securities_Banks,3404
+45,2019-10-01,10,2019,Mortgage Backed Securities_Institutional Clients,3814
+9,2019-10-01,10,2019,Mortgage Backed Securities_Investment Dealers,904
+81,2019-10-01,10,2019,Mortgage Backed Securities_Issuer,0
+69,2019-10-01,10,2019,Mortgage Backed Securities_Non-Residents,0
+57,2019-10-01,10,2019,Mortgage Backed Securities_Retail Clients,49
 106,2019-11-01,11,2019,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,87
 118,2019-11-01,11,2019,Asset-Backed Securities_Banks,43
 130,2019-11-01,11,2019,Asset-Backed Securities_Institutional Clients,945
@@ -314,13 +314,13 @@
 166,2019-11-01,11,2019,Asset-Backed Securities_Issuer,0.0
 154,2019-11-01,11,2019,Asset-Backed Securities_Non-Residents,44
 142,2019-11-01,11,2019,Asset-Backed Securities_Retail Clients,8
-22,2019-11-01,11,2019,The Month_Anonymous Systems: IDBBs and ATSs,191
-34,2019-11-01,11,2019,The Month_Banks,1939
-46,2019-11-01,11,2019,The Month_Institutional Clients,1718
-10,2019-11-01,11,2019,The Month_Investment Dealers,958
-82,2019-11-01,11,2019,The Month_Issuer,0
-70,2019-11-01,11,2019,The Month_Non-Residents,4
-58,2019-11-01,11,2019,The Month_Retail Clients,5
+22,2019-11-01,11,2019,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,191
+34,2019-11-01,11,2019,Mortgage Backed Securities_Banks,1939
+46,2019-11-01,11,2019,Mortgage Backed Securities_Institutional Clients,1718
+10,2019-11-01,11,2019,Mortgage Backed Securities_Investment Dealers,958
+82,2019-11-01,11,2019,Mortgage Backed Securities_Issuer,0
+70,2019-11-01,11,2019,Mortgage Backed Securities_Non-Residents,4
+58,2019-11-01,11,2019,Mortgage Backed Securities_Retail Clients,5
 107,2019-12-01,12,2019,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,46
 119,2019-12-01,12,2019,Asset-Backed Securities_Banks,55
 131,2019-12-01,12,2019,Asset-Backed Securities_Institutional Clients,828
@@ -328,13 +328,13 @@
 167,2019-12-01,12,2019,Asset-Backed Securities_Issuer,0.0
 155,2019-12-01,12,2019,Asset-Backed Securities_Non-Residents,11
 143,2019-12-01,12,2019,Asset-Backed Securities_Retail Clients,2
-23,2019-12-01,12,2019,The Month_Anonymous Systems: IDBBs and ATSs,50
-35,2019-12-01,12,2019,The Month_Banks,1089
-47,2019-12-01,12,2019,The Month_Institutional Clients,3707
-11,2019-12-01,12,2019,The Month_Investment Dealers,752
-83,2019-12-01,12,2019,The Month_Issuer,0
-71,2019-12-01,12,2019,The Month_Non-Residents,30
-59,2019-12-01,12,2019,The Month_Retail Clients,63
+23,2019-12-01,12,2019,Mortgage Backed Securities_Anonymous Systems: IDBBs and ATSs,50
+35,2019-12-01,12,2019,Mortgage Backed Securities_Banks,1089
+47,2019-12-01,12,2019,Mortgage Backed Securities_Institutional Clients,3707
+11,2019-12-01,12,2019,Mortgage Backed Securities_Investment Dealers,752
+83,2019-12-01,12,2019,Mortgage Backed Securities_Issuer,0
+71,2019-12-01,12,2019,Mortgage Backed Securities_Non-Residents,30
+59,2019-12-01,12,2019,Mortgage Backed Securities_Retail Clients,63
 96,2020-01-01,1,2020,Asset-Backed Securities_Anonymous Systems: IDBBs and ATSs,99.796
 108,2020-01-01,1,2020,Asset-Backed Securities_Banks,44.5885
 120,2020-01-01,1,2020,Asset-Backed Securities_Institutional Clients,903.555

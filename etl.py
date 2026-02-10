@@ -61,10 +61,12 @@ def clean_govt_sheet(path):
     """Clean government bond trading data sheet"""
     if find_year(path) < 2020:
         df = pd.read_excel(path, sheet_name='GOVT', skiprows=5, header=None)
+        df.iloc[0, 0] = 'The Month'
+        # df.drop(1, axis=1, inplace=True)
     else:
         df = pd.read_excel(path, sheet_name='GOVT', skiprows=7, skipfooter=5, header=None)
-    df.iloc[0, 0] = 'The Month'
-    df.drop(1, axis=1, inplace=True)
+        df.iloc[0, 0] = 'The Month'
+        df.drop(1, axis=1, inplace=True)
     parent_header = df.iloc[0].ffill().str.split(' / ').map(lambda x: x[0])
     child_header = df.iloc[1].fillna('').str.split(' / ').map(lambda x: x[0])
     df = df.iloc[2:]
@@ -88,10 +90,12 @@ def clean_bond_sheet(path):
     """Clean bond trading data sheet"""
     if find_year(path) < 2020:
         df = pd.read_excel(path, sheet_name='BOND', skiprows=5, header=None)
+        df.iloc[0, 0] = 'The Month'
+        df.drop([1], axis=1, inplace=True)
     else:
         df = pd.read_excel(path, sheet_name='BOND', skiprows=5, skipfooter=5, header=None)
-    df.iloc[0, 0] = 'The Month'
-    df.drop([1, 2], axis=1, inplace=True)
+        df.iloc[0, 0] = 'The Month'
+        df.drop([1, 2], axis=1, inplace=True)
     parent_header = df.iloc[0].ffill().str.split(' / ').map(lambda x: x[0])
     child_header = df.iloc[1].fillna('').str.split(' / ').map(lambda x: x[0])
     df = df.iloc[2:]
@@ -115,12 +119,11 @@ def clean_fed_prov_sheet(path):
     """Clean federal/provincial bond trading data sheet"""
     if find_year(path) < 2020:
         df = pd.read_excel(path, sheet_name='FED_PROV', skiprows=5, header=None)
-
+        df.iloc[0, 0] = 'The Month'
     else:
         df = pd.read_excel(path, sheet_name='FED_PROV', skiprows=8, skipfooter=5, header=None)
-
-    df.iloc[0, 0] = 'The Month'
-    df.drop([1], axis=1, inplace=True)
+        df.iloc[0, 0] = 'The Month'
+        df.drop([1], axis=1, inplace=True)
     parent_header = df.iloc[0].ffill().str.split(' / ').map(lambda x: x[0])
     child_header = df.iloc[1].fillna('').str.split(' / ').map(lambda x: x[0])
     df = df.iloc[2:]
@@ -144,11 +147,12 @@ def clean_strip_muni_sheet(path):
     """Clean STRIP and municipal bond trading data sheet"""
     if find_year(path) < 2020:
         df = pd.read_excel(path, sheet_name='STRIP_MUNI', skiprows=5, header=None)
+        df.iloc[0, 0] = 'The Month'
     else:
         df = pd.read_excel(path, sheet_name='STRIP_MUNI', skiprows=8, skipfooter=5, header=None)
+        df.iloc[0, 0] = 'The Month'
+        df.drop([1], axis=1, inplace=True)
 
-    df.iloc[0, 0] = 'The Month'
-    df.drop([1], axis=1, inplace=True)
     parent_header = df.iloc[0].ffill().str.split(' / ').map(lambda x: x[0])
     child_header = df.iloc[1].fillna('').str.split(' / ').map(lambda x: x[0])
     df = df.iloc[2:]
@@ -172,10 +176,11 @@ def clean_corp_sheet(path):
     """Clean corporate bond trading data sheet"""
     if find_year(path) < 2020:
         df = pd.read_excel(path, sheet_name='CORP', skiprows=5, header=None)
+        df.iloc[0, 0] = 'The Month'
     else:
         df = pd.read_excel(path, sheet_name='CORP', skiprows=8, skipfooter=5, header=None)
-    df.iloc[0, 0] = 'The Month'
-    df.drop([1], axis=1, inplace=True)
+        df.iloc[0, 0] = 'The Month'
+        df.drop([1], axis=1, inplace=True)
     parent_header = df.iloc[0].ffill().str.split(' / ').map(lambda x: x[0])
     child_header = df.iloc[1].fillna('').str.split(' / ').map(lambda x: x[0])
     df = df.iloc[2:]
@@ -200,10 +205,11 @@ def clean_mbs_abs_sheet(path):
     """Clean MBS/ABS trading data sheet"""
     if find_year(path) < 2020:
         df = pd.read_excel(path, sheet_name='MBS_ABS', skiprows=5, header=None)
+        df.iloc[0, 0] = 'The Month'
     else:
         df = pd.read_excel(path, sheet_name='MBS_ABS', skiprows=8, skipfooter=5, header=None)
-    df.iloc[0, 0] = 'The Month'
-    df.drop([1], axis=1, inplace=True)
+        df.iloc[0, 0] = 'The Month'
+        df.drop([1], axis=1, inplace=True)
     parent_header = df.iloc[0].ffill().str.split(' / ').map(lambda x: x[0])
     child_header = df.iloc[1].fillna('').str.split(' / ').map(lambda x: x[0])
     df = df.iloc[2:]
@@ -228,10 +234,12 @@ def clean_bonds_repo_sheet(path):
     """Clean bond repo trading data sheet"""
     if find_year(path) < 2020:
         df = pd.read_excel(path, sheet_name='BOND_REPO', skiprows=5, header=None)
+        df.iloc[0, 0] = 'The Month'
+        df.drop([1], axis=1, inplace=True)
     else:
         df = pd.read_excel(path, sheet_name='BOND_REPO', skiprows=5, skipfooter=5, header=None)
-    df.iloc[0, 0] = 'The Month'
-    df.drop([1, 2], axis=1, inplace=True)
+        df.iloc[0, 0] = 'The Month'
+        df.drop([1, 2], axis=1, inplace=True)
     parent_header = df.iloc[0].ffill().str.split(' / ').map(lambda x: x[0])
     child_header = df.iloc[1].fillna('').str.split(' / ').map(lambda x: x[0])
     df = df.iloc[2:]

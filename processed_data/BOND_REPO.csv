@@ -1,364 +1,388 @@
 ,date,month,year,instruments,volume
-120,2018-01-01,1,2018,Asset-Backed Securities_All,0
-84,2018-01-01,1,2018,Corporate Bonds_Over 10 years,1489
-72,2018-01-01,1,2018,Corporate Bonds_Under 10 years,33221
-36,2018-01-01,1,2018,Federal Crown Corporation Bonds_All,219620
-144,2018-01-01,1,2018,Government of Canada Bonds_All,1199
-108,2018-01-01,1,2018,Mortgage Backed Securities_All,30373
-96,2018-01-01,1,2018,Municipal Bonds_All,724
-132,2018-01-01,1,2018,Other Domestic Bonds_All,390
-168,2018-01-01,1,2018,Other_All,2081
-156,2018-01-01,1,2018,Provincial Bonds_All,7325
-60,2018-01-01,1,2018,Provincial Bonds_Over 10 years,75066
-48,2018-01-01,1,2018,Provincial Bonds_Under 10 years,203561
-0,2018-01-01,1,2018,The Month_3-10 years,700671
-12,2018-01-01,1,2018,The Month_Over 10 years,182886
-24,2018-01-01,1,2018,The Month_Real Return Bonds,70124
-121,2018-02-01,2,2018,Asset-Backed Securities_All,0
-85,2018-02-01,2,2018,Corporate Bonds_Over 10 years,843
-73,2018-02-01,2,2018,Corporate Bonds_Under 10 years,25208
-37,2018-02-01,2,2018,Federal Crown Corporation Bonds_All,157614
-145,2018-02-01,2,2018,Government of Canada Bonds_All,578
-109,2018-02-01,2,2018,Mortgage Backed Securities_All,32149
-97,2018-02-01,2,2018,Municipal Bonds_All,1247
-133,2018-02-01,2,2018,Other Domestic Bonds_All,996
-169,2018-02-01,2,2018,Other_All,1303
-157,2018-02-01,2,2018,Provincial Bonds_All,4258
-61,2018-02-01,2,2018,Provincial Bonds_Over 10 years,67253
-49,2018-02-01,2,2018,Provincial Bonds_Under 10 years,151324
-1,2018-02-01,2,2018,The Month_3-10 years,652981
-13,2018-02-01,2,2018,The Month_Over 10 years,157302
-25,2018-02-01,2,2018,The Month_Real Return Bonds,57871
-122,2018-03-01,3,2018,Asset-Backed Securities_All,0
-86,2018-03-01,3,2018,Corporate Bonds_Over 10 years,1317
-74,2018-03-01,3,2018,Corporate Bonds_Under 10 years,29567
-38,2018-03-01,3,2018,Federal Crown Corporation Bonds_All,183978
-146,2018-03-01,3,2018,Government of Canada Bonds_All,440
-110,2018-03-01,3,2018,Mortgage Backed Securities_All,16168
-98,2018-03-01,3,2018,Municipal Bonds_All,1634
-134,2018-03-01,3,2018,Other Domestic Bonds_All,701
-170,2018-03-01,3,2018,Other_All,4956
-158,2018-03-01,3,2018,Provincial Bonds_All,9150
-62,2018-03-01,3,2018,Provincial Bonds_Over 10 years,73530
-50,2018-03-01,3,2018,Provincial Bonds_Under 10 years,192559
-2,2018-03-01,3,2018,The Month_3-10 years,641471
-14,2018-03-01,3,2018,The Month_Over 10 years,182064
-26,2018-03-01,3,2018,The Month_Real Return Bonds,56317
-123,2018-04-01,4,2018,Asset-Backed Securities_All,17
-87,2018-04-01,4,2018,Corporate Bonds_Over 10 years,1128
-75,2018-04-01,4,2018,Corporate Bonds_Under 10 years,33218
-39,2018-04-01,4,2018,Federal Crown Corporation Bonds_All,190949
-147,2018-04-01,4,2018,Government of Canada Bonds_All,2193
-111,2018-04-01,4,2018,Mortgage Backed Securities_All,15525
-99,2018-04-01,4,2018,Municipal Bonds_All,1340
-135,2018-04-01,4,2018,Other Domestic Bonds_All,1541
-171,2018-04-01,4,2018,Other_All,1367
-159,2018-04-01,4,2018,Provincial Bonds_All,2147
-63,2018-04-01,4,2018,Provincial Bonds_Over 10 years,82287
-51,2018-04-01,4,2018,Provincial Bonds_Under 10 years,161577
-3,2018-04-01,4,2018,The Month_3-10 years,580843
-15,2018-04-01,4,2018,The Month_Over 10 years,161000
-27,2018-04-01,4,2018,The Month_Real Return Bonds,54320
-124,2018-05-01,5,2018,Asset-Backed Securities_All,17
-88,2018-05-01,5,2018,Corporate Bonds_Over 10 years,1261
-76,2018-05-01,5,2018,Corporate Bonds_Under 10 years,30735
-40,2018-05-01,5,2018,Federal Crown Corporation Bonds_All,181194
-148,2018-05-01,5,2018,Government of Canada Bonds_All,6775
-112,2018-05-01,5,2018,Mortgage Backed Securities_All,12347
-100,2018-05-01,5,2018,Municipal Bonds_All,1866
-136,2018-05-01,5,2018,Other Domestic Bonds_All,1487
-172,2018-05-01,5,2018,Other_All,2896
-160,2018-05-01,5,2018,Provincial Bonds_All,7310
-64,2018-05-01,5,2018,Provincial Bonds_Over 10 years,92056
-52,2018-05-01,5,2018,Provincial Bonds_Under 10 years,191229
-4,2018-05-01,5,2018,The Month_3-10 years,635299
-16,2018-05-01,5,2018,The Month_Over 10 years,221547
-28,2018-05-01,5,2018,The Month_Real Return Bonds,50762
-125,2018-06-01,6,2018,Asset-Backed Securities_All,34
-89,2018-06-01,6,2018,Corporate Bonds_Over 10 years,1700
-77,2018-06-01,6,2018,Corporate Bonds_Under 10 years,30529
-41,2018-06-01,6,2018,Federal Crown Corporation Bonds_All,195726
-149,2018-06-01,6,2018,Government of Canada Bonds_All,1504
-113,2018-06-01,6,2018,Mortgage Backed Securities_All,12352
-101,2018-06-01,6,2018,Municipal Bonds_All,2901
-137,2018-06-01,6,2018,Other Domestic Bonds_All,1687
-173,2018-06-01,6,2018,Other_All,2577
-161,2018-06-01,6,2018,Provincial Bonds_All,4176
-65,2018-06-01,6,2018,Provincial Bonds_Over 10 years,72269
-53,2018-06-01,6,2018,Provincial Bonds_Under 10 years,194081
-5,2018-06-01,6,2018,The Month_3-10 years,632726
-17,2018-06-01,6,2018,The Month_Over 10 years,136674
-29,2018-06-01,6,2018,The Month_Real Return Bonds,55974
-126,2018-07-01,7,2018,Asset-Backed Securities_All,0
-90,2018-07-01,7,2018,Corporate Bonds_Over 10 years,2452
-78,2018-07-01,7,2018,Corporate Bonds_Under 10 years,42442
-42,2018-07-01,7,2018,Federal Crown Corporation Bonds_All,221342
-150,2018-07-01,7,2018,Government of Canada Bonds_All,364
-114,2018-07-01,7,2018,Mortgage Backed Securities_All,10987
-102,2018-07-01,7,2018,Municipal Bonds_All,1420
-138,2018-07-01,7,2018,Other Domestic Bonds_All,2106
-174,2018-07-01,7,2018,Other_All,2366
-162,2018-07-01,7,2018,Provincial Bonds_All,5430
-66,2018-07-01,7,2018,Provincial Bonds_Over 10 years,91989
-54,2018-07-01,7,2018,Provincial Bonds_Under 10 years,222184
-6,2018-07-01,7,2018,The Month_3-10 years,610724
-18,2018-07-01,7,2018,The Month_Over 10 years,139986
-30,2018-07-01,7,2018,The Month_Real Return Bonds,63715
-127,2018-08-01,8,2018,Asset-Backed Securities_All,17
-91,2018-08-01,8,2018,Corporate Bonds_Over 10 years,1243
-79,2018-08-01,8,2018,Corporate Bonds_Under 10 years,30457
-43,2018-08-01,8,2018,Federal Crown Corporation Bonds_All,246840
-151,2018-08-01,8,2018,Government of Canada Bonds_All,490
-115,2018-08-01,8,2018,Mortgage Backed Securities_All,16884
-103,2018-08-01,8,2018,Municipal Bonds_All,1769
-139,2018-08-01,8,2018,Other Domestic Bonds_All,2641
-175,2018-08-01,8,2018,Other_All,2599
-163,2018-08-01,8,2018,Provincial Bonds_All,7515
-67,2018-08-01,8,2018,Provincial Bonds_Over 10 years,95810
-55,2018-08-01,8,2018,Provincial Bonds_Under 10 years,213960
-7,2018-08-01,8,2018,The Month_3-10 years,780753
-19,2018-08-01,8,2018,The Month_Over 10 years,199462
-31,2018-08-01,8,2018,The Month_Real Return Bonds,62146
-128,2018-09-01,9,2018,Asset-Backed Securities_All,17
-92,2018-09-01,9,2018,Corporate Bonds_Over 10 years,2273
-80,2018-09-01,9,2018,Corporate Bonds_Under 10 years,25966
-44,2018-09-01,9,2018,Federal Crown Corporation Bonds_All,276629
-152,2018-09-01,9,2018,Government of Canada Bonds_All,25
-116,2018-09-01,9,2018,Mortgage Backed Securities_All,15857
-104,2018-09-01,9,2018,Municipal Bonds_All,1635
-140,2018-09-01,9,2018,Other Domestic Bonds_All,1236
-176,2018-09-01,9,2018,Other_All,4311
-164,2018-09-01,9,2018,Provincial Bonds_All,9353
-68,2018-09-01,9,2018,Provincial Bonds_Over 10 years,97023
-56,2018-09-01,9,2018,Provincial Bonds_Under 10 years,205266
-8,2018-09-01,9,2018,The Month_3-10 years,651170
-20,2018-09-01,9,2018,The Month_Over 10 years,170621
-32,2018-09-01,9,2018,The Month_Real Return Bonds,65244
-129,2018-10-01,10,2018,Asset-Backed Securities_All,17
-93,2018-10-01,10,2018,Corporate Bonds_Over 10 years,2274
-81,2018-10-01,10,2018,Corporate Bonds_Under 10 years,27938
-45,2018-10-01,10,2018,Federal Crown Corporation Bonds_All,273678
-153,2018-10-01,10,2018,Government of Canada Bonds_All,118
-117,2018-10-01,10,2018,Mortgage Backed Securities_All,16670
-105,2018-10-01,10,2018,Municipal Bonds_All,3147
-141,2018-10-01,10,2018,Other Domestic Bonds_All,1130
-177,2018-10-01,10,2018,Other_All,8534
-165,2018-10-01,10,2018,Provincial Bonds_All,7800
-69,2018-10-01,10,2018,Provincial Bonds_Over 10 years,107790
-57,2018-10-01,10,2018,Provincial Bonds_Under 10 years,250259
-9,2018-10-01,10,2018,The Month_3-10 years,720605
-21,2018-10-01,10,2018,The Month_Over 10 years,270957
-33,2018-10-01,10,2018,The Month_Real Return Bonds,85716
-130,2018-11-01,11,2018,Asset-Backed Securities_All,17
-94,2018-11-01,11,2018,Corporate Bonds_Over 10 years,2965
-82,2018-11-01,11,2018,Corporate Bonds_Under 10 years,36554
-46,2018-11-01,11,2018,Federal Crown Corporation Bonds_All,221567
-154,2018-11-01,11,2018,Government of Canada Bonds_All,30
-118,2018-11-01,11,2018,Mortgage Backed Securities_All,17771
-106,2018-11-01,11,2018,Municipal Bonds_All,2649
-142,2018-11-01,11,2018,Other Domestic Bonds_All,1122
-178,2018-11-01,11,2018,Other_All,3754
-166,2018-11-01,11,2018,Provincial Bonds_All,9777
-70,2018-11-01,11,2018,Provincial Bonds_Over 10 years,124459
-58,2018-11-01,11,2018,Provincial Bonds_Under 10 years,263620
-10,2018-11-01,11,2018,The Month_3-10 years,656791
-22,2018-11-01,11,2018,The Month_Over 10 years,222247
-34,2018-11-01,11,2018,The Month_Real Return Bonds,73761
-131,2018-12-01,12,2018,Asset-Backed Securities_All,66
-95,2018-12-01,12,2018,Corporate Bonds_Over 10 years,2044
-83,2018-12-01,12,2018,Corporate Bonds_Under 10 years,33444
-47,2018-12-01,12,2018,Federal Crown Corporation Bonds_All,250673
-155,2018-12-01,12,2018,Government of Canada Bonds_All,16
-119,2018-12-01,12,2018,Mortgage Backed Securities_All,13026
-107,2018-12-01,12,2018,Municipal Bonds_All,2277
-143,2018-12-01,12,2018,Other Domestic Bonds_All,1134
-179,2018-12-01,12,2018,Other_All,2482
-167,2018-12-01,12,2018,Provincial Bonds_All,9104
-71,2018-12-01,12,2018,Provincial Bonds_Over 10 years,137744
-59,2018-12-01,12,2018,Provincial Bonds_Under 10 years,252610
-11,2018-12-01,12,2018,The Month_3-10 years,583984
-23,2018-12-01,12,2018,The Month_Over 10 years,223550
-35,2018-12-01,12,2018,The Month_Real Return Bonds,78982
-120,2019-01-01,1,2019,Asset-Backed Securities_All,17
-84,2019-01-01,1,2019,Corporate Bonds_Over 10 years,806
-72,2019-01-01,1,2019,Corporate Bonds_Under 10 years,42099
-36,2019-01-01,1,2019,Federal Crown Corporation Bonds_All,301584
-144,2019-01-01,1,2019,Government of Canada Bonds_All,320
-108,2019-01-01,1,2019,Mortgage Backed Securities_All,13144
-96,2019-01-01,1,2019,Municipal Bonds_All,2285
-132,2019-01-01,1,2019,Other Domestic Bonds_All,659
-168,2019-01-01,1,2019,Other_All,2912
-156,2019-01-01,1,2019,Provincial Bonds_All,16133
-60,2019-01-01,1,2019,Provincial Bonds_Over 10 years,179574
-48,2019-01-01,1,2019,Provincial Bonds_Under 10 years,265900
-0,2019-01-01,1,2019,The Month_3-10 years,768034
-12,2019-01-01,1,2019,The Month_Over 10 years,229971
-24,2019-01-01,1,2019,The Month_Real Return Bonds,78678
-121,2019-02-01,2,2019,Asset-Backed Securities_All,17
-85,2019-02-01,2,2019,Corporate Bonds_Over 10 years,216
-73,2019-02-01,2,2019,Corporate Bonds_Under 10 years,44341
-37,2019-02-01,2,2019,Federal Crown Corporation Bonds_All,214305
-145,2019-02-01,2,2019,Government of Canada Bonds_All,92
-109,2019-02-01,2,2019,Mortgage Backed Securities_All,13785
-97,2019-02-01,2,2019,Municipal Bonds_All,1580
-133,2019-02-01,2,2019,Other Domestic Bonds_All,1208
-169,2019-02-01,2,2019,Other_All,2555
-157,2019-02-01,2,2019,Provincial Bonds_All,14423
-61,2019-02-01,2,2019,Provincial Bonds_Over 10 years,159424
-49,2019-02-01,2,2019,Provincial Bonds_Under 10 years,235285
-1,2019-02-01,2,2019,The Month_3-10 years,666256
-13,2019-02-01,2,2019,The Month_Over 10 years,212306
-25,2019-02-01,2,2019,The Month_Real Return Bonds,68600
-122,2019-03-01,3,2019,Asset-Backed Securities_All,21
-86,2019-03-01,3,2019,Corporate Bonds_Over 10 years,275
-74,2019-03-01,3,2019,Corporate Bonds_Under 10 years,51037
-38,2019-03-01,3,2019,Federal Crown Corporation Bonds_All,219548
-146,2019-03-01,3,2019,Government of Canada Bonds_All,2
-110,2019-03-01,3,2019,Mortgage Backed Securities_All,11301
-98,2019-03-01,3,2019,Municipal Bonds_All,1256
-134,2019-03-01,3,2019,Other Domestic Bonds_All,679
-170,2019-03-01,3,2019,Other_All,2585
-158,2019-03-01,3,2019,Provincial Bonds_All,11349
-62,2019-03-01,3,2019,Provincial Bonds_Over 10 years,152571
-50,2019-03-01,3,2019,Provincial Bonds_Under 10 years,247465
-2,2019-03-01,3,2019,The Month_3-10 years,719402
-14,2019-03-01,3,2019,The Month_Over 10 years,215402
-26,2019-03-01,3,2019,The Month_Real Return Bonds,100904
-123,2019-04-01,4,2019,Asset-Backed Securities_All,44
-87,2019-04-01,4,2019,Corporate Bonds_Over 10 years,455
-75,2019-04-01,4,2019,Corporate Bonds_Under 10 years,43372
-39,2019-04-01,4,2019,Federal Crown Corporation Bonds_All,260540
-147,2019-04-01,4,2019,Government of Canada Bonds_All,176
-111,2019-04-01,4,2019,Mortgage Backed Securities_All,23047
-99,2019-04-01,4,2019,Municipal Bonds_All,700
-135,2019-04-01,4,2019,Other Domestic Bonds_All,136
-171,2019-04-01,4,2019,Other_All,2507
-159,2019-04-01,4,2019,Provincial Bonds_All,20783
-63,2019-04-01,4,2019,Provincial Bonds_Over 10 years,155063
-51,2019-04-01,4,2019,Provincial Bonds_Under 10 years,235794
-3,2019-04-01,4,2019,The Month_3-10 years,750943
-15,2019-04-01,4,2019,The Month_Over 10 years,256690
-27,2019-04-01,4,2019,The Month_Real Return Bonds,96745
-124,2019-05-01,5,2019,Asset-Backed Securities_All,24
-88,2019-05-01,5,2019,Corporate Bonds_Over 10 years,286
-76,2019-05-01,5,2019,Corporate Bonds_Under 10 years,14237
-40,2019-05-01,5,2019,Federal Crown Corporation Bonds_All,298037
-148,2019-05-01,5,2019,Government of Canada Bonds_All,75
-112,2019-05-01,5,2019,Mortgage Backed Securities_All,14007
-100,2019-05-01,5,2019,Municipal Bonds_All,1354
-136,2019-05-01,5,2019,Other Domestic Bonds_All,189
-172,2019-05-01,5,2019,Other_All,4478
-160,2019-05-01,5,2019,Provincial Bonds_All,16477
-64,2019-05-01,5,2019,Provincial Bonds_Over 10 years,132740
-52,2019-05-01,5,2019,Provincial Bonds_Under 10 years,214960
-4,2019-05-01,5,2019,The Month_3-10 years,897426
-16,2019-05-01,5,2019,The Month_Over 10 years,333450
-28,2019-05-01,5,2019,The Month_Real Return Bonds,110250
-125,2019-06-01,6,2019,Asset-Backed Securities_All,7
-89,2019-06-01,6,2019,Corporate Bonds_Over 10 years,341
-77,2019-06-01,6,2019,Corporate Bonds_Under 10 years,13690
-41,2019-06-01,6,2019,Federal Crown Corporation Bonds_All,253690
-149,2019-06-01,6,2019,Government of Canada Bonds_All,5
-113,2019-06-01,6,2019,Mortgage Backed Securities_All,13520
-101,2019-06-01,6,2019,Municipal Bonds_All,2053
-137,2019-06-01,6,2019,Other Domestic Bonds_All,91
-173,2019-06-01,6,2019,Other_All,4560
-161,2019-06-01,6,2019,Provincial Bonds_All,15261
-65,2019-06-01,6,2019,Provincial Bonds_Over 10 years,174474
-53,2019-06-01,6,2019,Provincial Bonds_Under 10 years,214202
-5,2019-06-01,6,2019,The Month_3-10 years,812010
-17,2019-06-01,6,2019,The Month_Over 10 years,185968
-29,2019-06-01,6,2019,The Month_Real Return Bonds,110093
-126,2019-07-01,7,2019,Asset-Backed Securities_All,24
-90,2019-07-01,7,2019,Corporate Bonds_Over 10 years,282
-78,2019-07-01,7,2019,Corporate Bonds_Under 10 years,15797
-42,2019-07-01,7,2019,Federal Crown Corporation Bonds_All,272435
-150,2019-07-01,7,2019,Government of Canada Bonds_All,161
-114,2019-07-01,7,2019,Mortgage Backed Securities_All,17482
-102,2019-07-01,7,2019,Municipal Bonds_All,2384
-138,2019-07-01,7,2019,Other Domestic Bonds_All,37
-174,2019-07-01,7,2019,Other_All,6801
-162,2019-07-01,7,2019,Provincial Bonds_All,21645
-66,2019-07-01,7,2019,Provincial Bonds_Over 10 years,167957
-54,2019-07-01,7,2019,Provincial Bonds_Under 10 years,234430
-6,2019-07-01,7,2019,The Month_3-10 years,838288
-18,2019-07-01,7,2019,The Month_Over 10 years,220495
-30,2019-07-01,7,2019,The Month_Real Return Bonds,97245
-127,2019-08-01,8,2019,Asset-Backed Securities_All,17
-91,2019-08-01,8,2019,Corporate Bonds_Over 10 years,327
-79,2019-08-01,8,2019,Corporate Bonds_Under 10 years,13178
-43,2019-08-01,8,2019,Federal Crown Corporation Bonds_All,267943
-151,2019-08-01,8,2019,Government of Canada Bonds_All,52
-115,2019-08-01,8,2019,Mortgage Backed Securities_All,23688
-103,2019-08-01,8,2019,Municipal Bonds_All,1334
-139,2019-08-01,8,2019,Other Domestic Bonds_All,59
-175,2019-08-01,8,2019,Other_All,6726
-163,2019-08-01,8,2019,Provincial Bonds_All,20588
-67,2019-08-01,8,2019,Provincial Bonds_Over 10 years,145598
-55,2019-08-01,8,2019,Provincial Bonds_Under 10 years,202786
-7,2019-08-01,8,2019,The Month_3-10 years,711189
-19,2019-08-01,8,2019,The Month_Over 10 years,229812
-31,2019-08-01,8,2019,The Month_Real Return Bonds,82339
-128,2019-09-01,9,2019,Asset-Backed Securities_All,17
-92,2019-09-01,9,2019,Corporate Bonds_Over 10 years,193
-80,2019-09-01,9,2019,Corporate Bonds_Under 10 years,12144
-44,2019-09-01,9,2019,Federal Crown Corporation Bonds_All,233081
-152,2019-09-01,9,2019,Government of Canada Bonds_All,87
-116,2019-09-01,9,2019,Mortgage Backed Securities_All,14824
-104,2019-09-01,9,2019,Municipal Bonds_All,2367
-140,2019-09-01,9,2019,Other Domestic Bonds_All,34
-176,2019-09-01,9,2019,Other_All,7468
-164,2019-09-01,9,2019,Provincial Bonds_All,17984
-68,2019-09-01,9,2019,Provincial Bonds_Over 10 years,169156
-56,2019-09-01,9,2019,Provincial Bonds_Under 10 years,213276
-8,2019-09-01,9,2019,The Month_3-10 years,601896
-20,2019-09-01,9,2019,The Month_Over 10 years,206527
-32,2019-09-01,9,2019,The Month_Real Return Bonds,119370
-129,2019-10-01,10,2019,Asset-Backed Securities_All,25
-93,2019-10-01,10,2019,Corporate Bonds_Over 10 years,350
-81,2019-10-01,10,2019,Corporate Bonds_Under 10 years,11413
-45,2019-10-01,10,2019,Federal Crown Corporation Bonds_All,257574
-153,2019-10-01,10,2019,Government of Canada Bonds_All,113
-117,2019-10-01,10,2019,Mortgage Backed Securities_All,23893
-105,2019-10-01,10,2019,Municipal Bonds_All,2556
-141,2019-10-01,10,2019,Other Domestic Bonds_All,32
-177,2019-10-01,10,2019,Other_All,5987
-165,2019-10-01,10,2019,Provincial Bonds_All,18251
-69,2019-10-01,10,2019,Provincial Bonds_Over 10 years,180947
-57,2019-10-01,10,2019,Provincial Bonds_Under 10 years,220721
-9,2019-10-01,10,2019,The Month_3-10 years,619621
-21,2019-10-01,10,2019,The Month_Over 10 years,249652
-33,2019-10-01,10,2019,The Month_Real Return Bonds,121518
-130,2019-11-01,11,2019,Asset-Backed Securities_All,54
-94,2019-11-01,11,2019,Corporate Bonds_Over 10 years,223
-82,2019-11-01,11,2019,Corporate Bonds_Under 10 years,9940
-46,2019-11-01,11,2019,Federal Crown Corporation Bonds_All,308897
-154,2019-11-01,11,2019,Government of Canada Bonds_All,76
-118,2019-11-01,11,2019,Mortgage Backed Securities_All,25485
-106,2019-11-01,11,2019,Municipal Bonds_All,2309
-142,2019-11-01,11,2019,Other Domestic Bonds_All,168
-178,2019-11-01,11,2019,Other_All,4396
-166,2019-11-01,11,2019,Provincial Bonds_All,19034
-70,2019-11-01,11,2019,Provincial Bonds_Over 10 years,182719
-58,2019-11-01,11,2019,Provincial Bonds_Under 10 years,233035
-10,2019-11-01,11,2019,The Month_3-10 years,695938
-22,2019-11-01,11,2019,The Month_Over 10 years,240741
-34,2019-11-01,11,2019,The Month_Real Return Bonds,108026
-131,2019-12-01,12,2019,Asset-Backed Securities_All,21
-95,2019-12-01,12,2019,Corporate Bonds_Over 10 years,830
-83,2019-12-01,12,2019,Corporate Bonds_Under 10 years,10565
-47,2019-12-01,12,2019,Federal Crown Corporation Bonds_All,347749
-155,2019-12-01,12,2019,Government of Canada Bonds_All,32
-119,2019-12-01,12,2019,Mortgage Backed Securities_All,28726
-107,2019-12-01,12,2019,Municipal Bonds_All,1015
-143,2019-12-01,12,2019,Other Domestic Bonds_All,9
-179,2019-12-01,12,2019,Other_All,4057
-167,2019-12-01,12,2019,Provincial Bonds_All,20968
-71,2019-12-01,12,2019,Provincial Bonds_Over 10 years,175575
-59,2019-12-01,12,2019,Provincial Bonds_Under 10 years,228326
-11,2019-12-01,12,2019,The Month_3-10 years,641359
-23,2019-12-01,12,2019,The Month_Over 10 years,262173
-35,2019-12-01,12,2019,The Month_Real Return Bonds,174102
+132,2018-01-01,1,2018,Asset-Backed Securities_All,0
+96,2018-01-01,1,2018,Corporate Bonds_Over 10 years,1489
+84,2018-01-01,1,2018,Corporate Bonds_Under 10 years,33221
+48,2018-01-01,1,2018,Federal Crown Corporation Bonds_All,219620
+12,2018-01-01,1,2018,Government of Canada Bonds_3-10 years,700671
+156,2018-01-01,1,2018,Government of Canada Bonds_All,1199
+24,2018-01-01,1,2018,Government of Canada Bonds_Over 10 years,182886
+36,2018-01-01,1,2018,Government of Canada Bonds_Real Return Bonds,70124
+0,2018-01-01,1,2018,Government of Canada Bonds_Under 3 years,345472
+120,2018-01-01,1,2018,Mortgage Backed Securities_All,30373
+108,2018-01-01,1,2018,Municipal Bonds_All,724
+144,2018-01-01,1,2018,Other Domestic Bonds_All,390
+180,2018-01-01,1,2018,Other_All,2081
+168,2018-01-01,1,2018,Provincial Bonds_All,7325
+72,2018-01-01,1,2018,Provincial Bonds_Over 10 years,75066
+60,2018-01-01,1,2018,Provincial Bonds_Under 10 years,203561
+133,2018-02-01,2,2018,Asset-Backed Securities_All,0
+97,2018-02-01,2,2018,Corporate Bonds_Over 10 years,843
+85,2018-02-01,2,2018,Corporate Bonds_Under 10 years,25208
+49,2018-02-01,2,2018,Federal Crown Corporation Bonds_All,157614
+13,2018-02-01,2,2018,Government of Canada Bonds_3-10 years,652981
+157,2018-02-01,2,2018,Government of Canada Bonds_All,578
+25,2018-02-01,2,2018,Government of Canada Bonds_Over 10 years,157302
+37,2018-02-01,2,2018,Government of Canada Bonds_Real Return Bonds,57871
+1,2018-02-01,2,2018,Government of Canada Bonds_Under 3 years,340826
+121,2018-02-01,2,2018,Mortgage Backed Securities_All,32149
+109,2018-02-01,2,2018,Municipal Bonds_All,1247
+145,2018-02-01,2,2018,Other Domestic Bonds_All,996
+181,2018-02-01,2,2018,Other_All,1303
+169,2018-02-01,2,2018,Provincial Bonds_All,4258
+73,2018-02-01,2,2018,Provincial Bonds_Over 10 years,67253
+61,2018-02-01,2,2018,Provincial Bonds_Under 10 years,151324
+134,2018-03-01,3,2018,Asset-Backed Securities_All,0
+98,2018-03-01,3,2018,Corporate Bonds_Over 10 years,1317
+86,2018-03-01,3,2018,Corporate Bonds_Under 10 years,29567
+50,2018-03-01,3,2018,Federal Crown Corporation Bonds_All,183978
+14,2018-03-01,3,2018,Government of Canada Bonds_3-10 years,641471
+158,2018-03-01,3,2018,Government of Canada Bonds_All,440
+26,2018-03-01,3,2018,Government of Canada Bonds_Over 10 years,182064
+38,2018-03-01,3,2018,Government of Canada Bonds_Real Return Bonds,56317
+2,2018-03-01,3,2018,Government of Canada Bonds_Under 3 years,400340
+122,2018-03-01,3,2018,Mortgage Backed Securities_All,16168
+110,2018-03-01,3,2018,Municipal Bonds_All,1634
+146,2018-03-01,3,2018,Other Domestic Bonds_All,701
+182,2018-03-01,3,2018,Other_All,4956
+170,2018-03-01,3,2018,Provincial Bonds_All,9150
+74,2018-03-01,3,2018,Provincial Bonds_Over 10 years,73530
+62,2018-03-01,3,2018,Provincial Bonds_Under 10 years,192559
+135,2018-04-01,4,2018,Asset-Backed Securities_All,17
+99,2018-04-01,4,2018,Corporate Bonds_Over 10 years,1128
+87,2018-04-01,4,2018,Corporate Bonds_Under 10 years,33218
+51,2018-04-01,4,2018,Federal Crown Corporation Bonds_All,190949
+15,2018-04-01,4,2018,Government of Canada Bonds_3-10 years,580843
+159,2018-04-01,4,2018,Government of Canada Bonds_All,2193
+27,2018-04-01,4,2018,Government of Canada Bonds_Over 10 years,161000
+39,2018-04-01,4,2018,Government of Canada Bonds_Real Return Bonds,54320
+3,2018-04-01,4,2018,Government of Canada Bonds_Under 3 years,439283
+123,2018-04-01,4,2018,Mortgage Backed Securities_All,15525
+111,2018-04-01,4,2018,Municipal Bonds_All,1340
+147,2018-04-01,4,2018,Other Domestic Bonds_All,1541
+183,2018-04-01,4,2018,Other_All,1367
+171,2018-04-01,4,2018,Provincial Bonds_All,2147
+75,2018-04-01,4,2018,Provincial Bonds_Over 10 years,82287
+63,2018-04-01,4,2018,Provincial Bonds_Under 10 years,161577
+136,2018-05-01,5,2018,Asset-Backed Securities_All,17
+100,2018-05-01,5,2018,Corporate Bonds_Over 10 years,1261
+88,2018-05-01,5,2018,Corporate Bonds_Under 10 years,30735
+52,2018-05-01,5,2018,Federal Crown Corporation Bonds_All,181194
+16,2018-05-01,5,2018,Government of Canada Bonds_3-10 years,635299
+160,2018-05-01,5,2018,Government of Canada Bonds_All,6775
+28,2018-05-01,5,2018,Government of Canada Bonds_Over 10 years,221547
+40,2018-05-01,5,2018,Government of Canada Bonds_Real Return Bonds,50762
+4,2018-05-01,5,2018,Government of Canada Bonds_Under 3 years,424529
+124,2018-05-01,5,2018,Mortgage Backed Securities_All,12347
+112,2018-05-01,5,2018,Municipal Bonds_All,1866
+148,2018-05-01,5,2018,Other Domestic Bonds_All,1487
+184,2018-05-01,5,2018,Other_All,2896
+172,2018-05-01,5,2018,Provincial Bonds_All,7310
+76,2018-05-01,5,2018,Provincial Bonds_Over 10 years,92056
+64,2018-05-01,5,2018,Provincial Bonds_Under 10 years,191229
+137,2018-06-01,6,2018,Asset-Backed Securities_All,34
+101,2018-06-01,6,2018,Corporate Bonds_Over 10 years,1700
+89,2018-06-01,6,2018,Corporate Bonds_Under 10 years,30529
+53,2018-06-01,6,2018,Federal Crown Corporation Bonds_All,195726
+17,2018-06-01,6,2018,Government of Canada Bonds_3-10 years,632726
+161,2018-06-01,6,2018,Government of Canada Bonds_All,1504
+29,2018-06-01,6,2018,Government of Canada Bonds_Over 10 years,136674
+41,2018-06-01,6,2018,Government of Canada Bonds_Real Return Bonds,55974
+5,2018-06-01,6,2018,Government of Canada Bonds_Under 3 years,476759
+125,2018-06-01,6,2018,Mortgage Backed Securities_All,12352
+113,2018-06-01,6,2018,Municipal Bonds_All,2901
+149,2018-06-01,6,2018,Other Domestic Bonds_All,1687
+185,2018-06-01,6,2018,Other_All,2577
+173,2018-06-01,6,2018,Provincial Bonds_All,4176
+77,2018-06-01,6,2018,Provincial Bonds_Over 10 years,72269
+65,2018-06-01,6,2018,Provincial Bonds_Under 10 years,194081
+138,2018-07-01,7,2018,Asset-Backed Securities_All,0
+102,2018-07-01,7,2018,Corporate Bonds_Over 10 years,2452
+90,2018-07-01,7,2018,Corporate Bonds_Under 10 years,42442
+54,2018-07-01,7,2018,Federal Crown Corporation Bonds_All,221342
+18,2018-07-01,7,2018,Government of Canada Bonds_3-10 years,610724
+162,2018-07-01,7,2018,Government of Canada Bonds_All,364
+30,2018-07-01,7,2018,Government of Canada Bonds_Over 10 years,139986
+42,2018-07-01,7,2018,Government of Canada Bonds_Real Return Bonds,63715
+6,2018-07-01,7,2018,Government of Canada Bonds_Under 3 years,451729
+126,2018-07-01,7,2018,Mortgage Backed Securities_All,10987
+114,2018-07-01,7,2018,Municipal Bonds_All,1420
+150,2018-07-01,7,2018,Other Domestic Bonds_All,2106
+186,2018-07-01,7,2018,Other_All,2366
+174,2018-07-01,7,2018,Provincial Bonds_All,5430
+78,2018-07-01,7,2018,Provincial Bonds_Over 10 years,91989
+66,2018-07-01,7,2018,Provincial Bonds_Under 10 years,222184
+139,2018-08-01,8,2018,Asset-Backed Securities_All,17
+103,2018-08-01,8,2018,Corporate Bonds_Over 10 years,1243
+91,2018-08-01,8,2018,Corporate Bonds_Under 10 years,30457
+55,2018-08-01,8,2018,Federal Crown Corporation Bonds_All,246840
+19,2018-08-01,8,2018,Government of Canada Bonds_3-10 years,780753
+163,2018-08-01,8,2018,Government of Canada Bonds_All,490
+31,2018-08-01,8,2018,Government of Canada Bonds_Over 10 years,199462
+43,2018-08-01,8,2018,Government of Canada Bonds_Real Return Bonds,62146
+7,2018-08-01,8,2018,Government of Canada Bonds_Under 3 years,549206
+127,2018-08-01,8,2018,Mortgage Backed Securities_All,16884
+115,2018-08-01,8,2018,Municipal Bonds_All,1769
+151,2018-08-01,8,2018,Other Domestic Bonds_All,2641
+187,2018-08-01,8,2018,Other_All,2599
+175,2018-08-01,8,2018,Provincial Bonds_All,7515
+79,2018-08-01,8,2018,Provincial Bonds_Over 10 years,95810
+67,2018-08-01,8,2018,Provincial Bonds_Under 10 years,213960
+140,2018-09-01,9,2018,Asset-Backed Securities_All,17
+104,2018-09-01,9,2018,Corporate Bonds_Over 10 years,2273
+92,2018-09-01,9,2018,Corporate Bonds_Under 10 years,25966
+56,2018-09-01,9,2018,Federal Crown Corporation Bonds_All,276629
+20,2018-09-01,9,2018,Government of Canada Bonds_3-10 years,651170
+164,2018-09-01,9,2018,Government of Canada Bonds_All,25
+32,2018-09-01,9,2018,Government of Canada Bonds_Over 10 years,170621
+44,2018-09-01,9,2018,Government of Canada Bonds_Real Return Bonds,65244
+8,2018-09-01,9,2018,Government of Canada Bonds_Under 3 years,504211
+128,2018-09-01,9,2018,Mortgage Backed Securities_All,15857
+116,2018-09-01,9,2018,Municipal Bonds_All,1635
+152,2018-09-01,9,2018,Other Domestic Bonds_All,1236
+188,2018-09-01,9,2018,Other_All,4311
+176,2018-09-01,9,2018,Provincial Bonds_All,9353
+80,2018-09-01,9,2018,Provincial Bonds_Over 10 years,97023
+68,2018-09-01,9,2018,Provincial Bonds_Under 10 years,205266
+141,2018-10-01,10,2018,Asset-Backed Securities_All,17
+105,2018-10-01,10,2018,Corporate Bonds_Over 10 years,2274
+93,2018-10-01,10,2018,Corporate Bonds_Under 10 years,27938
+57,2018-10-01,10,2018,Federal Crown Corporation Bonds_All,273678
+21,2018-10-01,10,2018,Government of Canada Bonds_3-10 years,720605
+165,2018-10-01,10,2018,Government of Canada Bonds_All,118
+33,2018-10-01,10,2018,Government of Canada Bonds_Over 10 years,270957
+45,2018-10-01,10,2018,Government of Canada Bonds_Real Return Bonds,85716
+9,2018-10-01,10,2018,Government of Canada Bonds_Under 3 years,571113
+129,2018-10-01,10,2018,Mortgage Backed Securities_All,16670
+117,2018-10-01,10,2018,Municipal Bonds_All,3147
+153,2018-10-01,10,2018,Other Domestic Bonds_All,1130
+189,2018-10-01,10,2018,Other_All,8534
+177,2018-10-01,10,2018,Provincial Bonds_All,7800
+81,2018-10-01,10,2018,Provincial Bonds_Over 10 years,107790
+69,2018-10-01,10,2018,Provincial Bonds_Under 10 years,250259
+142,2018-11-01,11,2018,Asset-Backed Securities_All,17
+106,2018-11-01,11,2018,Corporate Bonds_Over 10 years,2965
+94,2018-11-01,11,2018,Corporate Bonds_Under 10 years,36554
+58,2018-11-01,11,2018,Federal Crown Corporation Bonds_All,221567
+22,2018-11-01,11,2018,Government of Canada Bonds_3-10 years,656791
+166,2018-11-01,11,2018,Government of Canada Bonds_All,30
+34,2018-11-01,11,2018,Government of Canada Bonds_Over 10 years,222247
+46,2018-11-01,11,2018,Government of Canada Bonds_Real Return Bonds,73761
+10,2018-11-01,11,2018,Government of Canada Bonds_Under 3 years,551198
+130,2018-11-01,11,2018,Mortgage Backed Securities_All,17771
+118,2018-11-01,11,2018,Municipal Bonds_All,2649
+154,2018-11-01,11,2018,Other Domestic Bonds_All,1122
+190,2018-11-01,11,2018,Other_All,3754
+178,2018-11-01,11,2018,Provincial Bonds_All,9777
+82,2018-11-01,11,2018,Provincial Bonds_Over 10 years,124459
+70,2018-11-01,11,2018,Provincial Bonds_Under 10 years,263620
+143,2018-12-01,12,2018,Asset-Backed Securities_All,66
+107,2018-12-01,12,2018,Corporate Bonds_Over 10 years,2044
+95,2018-12-01,12,2018,Corporate Bonds_Under 10 years,33444
+59,2018-12-01,12,2018,Federal Crown Corporation Bonds_All,250673
+23,2018-12-01,12,2018,Government of Canada Bonds_3-10 years,583984
+167,2018-12-01,12,2018,Government of Canada Bonds_All,16
+35,2018-12-01,12,2018,Government of Canada Bonds_Over 10 years,223550
+47,2018-12-01,12,2018,Government of Canada Bonds_Real Return Bonds,78982
+11,2018-12-01,12,2018,Government of Canada Bonds_Under 3 years,411461
+131,2018-12-01,12,2018,Mortgage Backed Securities_All,13026
+119,2018-12-01,12,2018,Municipal Bonds_All,2277
+155,2018-12-01,12,2018,Other Domestic Bonds_All,1134
+191,2018-12-01,12,2018,Other_All,2482
+179,2018-12-01,12,2018,Provincial Bonds_All,9104
+83,2018-12-01,12,2018,Provincial Bonds_Over 10 years,137744
+71,2018-12-01,12,2018,Provincial Bonds_Under 10 years,252610
+132,2019-01-01,1,2019,Asset-Backed Securities_All,17
+96,2019-01-01,1,2019,Corporate Bonds_Over 10 years,806
+84,2019-01-01,1,2019,Corporate Bonds_Under 10 years,42099
+48,2019-01-01,1,2019,Federal Crown Corporation Bonds_All,301584
+12,2019-01-01,1,2019,Government of Canada Bonds_3-10 years,768034
+156,2019-01-01,1,2019,Government of Canada Bonds_All,320
+24,2019-01-01,1,2019,Government of Canada Bonds_Over 10 years,229971
+36,2019-01-01,1,2019,Government of Canada Bonds_Real Return Bonds,78678
+0,2019-01-01,1,2019,Government of Canada Bonds_Under 3 years,537473
+120,2019-01-01,1,2019,Mortgage Backed Securities_All,13144
+108,2019-01-01,1,2019,Municipal Bonds_All,2285
+144,2019-01-01,1,2019,Other Domestic Bonds_All,659
+180,2019-01-01,1,2019,Other_All,2912
+168,2019-01-01,1,2019,Provincial Bonds_All,16133
+72,2019-01-01,1,2019,Provincial Bonds_Over 10 years,179574
+60,2019-01-01,1,2019,Provincial Bonds_Under 10 years,265900
+133,2019-02-01,2,2019,Asset-Backed Securities_All,17
+97,2019-02-01,2,2019,Corporate Bonds_Over 10 years,216
+85,2019-02-01,2,2019,Corporate Bonds_Under 10 years,44341
+49,2019-02-01,2,2019,Federal Crown Corporation Bonds_All,214305
+13,2019-02-01,2,2019,Government of Canada Bonds_3-10 years,666256
+157,2019-02-01,2,2019,Government of Canada Bonds_All,92
+25,2019-02-01,2,2019,Government of Canada Bonds_Over 10 years,212306
+37,2019-02-01,2,2019,Government of Canada Bonds_Real Return Bonds,68600
+1,2019-02-01,2,2019,Government of Canada Bonds_Under 3 years,412086
+121,2019-02-01,2,2019,Mortgage Backed Securities_All,13785
+109,2019-02-01,2,2019,Municipal Bonds_All,1580
+145,2019-02-01,2,2019,Other Domestic Bonds_All,1208
+181,2019-02-01,2,2019,Other_All,2555
+169,2019-02-01,2,2019,Provincial Bonds_All,14423
+73,2019-02-01,2,2019,Provincial Bonds_Over 10 years,159424
+61,2019-02-01,2,2019,Provincial Bonds_Under 10 years,235285
+134,2019-03-01,3,2019,Asset-Backed Securities_All,21
+98,2019-03-01,3,2019,Corporate Bonds_Over 10 years,275
+86,2019-03-01,3,2019,Corporate Bonds_Under 10 years,51037
+50,2019-03-01,3,2019,Federal Crown Corporation Bonds_All,219548
+14,2019-03-01,3,2019,Government of Canada Bonds_3-10 years,719402
+158,2019-03-01,3,2019,Government of Canada Bonds_All,2
+26,2019-03-01,3,2019,Government of Canada Bonds_Over 10 years,215402
+38,2019-03-01,3,2019,Government of Canada Bonds_Real Return Bonds,100904
+2,2019-03-01,3,2019,Government of Canada Bonds_Under 3 years,534474
+122,2019-03-01,3,2019,Mortgage Backed Securities_All,11301
+110,2019-03-01,3,2019,Municipal Bonds_All,1256
+146,2019-03-01,3,2019,Other Domestic Bonds_All,679
+182,2019-03-01,3,2019,Other_All,2585
+170,2019-03-01,3,2019,Provincial Bonds_All,11349
+74,2019-03-01,3,2019,Provincial Bonds_Over 10 years,152571
+62,2019-03-01,3,2019,Provincial Bonds_Under 10 years,247465
+135,2019-04-01,4,2019,Asset-Backed Securities_All,44
+99,2019-04-01,4,2019,Corporate Bonds_Over 10 years,455
+87,2019-04-01,4,2019,Corporate Bonds_Under 10 years,43372
+51,2019-04-01,4,2019,Federal Crown Corporation Bonds_All,260540
+15,2019-04-01,4,2019,Government of Canada Bonds_3-10 years,750943
+159,2019-04-01,4,2019,Government of Canada Bonds_All,176
+27,2019-04-01,4,2019,Government of Canada Bonds_Over 10 years,256690
+39,2019-04-01,4,2019,Government of Canada Bonds_Real Return Bonds,96745
+3,2019-04-01,4,2019,Government of Canada Bonds_Under 3 years,580686
+123,2019-04-01,4,2019,Mortgage Backed Securities_All,23047
+111,2019-04-01,4,2019,Municipal Bonds_All,700
+147,2019-04-01,4,2019,Other Domestic Bonds_All,136
+183,2019-04-01,4,2019,Other_All,2507
+171,2019-04-01,4,2019,Provincial Bonds_All,20783
+75,2019-04-01,4,2019,Provincial Bonds_Over 10 years,155063
+63,2019-04-01,4,2019,Provincial Bonds_Under 10 years,235794
+136,2019-05-01,5,2019,Asset-Backed Securities_All,24
+100,2019-05-01,5,2019,Corporate Bonds_Over 10 years,286
+88,2019-05-01,5,2019,Corporate Bonds_Under 10 years,14237
+52,2019-05-01,5,2019,Federal Crown Corporation Bonds_All,298037
+16,2019-05-01,5,2019,Government of Canada Bonds_3-10 years,897426
+160,2019-05-01,5,2019,Government of Canada Bonds_All,75
+28,2019-05-01,5,2019,Government of Canada Bonds_Over 10 years,333450
+40,2019-05-01,5,2019,Government of Canada Bonds_Real Return Bonds,110250
+4,2019-05-01,5,2019,Government of Canada Bonds_Under 3 years,547376
+124,2019-05-01,5,2019,Mortgage Backed Securities_All,14007
+112,2019-05-01,5,2019,Municipal Bonds_All,1354
+148,2019-05-01,5,2019,Other Domestic Bonds_All,189
+184,2019-05-01,5,2019,Other_All,4478
+172,2019-05-01,5,2019,Provincial Bonds_All,16477
+76,2019-05-01,5,2019,Provincial Bonds_Over 10 years,132740
+64,2019-05-01,5,2019,Provincial Bonds_Under 10 years,214960
+137,2019-06-01,6,2019,Asset-Backed Securities_All,7
+101,2019-06-01,6,2019,Corporate Bonds_Over 10 years,341
+89,2019-06-01,6,2019,Corporate Bonds_Under 10 years,13690
+53,2019-06-01,6,2019,Federal Crown Corporation Bonds_All,253690
+17,2019-06-01,6,2019,Government of Canada Bonds_3-10 years,812010
+161,2019-06-01,6,2019,Government of Canada Bonds_All,5
+29,2019-06-01,6,2019,Government of Canada Bonds_Over 10 years,185968
+41,2019-06-01,6,2019,Government of Canada Bonds_Real Return Bonds,110093
+5,2019-06-01,6,2019,Government of Canada Bonds_Under 3 years,459909
+125,2019-06-01,6,2019,Mortgage Backed Securities_All,13520
+113,2019-06-01,6,2019,Municipal Bonds_All,2053
+149,2019-06-01,6,2019,Other Domestic Bonds_All,91
+185,2019-06-01,6,2019,Other_All,4560
+173,2019-06-01,6,2019,Provincial Bonds_All,15261
+77,2019-06-01,6,2019,Provincial Bonds_Over 10 years,174474
+65,2019-06-01,6,2019,Provincial Bonds_Under 10 years,214202
+138,2019-07-01,7,2019,Asset-Backed Securities_All,24
+102,2019-07-01,7,2019,Corporate Bonds_Over 10 years,282
+90,2019-07-01,7,2019,Corporate Bonds_Under 10 years,15797
+54,2019-07-01,7,2019,Federal Crown Corporation Bonds_All,272435
+18,2019-07-01,7,2019,Government of Canada Bonds_3-10 years,838288
+162,2019-07-01,7,2019,Government of Canada Bonds_All,161
+30,2019-07-01,7,2019,Government of Canada Bonds_Over 10 years,220495
+42,2019-07-01,7,2019,Government of Canada Bonds_Real Return Bonds,97245
+6,2019-07-01,7,2019,Government of Canada Bonds_Under 3 years,568490
+126,2019-07-01,7,2019,Mortgage Backed Securities_All,17482
+114,2019-07-01,7,2019,Municipal Bonds_All,2384
+150,2019-07-01,7,2019,Other Domestic Bonds_All,37
+186,2019-07-01,7,2019,Other_All,6801
+174,2019-07-01,7,2019,Provincial Bonds_All,21645
+78,2019-07-01,7,2019,Provincial Bonds_Over 10 years,167957
+66,2019-07-01,7,2019,Provincial Bonds_Under 10 years,234430
+139,2019-08-01,8,2019,Asset-Backed Securities_All,17
+103,2019-08-01,8,2019,Corporate Bonds_Over 10 years,327
+91,2019-08-01,8,2019,Corporate Bonds_Under 10 years,13178
+55,2019-08-01,8,2019,Federal Crown Corporation Bonds_All,267943
+19,2019-08-01,8,2019,Government of Canada Bonds_3-10 years,711189
+163,2019-08-01,8,2019,Government of Canada Bonds_All,52
+31,2019-08-01,8,2019,Government of Canada Bonds_Over 10 years,229812
+43,2019-08-01,8,2019,Government of Canada Bonds_Real Return Bonds,82339
+7,2019-08-01,8,2019,Government of Canada Bonds_Under 3 years,500707
+127,2019-08-01,8,2019,Mortgage Backed Securities_All,23688
+115,2019-08-01,8,2019,Municipal Bonds_All,1334
+151,2019-08-01,8,2019,Other Domestic Bonds_All,59
+187,2019-08-01,8,2019,Other_All,6726
+175,2019-08-01,8,2019,Provincial Bonds_All,20588
+79,2019-08-01,8,2019,Provincial Bonds_Over 10 years,145598
+67,2019-08-01,8,2019,Provincial Bonds_Under 10 years,202786
+140,2019-09-01,9,2019,Asset-Backed Securities_All,17
+104,2019-09-01,9,2019,Corporate Bonds_Over 10 years,193
+92,2019-09-01,9,2019,Corporate Bonds_Under 10 years,12144
+56,2019-09-01,9,2019,Federal Crown Corporation Bonds_All,233081
+20,2019-09-01,9,2019,Government of Canada Bonds_3-10 years,601896
+164,2019-09-01,9,2019,Government of Canada Bonds_All,87
+32,2019-09-01,9,2019,Government of Canada Bonds_Over 10 years,206527
+44,2019-09-01,9,2019,Government of Canada Bonds_Real Return Bonds,119370
+8,2019-09-01,9,2019,Government of Canada Bonds_Under 3 years,627307
+128,2019-09-01,9,2019,Mortgage Backed Securities_All,14824
+116,2019-09-01,9,2019,Municipal Bonds_All,2367
+152,2019-09-01,9,2019,Other Domestic Bonds_All,34
+188,2019-09-01,9,2019,Other_All,7468
+176,2019-09-01,9,2019,Provincial Bonds_All,17984
+80,2019-09-01,9,2019,Provincial Bonds_Over 10 years,169156
+68,2019-09-01,9,2019,Provincial Bonds_Under 10 years,213276
+141,2019-10-01,10,2019,Asset-Backed Securities_All,25
+105,2019-10-01,10,2019,Corporate Bonds_Over 10 years,350
+93,2019-10-01,10,2019,Corporate Bonds_Under 10 years,11413
+57,2019-10-01,10,2019,Federal Crown Corporation Bonds_All,257574
+21,2019-10-01,10,2019,Government of Canada Bonds_3-10 years,619621
+165,2019-10-01,10,2019,Government of Canada Bonds_All,113
+33,2019-10-01,10,2019,Government of Canada Bonds_Over 10 years,249652
+45,2019-10-01,10,2019,Government of Canada Bonds_Real Return Bonds,121518
+9,2019-10-01,10,2019,Government of Canada Bonds_Under 3 years,620441
+129,2019-10-01,10,2019,Mortgage Backed Securities_All,23893
+117,2019-10-01,10,2019,Municipal Bonds_All,2556
+153,2019-10-01,10,2019,Other Domestic Bonds_All,32
+189,2019-10-01,10,2019,Other_All,5987
+177,2019-10-01,10,2019,Provincial Bonds_All,18251
+81,2019-10-01,10,2019,Provincial Bonds_Over 10 years,180947
+69,2019-10-01,10,2019,Provincial Bonds_Under 10 years,220721
+142,2019-11-01,11,2019,Asset-Backed Securities_All,54
+106,2019-11-01,11,2019,Corporate Bonds_Over 10 years,223
+94,2019-11-01,11,2019,Corporate Bonds_Under 10 years,9940
+58,2019-11-01,11,2019,Federal Crown Corporation Bonds_All,308897
+22,2019-11-01,11,2019,Government of Canada Bonds_3-10 years,695938
+166,2019-11-01,11,2019,Government of Canada Bonds_All,76
+34,2019-11-01,11,2019,Government of Canada Bonds_Over 10 years,240741
+46,2019-11-01,11,2019,Government of Canada Bonds_Real Return Bonds,108026
+10,2019-11-01,11,2019,Government of Canada Bonds_Under 3 years,494701
+130,2019-11-01,11,2019,Mortgage Backed Securities_All,25485
+118,2019-11-01,11,2019,Municipal Bonds_All,2309
+154,2019-11-01,11,2019,Other Domestic Bonds_All,168
+190,2019-11-01,11,2019,Other_All,4396
+178,2019-11-01,11,2019,Provincial Bonds_All,19034
+82,2019-11-01,11,2019,Provincial Bonds_Over 10 years,182719
+70,2019-11-01,11,2019,Provincial Bonds_Under 10 years,233035
+143,2019-12-01,12,2019,Asset-Backed Securities_All,21
+107,2019-12-01,12,2019,Corporate Bonds_Over 10 years,830
+95,2019-12-01,12,2019,Corporate Bonds_Under 10 years,10565
+59,2019-12-01,12,2019,Federal Crown Corporation Bonds_All,347749
+23,2019-12-01,12,2019,Government of Canada Bonds_3-10 years,641359
+167,2019-12-01,12,2019,Government of Canada Bonds_All,32
+35,2019-12-01,12,2019,Government of Canada Bonds_Over 10 years,262173
+47,2019-12-01,12,2019,Government of Canada Bonds_Real Return Bonds,174102
+11,2019-12-01,12,2019,Government of Canada Bonds_Under 3 years,555212
+131,2019-12-01,12,2019,Mortgage Backed Securities_All,28726
+119,2019-12-01,12,2019,Municipal Bonds_All,1015
+155,2019-12-01,12,2019,Other Domestic Bonds_All,9
+191,2019-12-01,12,2019,Other_All,4057
+179,2019-12-01,12,2019,Provincial Bonds_All,20968
+83,2019-12-01,12,2019,Provincial Bonds_Over 10 years,175575
+71,2019-12-01,12,2019,Provincial Bonds_Under 10 years,228326
 180,2020-01-01,1,2020,Asset-Backed Securities_All,17.74
 132,2020-01-01,1,2020,Corporate Bonds_3-10 years,6039.169631
 144,2020-01-01,1,2020,Corporate Bonds_Over 10 years,1206.175705
